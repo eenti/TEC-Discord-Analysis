@@ -7762,7 +7762,7 @@
     },
     {
       "id": "1029448464226078781",
-      "type": "20",
+      "type": "Default",
       "timestamp": "2022-10-11T17:40:40.099+00:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
@@ -7816,7 +7816,7 @@
     },
     {
       "id": "1029450030358200320",
-      "type": "20",
+      "type": "Default",
       "timestamp": "2022-10-11T17:46:53.494+00:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
@@ -7847,7 +7847,7 @@
     },
     {
       "id": "1029450518805880923",
-      "type": "20",
+      "type": "Default",
       "timestamp": "2022-10-11T17:48:49.949+00:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
@@ -8306,7 +8306,7 @@
     },
     {
       "id": "1035584797243875329",
-      "type": "20",
+      "type": "Default",
       "timestamp": "2022-10-28T16:04:15.898+00:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,

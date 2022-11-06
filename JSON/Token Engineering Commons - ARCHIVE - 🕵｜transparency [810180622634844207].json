@@ -17519,7 +17519,7 @@
     },
     {
       "id": "1032713456895414292",
-      "type": "20",
+      "type": "Default",
       "timestamp": "2022-10-20T17:54:35.012+00:00",
       "timestampEdited": "2022-10-20T19:20:41.072+00:00",
       "callEndedTimestamp": null,
@@ -17549,7 +17549,7 @@
     },
     {
       "id": "1032714036577583134",
-      "type": "20",
+      "type": "Default",
       "timestamp": "2022-10-20T17:56:53.219+00:00",
       "timestampEdited": "2022-10-20T17:56:53.306+00:00",
       "callEndedTimestamp": null,

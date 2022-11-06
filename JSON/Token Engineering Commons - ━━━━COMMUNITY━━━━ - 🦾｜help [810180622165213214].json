@@ -19086,7 +19086,7 @@
     },
     {
       "id": "978638509910941736",
-      "type": "20",
+      "type": "Default",
       "timestamp": "2022-05-24T12:40:02.987+00:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
@@ -20362,7 +20362,7 @@
     },
     {
       "id": "984867105918824509",
-      "type": "20",
+      "type": "Default",
       "timestamp": "2022-06-10T17:10:15.997+00:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,

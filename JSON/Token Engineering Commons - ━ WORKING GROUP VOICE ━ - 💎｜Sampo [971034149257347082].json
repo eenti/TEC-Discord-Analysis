@@ -1402,7 +1402,7 @@
     },
     {
       "id": "1004802605639290890",
-      "type": "20",
+      "type": "Default",
       "timestamp": "2022-08-04T17:26:49.514+00:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
