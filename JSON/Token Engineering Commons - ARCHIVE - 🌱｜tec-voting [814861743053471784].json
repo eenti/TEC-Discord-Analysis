@@ -1,0 +1,2061 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "814861743053471784",
+    "type": "GuildTextChat",
+    "categoryId": "810180623120597024",
+    "category": "ARCHIVE",
+    "name": "\uD83C\uDF31｜tec-voting",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "814929754402586674",
+      "type": "Default",
+      "timestamp": "2021-02-26T18:39:54.112+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83C\uDF09",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814930216634810428",
+      "type": "Default",
+      "timestamp": "2021-02-26T18:41:44.317+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bridge-bot needs to have permission to join this room \uD83D\uDE42",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814958545279254529",
+      "type": "Default",
+      "timestamp": "2021-02-26T20:34:18.392+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think it should have those",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814958553567723571",
+      "type": "Default",
+      "timestamp": "2021-02-26T20:34:20.368+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "now",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "818439586430189569",
+      "type": "Default",
+      "timestamp": "2021-03-08T11:06:43.277+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SourceCred Committee Proposal! Voting session closes today https://forum.tecommons.org/t/sourcecred-committee-proposal/271",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SourceCred Committee Proposal",
+          "url": "https://forum.tecommons.org/t/sourcecred-committee-proposal/271",
+          "timestamp": null,
+          "description": "Proposal Title \uD83D\uDCB8 SourceCred Committee \uD83D\uDCB8  Proposal Information Proposal Description:  What is an accurate and detailed description of what you are proposing?  The creation of a committee to be responsible for SourceCred decisions like:    Which tokens are going to be distributed:  Once the Commons is fully upgraded post Hatch we can make this dec...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hiGOV8UhsNOTXqknxy8lJTc7E_i-aq0HgAwlMFPFDKk/https/forum.tecommons.org/uploads/default/original/1X/d1ad552597a05271f89ba5495ca10ff725fc694b.png",
+            "width": 580,
+            "height": 158
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849260729307627560",
+      "type": "Default",
+      "timestamp": "2021-06-01T12:18:56.368+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/sponge-bob-sponge-bob-mail-postman-election-day-vote-gif-18099193",
+      "author": {
+        "id": "786574925951008788",
+        "name": "Suga",
+        "discriminator": "8514",
+        "nickname": "Suga",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/sponge-bob-sponge-bob-mail-postman-election-day-vote-gif-18099193",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Y-nRSXPNT5GsmNuAt4jk_RFvet8cet4Jm4MSblbMZZw/https/media.tenor.co/images/c8a5e3f2f5045fdfa25427b2631492ad/tenor.png",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f973.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44f.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD72",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f972.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "849260772303044608",
+      "type": "Default",
+      "timestamp": "2021-06-01T12:19:06.619+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I voted!",
+      "author": {
+        "id": "786574925951008788",
+        "name": "Suga",
+        "discriminator": "8514",
+        "nickname": "Suga",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/786574925951008788/aa3a5bd5ebdc16d307f1f2fcd1c9e587.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "850033596056076369",
+      "type": "Default",
+      "timestamp": "2021-06-03T15:30:02.16+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*testing the bridge*",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "850033637096816701",
+      "type": "Default",
+      "timestamp": "2021-06-03T15:30:11.945+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "works",
+      "author": {
+        "id": "814928347477049344",
+        "name": "geleeroyale",
+        "discriminator": "0000",
+        "nickname": "geleeroyale",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/814928347477049344/2d5cc8b7e2a985116b7dff8b939b4801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "850034288123576330",
+      "type": "Default",
+      "timestamp": "2021-06-03T15:32:47.162+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "something is strange - after restart the problem is different",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "850628099368419329",
+      "type": "Default",
+      "timestamp": "2021-06-05T06:52:22.795+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello friends. There is a vote going on this weekeend about using Celeste as the TECommons arbitrator. Read and vote here:  https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Using Celeste as TECommons arbitrator",
+          "url": "https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409",
+          "timestamp": null,
+          "description": "Using Celeste as TECommons arbitrator  Proposal Information Proposal Description:  With the Commons Upgrade, we are going to use Disputable Voting and Disputable Conviction Voting. Disputable means that proposals can be challanged meanwhile they are voted. When a challenging happens, an Arbitrator decides if the proposal should be canceled or if...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FiLYemr9vU9t6ar99pr3YX_nI9qtis21eS1PnzzJBbk/https/forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C\uD83C\uDFFD",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c-1f3fd.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "851404660501381120",
+      "type": "Default",
+      "timestamp": "2021-06-07T10:18:09.397+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*bridgetest*",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "851404734388109342",
+      "type": "Default",
+      "timestamp": "2021-06-07T10:18:27.013+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*testing the bridge*",
+      "author": {
+        "id": "814928347477049344",
+        "name": "geleeroyale",
+        "discriminator": "0000",
+        "nickname": "geleeroyale",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/814928347477049344/2d5cc8b7e2a985116b7dff8b939b4801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "851404783025258526",
+      "type": "Default",
+      "timestamp": "2021-06-07T10:18:38.609+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also works only te->tec",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "859872299121508382",
+      "type": "Default",
+      "timestamp": "2021-06-30T19:05:31.765+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @everyone the Impact Hour voting session is running until tomorrow at 8pm CET on Tokenlog https://tokenlog.xyz/CommonsBuild/IH-intervention \nConnect to xDAI network and pick your favorite proposal! \n\n\uD83C\uDF31 This issue matters to every TEC stakeholder \uD83C\uDF31 \n\nThe last debate before the vote closes will happen tomorrow at 6:30pm CET",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tokenlog · Token-weighted backlogs",
+          "url": "https://tokenlog.xyz/CommonsBuild/IH-intervention",
+          "timestamp": null,
+          "description": "Democratize your open-source software project. A better way for projects to collaborate with their biggest supporters.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/IVr0yfOtHwO2_Cv269jg_geQknYl_biggoghx3zmX88/https/tokenlog.xyz/icon.png",
+            "width": 240,
+            "height": 240
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "835016327542210560",
+            "name": "TEC",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/835016327542210560.png"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDDF3️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f5f3.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "859913858637627442",
+      "type": "Default",
+      "timestamp": "2021-06-30T21:50:40.326+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Whoa powerful",
+      "author": {
+        "id": "659828514924658688",
+        "name": "ygg_anderson",
+        "discriminator": "4998",
+        "nickname": "ygg_anderson",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "859913855312330792",
+          "url": "https://cdn.discordapp.com/attachments/814861743053471784/859913855312330792/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 100035
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF31",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f331.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF1E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f31e.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "✨",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2728.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "860267076605837383",
+      "type": "Default",
+      "timestamp": "2021-07-01T21:14:14.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Votes were extended for 24h! So the deadline for the primaries is July 2nd at 8:30pmCET - right after that we’ll have a session to work on the runoff!",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "860320454157664288",
+      "type": "Default",
+      "timestamp": "2021-07-02T00:46:20.252+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I posted a pretty passionate comment on the leading proposal.\n\nGet the warrior spirit going.\nhttps://github.com/CommonsBuild/IH-intervention/issues/1#issuecomment-872560758",
+      "author": {
+        "id": "659828514924658688",
+        "name": "ygg_anderson",
+        "discriminator": "4998",
+        "nickname": "ygg_anderson",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "When the best intervention is not to intervene · Issue #1 · Commons...",
+          "url": "https://github.com/CommonsBuild/IH-intervention/issues/1",
+          "timestamp": null,
+          "description": "When the best intervention is to not intervine Praise Analysis Dashboard 1. Does this proposal address that some categories may be under rewarded and others over rewarded? No 2. Does this proposal ...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/5bBYMxoTB744gzNIj6wXy_IribTp59WM4NLOZgvgm3I/https/opengraph.githubassets.com/918c20016f3de9c239f06923bb4632ee79b83e356eae459db6b1c6afd31c49af/CommonsBuild/IH-intervention/issues/1",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860494616175312926",
+      "type": "Default",
+      "timestamp": "2021-07-02T12:18:23.713+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello @everyone I got curious and took a look at the json raw voting data on the tokenlog page. Having seen these results it feels that this data can help inform our voting designs and the current discussion about IH distribution.\n\nhttps://hackmd.io/@KNlVuZ6DRninKfubrrwtzg/r1590is3O",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Disclaimer - HackMD",
+          "url": "https://hackmd.io/@KNlVuZ6DRninKfubrrwtzg/r1590is3O",
+          "timestamp": null,
+          "description": "# Disclaimer No system is perfect.   We are at the vanguard of self governance.  We learn with every",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ODZX0MVdBKhDddqkqWyAFUgpI1fRRCn2Q3Ldgj1nuqE/https/lh3.googleusercontent.com/a-/AOh14GipYO5bA22xR8nYmmeKodTOuUtUDqpu7tsKh-NFEAk%3Ds96-c",
+            "width": 96,
+            "height": 96
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF31",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f331.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F\uD83C\uDFFC",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64f-1f3fc.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDDF3️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f5f3.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "860499315650986004",
+      "type": "Reply",
+      "timestamp": "2021-07-02T12:37:04.155+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Really interesting. Do you know if the rounding of the square root is going to be done this way?",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "751417874886688798",
+          "name": "Tamarandom",
+          "discriminator": "9361",
+          "nickname": "Tamarandom",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "860494616175312926",
+        "channelId": "814861743053471784",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "860499904911638568",
+      "type": "Default",
+      "timestamp": "2021-07-02T12:39:24.646+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For instance, User A has 100401 voting power. They dispersed 316 and 33. $316^2 + 33^2 = 100945$. This rounding gives them the effect of extra 500 voting power.",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860501818105397298",
+      "type": "Reply",
+      "timestamp": "2021-07-02T12:47:00.787+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@wslyvh might be the one to answer this :)",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "699811072282066945",
+          "name": "\uD83D\uDC19 octopus",
+          "discriminator": "5508",
+          "nickname": "\uD83D\uDC19 octopus",
+          "isBot": false
+        },
+        {
+          "id": "615886828582469635",
+          "name": "wslyvh",
+          "discriminator": "1059",
+          "nickname": "wslyvh",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "860499904911638568",
+        "channelId": "814861743053471784",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "860502952003502140",
+      "type": "Default",
+      "timestamp": "2021-07-02T12:51:31.129+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There are a couple of people who have given votes that are almost double the square root of their voting power?",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860503066573799454",
+      "type": "Default",
+      "timestamp": "2021-07-02T12:51:58.445+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks @liviade ! I'll hang up and listen. \uD83D\uDE42",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "860513558517383209",
+      "type": "Reply",
+      "timestamp": "2021-07-02T13:33:39.919+00:00",
+      "timestampEdited": "2021-07-02T13:41:50.729+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I hope that it is not an error in the sheet I made. Would it be too much to ask if you could double check. I would have preferred to wait to post this until it was verified by a number of people but it seemed necessary to share before the close of the vote - so I did my best (it was not hard) to have the community inspect from here.",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "699811072282066945",
+          "name": "\uD83D\uDC19 octopus",
+          "discriminator": "5508",
+          "nickname": "\uD83D\uDC19 octopus",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "860502952003502140",
+        "channelId": "814861743053471784",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "860515720110276659",
+      "type": "Reply",
+      "timestamp": "2021-07-02T13:42:15.283+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No worries, I will look at it. Crowdsourcing for the win! \uD83D\uDE42",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f49b.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "751417874886688798",
+          "name": "Tamarandom",
+          "discriminator": "9361",
+          "nickname": "Tamarandom",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "860513558517383209",
+        "channelId": "814861743053471784",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "860517155203055660",
+      "type": "Default",
+      "timestamp": "2021-07-02T13:47:57.436+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hopefully others will, as well.",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860517371399241760",
+      "type": "Default",
+      "timestamp": "2021-07-02T13:48:48.981+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm not familiar with this SUMIFS command. Can you walk me through the logic? I see examples online that have 3 args, this one has 5?",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860517500416557056",
+      "type": "Reply",
+      "timestamp": "2021-07-02T13:49:19.741+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the raw data is in the first tab or json grabbable here: https://tokenlog.xyz/CommonsBuild/IH-intervention/stats",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tokenlog · Token-weighted backlogs",
+          "url": "https://tokenlog.xyz/CommonsBuild/IH-intervention/stats",
+          "timestamp": null,
+          "description": "Democratize your open-source software project. A better way for projects to collaborate with their biggest supporters.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/IVr0yfOtHwO2_Cv269jg_geQknYl_biggoghx3zmX88/https/tokenlog.xyz/icon.png",
+            "width": 240,
+            "height": 240
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "699811072282066945",
+          "name": "\uD83D\uDC19 octopus",
+          "discriminator": "5508",
+          "nickname": "\uD83D\uDC19 octopus",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "860517155203055660",
+        "channelId": "814861743053471784",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "860517990306545664",
+      "type": "Reply",
+      "timestamp": "2021-07-02T13:51:16.54+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "multiple criteria",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "860517988087365662",
+          "url": "https://cdn.discordapp.com/attachments/814861743053471784/860517988087365662/Screen_Shot_2021-07-02_at_3.49.58_PM.png",
+          "fileName": "Screen_Shot_2021-07-02_at_3.49.58_PM.png",
+          "fileSizeBytes": 143579
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "699811072282066945",
+          "name": "\uD83D\uDC19 octopus",
+          "discriminator": "5508",
+          "nickname": "\uD83D\uDC19 octopus",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "860517371399241760",
+        "channelId": "814861743053471784",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "860518099718504448",
+      "type": "Reply",
+      "timestamp": "2021-07-02T13:51:42.626+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In the raw data, \"amount\" should be the square root of \"cost\", right? \uD83E\uDD14",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "751417874886688798",
+          "name": "Tamarandom",
+          "discriminator": "9361",
+          "nickname": "Tamarandom",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "860517500416557056",
+        "channelId": "814861743053471784",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "860518781864116245",
+      "type": "Default",
+      "timestamp": "2021-07-02T13:54:25.262+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so like 294 x 294 = 86436 not 99372. I see the point but am not immediately sure.",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "860518779480834068",
+          "url": "https://cdn.discordapp.com/attachments/814861743053471784/860518779480834068/Screen_Shot_2021-07-02_at_3.52.23_PM.png",
+          "fileName": "Screen_Shot_2021-07-02_at_3.52.23_PM.png",
+          "fileSizeBytes": 22567
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860519203327967232",
+      "type": "Default",
+      "timestamp": "2021-07-02T13:56:05.747+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, I think your spreadsheet is accurate. This **\"amount\" not equal square root of\"cost\"** issue shows up in the raw json data, too.",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860519254205661184",
+      "type": "Default",
+      "timestamp": "2021-07-02T13:56:17.877+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "860519250850349086",
+          "url": "https://cdn.discordapp.com/attachments/814861743053471784/860519250850349086/Screenshot_20210702-095415.jpg",
+          "fileName": "Screenshot_20210702-095415.jpg",
+          "fileSizeBytes": 183486
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860519656527233075",
+      "type": "Default",
+      "timestamp": "2021-07-02T13:57:53.798+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Offhand, it looks like that user should have gotten about 20 more \"amount\" for that \"cost\".",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860519768851611668",
+      "type": "Default",
+      "timestamp": "2021-07-02T13:58:20.578+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you so much for looking at this @Tamarandom ! Cool.",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "751417874886688798",
+          "name": "Tamarandom",
+          "discriminator": "9361",
+          "nickname": "Tamarandom",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "860520301753401386",
+      "type": "Default",
+      "timestamp": "2021-07-02T14:00:27.632+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes, it's short. I can't explain why that might be.",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860520303632056321",
+      "type": "Default",
+      "timestamp": "2021-07-02T14:00:28.08+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":O Woah",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860520469987590154",
+      "type": "Default",
+      "timestamp": "2021-07-02T14:01:07.742+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "btw, did you sort all the data by hand?",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860520518598787102",
+      "type": "Default",
+      "timestamp": "2021-07-02T14:01:19.332+00:00",
+      "timestampEdited": "2021-07-02T14:01:26.934+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "json to csv converter",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "860521193932193812",
+      "type": "Reply",
+      "timestamp": "2021-07-02T14:04:00.344+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've gone through and it looks like most are right on, but some are over and some are under the square root.",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "751417874886688798",
+          "name": "Tamarandom",
+          "discriminator": "9361",
+          "nickname": "Tamarandom",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "860520301753401386",
+        "channelId": "814861743053471784",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "860521281547665429",
+      "type": "Default",
+      "timestamp": "2021-07-02T14:04:21.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not in a way that basic rounding would account for.",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860537633940045824",
+      "type": "Default",
+      "timestamp": "2021-07-02T15:09:19.947+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "To save you from clicking through the mdhack to the xls!",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "860537631212044308",
+          "url": "https://cdn.discordapp.com/attachments/814861743053471784/860537631212044308/tokenlog-ih-intervention.png",
+          "fileName": "tokenlog-ih-intervention.png",
+          "fileSizeBytes": 160229
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860578330453082153",
+      "type": "Default",
+      "timestamp": "2021-07-02T17:51:02.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Interesting discussion. And thanks for putting this together @Tamarandom",
+      "author": {
+        "id": "615886828582469635",
+        "name": "wslyvh",
+        "discriminator": "1059",
+        "nickname": "wslyvh",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/615886828582469635/29d7fea90d277c8ddb90b9e745f96022.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "751417874886688798",
+          "name": "Tamarandom",
+          "discriminator": "9361",
+          "nickname": "Tamarandom",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "860578603119804487",
+      "type": "Default",
+      "timestamp": "2021-07-02T17:52:07.761+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Have to dive in here a bit more, but it seems indeed there is some rounding error",
+      "author": {
+        "id": "615886828582469635",
+        "name": "wslyvh",
+        "discriminator": "1059",
+        "nickname": "wslyvh",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/615886828582469635/29d7fea90d277c8ddb90b9e745f96022.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860578658274771024",
+      "type": "Default",
+      "timestamp": "2021-07-02T17:52:20.911+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will follow up later",
+      "author": {
+        "id": "615886828582469635",
+        "name": "wslyvh",
+        "discriminator": "1059",
+        "nickname": "wslyvh",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/615886828582469635/29d7fea90d277c8ddb90b9e745f96022.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860708834493595708",
+      "type": "Default",
+      "timestamp": "2021-07-03T02:29:37.34+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Tamarandom @wslyvh With help from @JeffEmmett , I think I figured it out.",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "615886828582469635",
+          "name": "wslyvh",
+          "discriminator": "1059",
+          "nickname": "wslyvh",
+          "isBot": false
+        },
+        {
+          "id": "379773201405706260",
+          "name": "JeffEmmett",
+          "discriminator": "7202",
+          "nickname": "JeffEmmett",
+          "isBot": false
+        },
+        {
+          "id": "751417874886688798",
+          "name": "Tamarandom",
+          "discriminator": "9361",
+          "nickname": "Tamarandom",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "860709188182343692",
+      "type": "Default",
+      "timestamp": "2021-07-03T02:31:01.666+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The numbers for individual transactions are \"off\" (amt ≠ sqrt(cost)) when the same address gives votes to the same Proposal on separate occasions.",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860709895120224279",
+      "type": "Default",
+      "timestamp": "2021-07-03T02:33:50.213+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In the \"data\" tab, Row 2 and 4 are both votes from address 0xaa...8737 to Proposal 1. The total amount (22 + 294) is equal to the square root of the total cost (484 + 99732). The second amount has to be \"off\" to make the cumulative total work out.",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860710122144661533",
+      "type": "Default",
+      "timestamp": "2021-07-03T02:34:44.34+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The algorithm does the right thing by rounding down, else this could be exploited to squeeze out extra votes by splitting into multiple transactions.",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860710550299607040",
+      "type": "Default",
+      "timestamp": "2021-07-03T02:36:26.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When adding up total votes split across multiple proposals, this will always exceed the square root of voting power. This isn't an error; it's a design feature of QV that you have more votes if you vote for several things.",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "860710683545305139",
+      "type": "Default",
+      "timestamp": "2021-07-03T02:36:58.188+00:00",
+      "timestampEdited": "2021-07-03T02:37:41.517+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**TL;DR - all the numbers make sense.** Sorry if I confused anyone. ☺️",
+      "author": {
+        "id": "699811072282066945",
+        "name": "\uD83D\uDC19 octopus",
+        "discriminator": "5508",
+        "nickname": "\uD83D\uDC19 octopus",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699811072282066945/2889b63240e04f688adaccc8be74f636.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "860888730159415296",
+      "type": "Default",
+      "timestamp": "2021-07-03T14:24:27.809+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDD25The Runoff is live!! https://tokenlog.xyz/CommonsBuild/IH-intervention \n\nYesterday Jeff, Griff, Tamara, Jess, Juanka, Zeptimus and myself had a session to prepare the runoff proposals and its details. The top 4 went live and considering the community feedback, we decided to extend the closing of the votes to  :TEC:  **Thursday, July 8th**\n\nNo more proposals will be submitted in this round and we’ll be hosting debates this week to discuss them. **Feel free to host a debate as well by adding it to the TE calendar!\n**\nThanks to everyone who has been involved in this conversation. Please help us promote this voting round!",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tokenlog · Token-weighted backlogs",
+          "url": "https://tokenlog.xyz/CommonsBuild/IH-intervention",
+          "timestamp": null,
+          "description": "Democratize your open-source software project. A better way for projects to collaborate with their biggest supporters.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/IVr0yfOtHwO2_Cv269jg_geQknYl_biggoghx3zmX88/https/tokenlog.xyz/icon.png",
+            "width": 240,
+            "height": 240
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861355093621997638",
+      "type": "Default",
+      "timestamp": "2021-07-04T21:17:37.523+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!praise @JeffEmmett @Griff (\uD83D\uDC9C,\uD83D\uDC9C) @Tamarandom @JessicaZartler @liviade @Griff (\uD83D\uDC9C,\uD83D\uDC9C) @Zeptimus @Juankbell for preparing the Runoff proposals",
+      "author": {
+        "id": "395673197615513600",
+        "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "discriminator": "8888",
+        "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2705.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": [
+        {
+          "id": "183879548394274816",
+          "name": "Zeptimus",
+          "discriminator": "3359",
+          "nickname": "Zeptimus",
+          "isBot": false
+        },
+        {
+          "id": "395673197615513600",
+          "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+          "discriminator": "8888",
+          "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+          "isBot": false
+        },
+        {
+          "id": "734527275630067746",
+          "name": "JessicaZartler",
+          "discriminator": "2263",
+          "nickname": "JessicaZartler",
+          "isBot": false
+        },
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        },
+        {
+          "id": "749990807238607020",
+          "name": "Juankbell",
+          "discriminator": "7458",
+          "nickname": "Juankbell",
+          "isBot": false
+        },
+        {
+          "id": "379773201405706260",
+          "name": "JeffEmmett",
+          "discriminator": "7202",
+          "nickname": "JeffEmmett",
+          "isBot": false
+        },
+        {
+          "id": "751417874886688798",
+          "name": "Tamarandom",
+          "discriminator": "9361",
+          "nickname": "Tamarandom",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "892253652402712596",
+      "type": "Default",
+      "timestamp": "2021-09-28T03:37:28.004+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looks like the Moonshot Collective Crew from Gitcoin just unveiled a quadratic voting app:\nhttps://quadraticvote.co",
+      "author": {
+        "id": "762556315109031958",
+        "name": "David (please DYOR...)",
+        "discriminator": "4116",
+        "nickname": "David D. | TEC",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762556315109031958/3f60304e3ce6d5158760e4a77d8bfd48.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "QuadraticVote.co - EZ QV Tool",
+          "url": "https://quadraticvote.co/",
+          "timestamp": null,
+          "description": "An easy tool to host a quadratic vote - Built by Gitcoin",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9rgfrc_vYIHbwmdhgvynAM1xSBbMlC95dOA1IwmpOQQ/https/quadraticvote.co/meta.png",
+            "width": 1200,
+            "height": 628
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "893117951262228490",
+      "type": "Default",
+      "timestamp": "2021-09-30T12:51:52.91+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/tecmns/status/1443271932342767616?s=20",
+      "author": {
+        "id": "753834288511713303",
+        "name": "iviangita",
+        "discriminator": "3204",
+        "nickname": "iviangita",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/753834288511713303/82e43c1418a21926dd61d71f32a6222e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/tecmns/status/1443271932342767616?s=20",
+          "timestamp": "2021-09-29T17:50:18.023+00:00",
+          "description": "\uD83D\uDCE3The first ever proposal has been submitted to the Hatch DAO!\n\nHatchers can now vote on \"One-Time Change of TECH Address\" proposal to ensure our members retain their voting rights by control of their wallets.\n\n\uD83D\uDD0ECONTEXT: https://t.co/nfWW2ExCzY  \n\n\uD83D\uDDF3️VOTE: https://t.co/C0vQUsV3Uk",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Token Engineering Commons (@tecmns)",
+            "url": "https://twitter.com/tecmns",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/wXidabUC3MywqlnAvgIrRqLtVH5QylbRc7WJiHSWswU/https/pbs.twimg.com/profile_images/1359180303332433923/J1XNdjPW_bigger.png"
+          },
+          "image": {
+            "url": "https://images-ext-2.discordapp.net/external/hax-RvW5qgOkuTIPXk7LqmueXeW-YnY1E7gKtLl9fFE/https/pbs.twimg.com/media/FAeHgkBVQAIapBZ.jpg%3Alarge",
+            "width": 910,
+            "height": 512
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-2.discordapp.net/external/hax-RvW5qgOkuTIPXk7LqmueXeW-YnY1E7gKtLl9fFE/https/pbs.twimg.com/media/FAeHgkBVQAIapBZ.jpg%3Alarge",
+              "width": 910,
+              "height": 512
+            },
+            {
+              "url": "https://images-ext-2.discordapp.net/external/OwtMYTVhLtn16xCc7Jz_PYS80Ysq1S27wST6iygB7yY/https/pbs.twimg.com/media/FAeHh65VcAEmkay.jpg%3Alarge",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC96",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f496.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "909821540462391318",
+      "type": "Default",
+      "timestamp": "2021-11-15T15:05:58.913+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Talking with some folks about bringing quadratic voting to another chain. This was a concern raised. I’m sure this was considered when working out the framework. Can you please explain how this issue is addressed?\n“I take it that Quadratic Voting would have to have some sort of identity-voting token pairing.  We can't allow some whale with 1,000 tokens to establish 10 wallets of 100 tokens each to get the same benefit as the minnow with 100 tokens.”",
+      "author": {
+        "id": "722925809916182558",
+        "name": "Pythagorean",
+        "discriminator": "5361",
+        "nickname": "Pythagorean",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/722925809916182558/5bfb07fdbb7befeebbf9a1e63fbb8a95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "912735988785225828",
+      "type": "Default",
+      "timestamp": "2021-11-23T16:06:57.541+00:00",
+      "timestampEdited": "2021-11-23T16:10:36.347+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think in context, that can be mitigated with how CSTK tokens work.\nAfaik, they're non-transferable, so whales distributing them to multiple wallets that they own isn't a threat.\n\nhttps://medium.com/commonsstack/cstk-the-token-of-the-commons-stack-trusted-seed-931978625c61",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "CSTK: The Token of the Commons Stack Trusted Seed",
+          "url": "https://medium.com/commonsstack/cstk-the-token-of-the-commons-stack-trusted-seed-931978625c61",
+          "timestamp": null,
+          "description": "Skin in the Game to Realign Incentives for Public Goods",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/l2FtsBo0eOLflCYZsDzQAFohFjVOoaycBT4WIp36UVA/https/miro.medium.com/max/700/1%2ALpZVjjdQIrg9q02Ska_rYg.png",
+            "width": 700,
+            "height": 470
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925688488223981608",
+      "type": "Default",
+      "timestamp": "2021-12-29T09:55:34.053+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi",
+      "author": {
+        "id": "722629460645511168",
+        "name": "samsong91",
+        "discriminator": "4920",
+        "nickname": "samsong91",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1014266125724434502",
+      "type": "Default",
+      "timestamp": "2022-08-30T20:11:28.526+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello\nI am senior blockchain developer\nI have rich experience with Nft and Defi.\nAnd I have deep knowledge and interesting with substrate and blockchain core. \nCan I join to your dev team?",
+      "author": {
+        "id": "906731502996455546",
+        "name": "Vector",
+        "discriminator": "0809",
+        "nickname": "Vector",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/906731502996455546/db3b2f4a029e974bca8e3f6d4c4676ae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 60
+}

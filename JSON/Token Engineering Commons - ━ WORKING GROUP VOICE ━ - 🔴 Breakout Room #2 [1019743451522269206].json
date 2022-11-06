@@ -1,0 +1,346 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "1019743451522269206",
+    "type": "GuildVoiceChat",
+    "categoryId": "816362403947479060",
+    "category": "━ WORKING GROUP VOICE ━",
+    "name": "\uD83D\uDD34 Breakout Room #2",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1020026745568641074",
+      "type": "Default",
+      "timestamp": "2022-09-15T17:42:07.324+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just wanted to encourage you all to take notes in the doc as you go",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1022560026017157160",
+      "type": "Default",
+      "timestamp": "2022-09-22T17:28:28.449+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If anyone has questions - I'll be waiting in the main sampo channel.",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1022560217604563004",
+      "type": "Default",
+      "timestamp": "2022-09-22T17:29:14.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc",
+      "author": {
+        "id": "758492139113676800",
+        "name": "richa",
+        "discriminator": "0775",
+        "nickname": "richa",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/758492139113676800/5af145e07170911c5d5b612a14429e97.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clarity — The DAO Contribution Platform",
+          "url": "https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc",
+          "timestamp": null,
+          "description": "Clarity is the most advanced DAO contribution platform. Share task boards & docs, manage access with tokens, receive bounty payouts, and build your contributor reputation.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1022560280972120165",
+      "type": "Default",
+      "timestamp": "2022-09-22T17:29:29.235+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/ZW8HZWxH",
+      "author": {
+        "id": "758492139113676800",
+        "name": "richa",
+        "discriminator": "0775",
+        "nickname": "richa",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/758492139113676800/5af145e07170911c5d5b612a14429e97.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1022560858074775583",
+      "type": "Default",
+      "timestamp": "2022-09-22T17:31:46.827+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also - as a reminder, someone please take notes in the Clarity doc. \uD83D\uDE42",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1022564727475425362",
+      "type": "Default",
+      "timestamp": "2022-09-22T17:47:09.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "5 minutes more, then please come back to the main call.",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025098115214229634",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:33:56.069+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/CryptoZach_/status/1517236122195316737?s=20&t=5yeMKyGohU6F5IpRKDorGw",
+      "author": {
+        "id": "349573251959095296",
+        "name": "Crypto Zach",
+        "discriminator": "6753",
+        "nickname": "Crypto Zach",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/349573251959095296/b05bd150c135317082d9e9c0776842cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/CryptoZach_/status/1517236122195316737?s=20&t=5yeMKyGohU6F5IpRKDorGw",
+          "timestamp": "2022-04-21T20:17:35.072+00:00",
+          "description": "I am beyond excited to share my first blog post on tokenomics!\nI highlight key applications of tokenomics, share insights on best practices, and provide a brainstorming questionnaire to assist Web3 entrepreneurs with the design of their token models.\nhttps://t.co/Fv1HX1abV3 \uD83E\uDDF51/6",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Crypto ZȺch (@CryptoZach_)",
+            "url": "https://twitter.com/CryptoZach_",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/itMBzVy7EIPFv1x-ZaO1-agpjx_6z18K_G3IHxsgbfo/https/pbs.twimg.com/profile_images/1174953441598173189/CwUHjPye_400x400.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Likes",
+              "value": "350",
+              "isInline": true
+            },
+            {
+              "name": "Retweets",
+              "value": "113",
+              "isInline": true
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025098261649969152",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:34:30.982+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc",
+      "author": {
+        "id": "349573251959095296",
+        "name": "Crypto Zach",
+        "discriminator": "6753",
+        "nickname": "Crypto Zach",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/349573251959095296/b05bd150c135317082d9e9c0776842cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clarity — The DAO Contribution Platform",
+          "url": "https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc",
+          "timestamp": null,
+          "description": "Clarity is the most advanced DAO contribution platform. Share task boards & docs, manage access with tokens, receive bounty payouts, and build your contributor reputation.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025099433270067311",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:39:10.318+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just encouraging everyone to move onto question #2 if you haven't already.",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025102707029184542",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:52:10.843+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok - please come back in 1 minute",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1027639351787655219",
+      "type": "Default",
+      "timestamp": "2022-10-06T17:51:54.082+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "5 min warning",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1027640550469419008",
+      "type": "Default",
+      "timestamp": "2022-10-06T17:56:39.87+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "OK - let's come on back please",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 12
+}

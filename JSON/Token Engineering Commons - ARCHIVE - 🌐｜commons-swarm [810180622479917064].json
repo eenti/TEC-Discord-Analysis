@@ -1,0 +1,4247 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "810180622479917064",
+    "type": "GuildTextChat",
+    "categoryId": "810180623120597024",
+    "category": "ARCHIVE",
+    "name": "\uD83C\uDF10｜commons-swarm",
+    "topic": "This group is foundational to the project. It defines the technical protocols we will use to govern and coordinate our public goods focused economy!\n\nWeekly sync agenda:\nhttps://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "810186868544110592",
+      "type": "Default",
+      "timestamp": "2021-02-13T16:33:22.005+00:00",
+      "timestampEdited": "2021-02-13T16:33:47.328+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "The Commons Swarm Working group is responsible for the Token Engineering Commons software implementation and that the tech is ready and sturdy for the launch.\n\nMeetings: Mondays at 8pm CET\n\nWhere? Tech Spec voice channel on Discord\n\nWorking Group Lead: @sem\n\nDiscussions happen on #commons-⏣  channel at 1Hive.\nhttps://discord.gg/wD83cQPUMX\n\nThis is the technical specifications document:\nhttps://docs.google.com/document/d/1-CY39HVgHcpRFac10FME97pqPclHMrj2YsphOGYUDm8/edit#\n\nGithub Coordination\nt3: Frontends\nhttps://github.com/tecommons/tec-interface 1\nhttps://github.com/tecommons/tec-convert\nhttps://github.com/tecommons/tec-hatch\n\nt3: Smart Contracts\nhttps://github.com/tecommons/hatch-oracle\nhttps://github.com/tecommons/marketplace-app\nhttps://github.com/tecommons/token-manager-app\nhttps://github.com/tecommons/conviction-voting-app\nhttps://github.com/tecommons/tec-template(edited)",
+      "author": {
+        "id": "367484103089455108",
+        "name": "metaverde",
+        "discriminator": "2503",
+        "nickname": "metaverde",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TECommons/tec-interface",
+          "url": "https://github.com/tecommons/tec-interface",
+          "timestamp": null,
+          "description": "Contribute to TECommons/tec-interface development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/S5cdep3YtQQWDQ93WMMRHvyFz17fqeDxOUL1ZGMU52A/%3Fs%3D400%26v%3D4/https/avatars.githubusercontent.com/u/72481541",
+            "width": 400,
+            "height": 400
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "TECommons/tec-convert",
+          "url": "https://github.com/tecommons/tec-convert",
+          "timestamp": null,
+          "description": "Convert between your Aragon tokens. Contribute to TECommons/tec-convert development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/S5cdep3YtQQWDQ93WMMRHvyFz17fqeDxOUL1ZGMU52A/%3Fs%3D400%26v%3D4/https/avatars.githubusercontent.com/u/72481541",
+            "width": 400,
+            "height": 400
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "TECommons/tec-hatch",
+          "url": "https://github.com/tecommons/tec-hatch",
+          "timestamp": null,
+          "description": "Contribute to TECommons/tec-hatch development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/S5cdep3YtQQWDQ93WMMRHvyFz17fqeDxOUL1ZGMU52A/%3Fs%3D400%26v%3D4/https/avatars.githubusercontent.com/u/72481541",
+            "width": 400,
+            "height": 400
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "TECommons/hatch-oracle",
+          "url": "https://github.com/tecommons/hatch-oracle",
+          "timestamp": null,
+          "description": "ACL Oracle for hatch membership. Contribute to TECommons/hatch-oracle development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/S5cdep3YtQQWDQ93WMMRHvyFz17fqeDxOUL1ZGMU52A/%3Fs%3D400%26v%3D4/https/avatars.githubusercontent.com/u/72481541",
+            "width": 400,
+            "height": 400
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Tech Spec Working Group Manifesto",
+          "url": "https://docs.google.com/document/d/1-CY39HVgHcpRFac10FME97pqPclHMrj2YsphOGYUDm8/edit",
+          "timestamp": null,
+          "description": "Technical Specification Working Group Manifesto Working group lead: Griff  The Technical Specification Working Group Manifesto is a live document, as the working group evolves (e.g. people join the working group, roadmap gets updated) this document should be updated to reflect these changes. This...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/PSTgdJC8r2CTjq1_B4uzJXBLMyCyheLQWZgyJUPQCO4/https/lh4.googleusercontent.com/oYvWa5QYeLRduq4aJcyDiOuIPhfnFBzphwYjEqqS7EkaQB4AcjPQvJupSZMqGHB2RFswvUev0w%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810187027080544266",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-02-13T16:33:59.803+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "367484103089455108",
+        "name": "metaverde",
+        "discriminator": "2503",
+        "nickname": "metaverde",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "810186868544110592",
+        "channelId": "810180622479917064",
+        "guildId": null
+      }
+    },
+    {
+      "id": "810950345739993107",
+      "type": "Default",
+      "timestamp": "2021-02-15T19:07:09.153+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp=sharing",
+      "author": {
+        "id": "367484103089455108",
+        "name": "metaverde",
+        "discriminator": "2503",
+        "nickname": "metaverde",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm Agenda and Notes",
+          "url": "https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp=sharing",
+          "timestamp": null,
+          "description": "Commons Swarm Agenda and Notes Meeting channel: https://discord.gg/7sT7Nwa84G  Facilitator: Griff\u000BModerator: xxxxxxxxxx  Feb 15th \u000BAttendees: (Please join the http://t.me/tepraise and say hi or post an emoji to receive Praise which turns into TEC tokens)   Agenda: Hatch Freeze update Help is nee...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/9arHMEyXj0JNOpWss5ICe5XOrwjZjn99jQ4n3F7S1YI/https/lh3.googleusercontent.com/wURjc7bKNDBfFxJ0Ap6ZFuBV00JXJ2hG3hqNYw7LxAzKJXFC83rQ6d0xKtn7pl7ySmQB3bjEiA%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810950375850246195",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-02-15T19:07:16.332+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "367484103089455108",
+        "name": "metaverde",
+        "discriminator": "2503",
+        "nickname": "metaverde",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "810950345739993107",
+        "channelId": "810180622479917064",
+        "guildId": null
+      }
+    },
+    {
+      "id": "810950472861089812",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-02-15T19:07:39.461+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "367484103089455108",
+        "name": "metaverde",
+        "discriminator": "2503",
+        "nickname": "metaverde",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "810186868544110592",
+        "channelId": "810180622479917064",
+        "guildId": null
+      }
+    },
+    {
+      "id": "811511633452597298",
+      "type": "Default",
+      "timestamp": "2021-02-17T08:17:30.572+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!praise @Vyvy-vi @metaverde for deploying the Praise bot",
+      "author": {
+        "id": "342966331441938442",
+        "name": "rdfbbx",
+        "discriminator": "6437",
+        "nickname": "rdfbbx",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/342966331441938442/c2e3d3cd0b66980887cc383f5ee69937.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2705.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "558192816308617227",
+          "name": "Vyvy-vi",
+          "discriminator": "5040",
+          "nickname": "Vyvy-vi",
+          "isBot": false
+        },
+        {
+          "id": "367484103089455108",
+          "name": "metaverde",
+          "discriminator": "2503",
+          "nickname": "metaverde",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "811511713017888784",
+      "type": "Default",
+      "timestamp": "2021-02-17T08:17:49.542+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!praise_log",
+      "author": {
+        "id": "342966331441938442",
+        "name": "rdfbbx",
+        "discriminator": "6437",
+        "nickname": "rdfbbx",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/342966331441938442/c2e3d3cd0b66980887cc383f5ee69937.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811511854929018880",
+      "type": "Default",
+      "timestamp": "2021-02-17T08:18:23.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Vyvy-vi have you received notification?",
+      "author": {
+        "id": "342966331441938442",
+        "name": "rdfbbx",
+        "discriminator": "6437",
+        "nickname": "rdfbbx",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/342966331441938442/c2e3d3cd0b66980887cc383f5ee69937.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "558192816308617227",
+          "name": "Vyvy-vi",
+          "discriminator": "5040",
+          "nickname": "Vyvy-vi",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "811511868614901770",
+      "type": "Default",
+      "timestamp": "2021-02-17T08:18:26.639+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dm message",
+      "author": {
+        "id": "342966331441938442",
+        "name": "rdfbbx",
+        "discriminator": "6437",
+        "nickname": "rdfbbx",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/342966331441938442/c2e3d3cd0b66980887cc383f5ee69937.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811511916279103528",
+      "type": "Default",
+      "timestamp": "2021-02-17T08:18:38.003+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "811511912818278420",
+          "url": "https://cdn.discordapp.com/attachments/810180622479917064/811511912818278420/Screenshot_2021-02-17_at_8.18.17_AM.png",
+          "fileName": "Screenshot_2021-02-17_at_8.18.17_AM.png",
+          "fileSizeBytes": 119017
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811512003595468830",
+      "type": "Default",
+      "timestamp": "2021-02-17T08:18:58.821+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nice",
+      "author": {
+        "id": "342966331441938442",
+        "name": "rdfbbx",
+        "discriminator": "6437",
+        "nickname": "rdfbbx",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/342966331441938442/c2e3d3cd0b66980887cc383f5ee69937.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811512194017394729",
+      "type": "Default",
+      "timestamp": "2021-02-17T08:19:44.221+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!praise @Kris @Griff (\uD83D\uDC9C,\uD83D\uDC9C) for Praise bot on new TEC server",
+      "author": {
+        "id": "342966331441938442",
+        "name": "rdfbbx",
+        "discriminator": "6437",
+        "nickname": "rdfbbx",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/342966331441938442/c2e3d3cd0b66980887cc383f5ee69937.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2705.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "395673197615513600",
+          "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+          "discriminator": "8888",
+          "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+          "isBot": false
+        },
+        {
+          "id": "377359211144675330",
+          "name": "Kris",
+          "discriminator": "8703",
+          "nickname": "Kris",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "811686473991716914",
+      "type": "Default",
+      "timestamp": "2021-02-17T19:52:15.805+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!praise @Kris @metaverde for new TEC server",
+      "author": {
+        "id": "655144629481635841",
+        "name": "AmwFund",
+        "discriminator": "0979",
+        "nickname": "Craig",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/655144629481635841/67b40701b6568cef805b1a099eaa2614.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "377359211144675330",
+          "name": "Kris",
+          "discriminator": "8703",
+          "nickname": "Kris",
+          "isBot": false
+        },
+        {
+          "id": "367484103089455108",
+          "name": "metaverde",
+          "discriminator": "2503",
+          "nickname": "metaverde",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "811701160901214249",
+      "type": "Default",
+      "timestamp": "2021-02-17T20:50:37.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you Craig!",
+      "author": {
+        "id": "367484103089455108",
+        "name": "metaverde",
+        "discriminator": "2503",
+        "nickname": "metaverde",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813766000503554108",
+      "type": "Default",
+      "timestamp": "2021-02-23T13:35:33.561+00:00",
+      "timestampEdited": "2021-02-23T15:09:36.259+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Say, did TEC choose an \"official emoji\" yet? Projects like to do this for twitter reasons, or *in my case* setting up bridges. Since most discord rooms come with an emoji I think it would be cool to pick one that respresents the community.\n\nNow - because I am in the middle, I kind of chose already which one \uD83D\uDE42\n\nOpen for any suggestions of course, but if we need to change it, we should do it soon - before it propagates \uD83D\uDE09\n\n---\n\n**AND THE WINNER IS**\n\n...\n\n**TROPICAL FISH!**",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813766018807496774",
+      "type": "Default",
+      "timestamp": "2021-02-23T13:35:37.925+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC20",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813766856153759764",
+      "type": "Default",
+      "timestamp": "2021-02-23T13:38:57.564+00:00",
+      "timestampEdited": "2021-02-23T15:09:58.776+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*chosen for the excellent pun on Ostrom's research (fishing grounds as a commons to investigate how different communities form rules around usage)\n\nand also for that old quote of unknown origin - `Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime`\n\nEDIT: also - its yellow! and even yellow black on some systems",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813782305939128340",
+      "type": "Default",
+      "timestamp": "2021-02-23T14:40:21.08+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks Kay! I'd love to hear what others think about this.",
+      "author": {
+        "id": "523401372188540939",
+        "name": "markop",
+        "discriminator": "2007",
+        "nickname": "markop",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813789827278438480",
+      "type": "Default",
+      "timestamp": "2021-02-23T15:10:14.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Should we bridge this channel as well? To which one?",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813954401584545824",
+      "type": "Reply",
+      "timestamp": "2021-02-24T02:04:11.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Commons Swarm uses \uD83C\uDF10",
+      "author": {
+        "id": "395673197615513600",
+        "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "discriminator": "8888",
+        "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "426314998822731787",
+          "name": "geleeroyale",
+          "discriminator": "3228",
+          "nickname": "geleeroyale",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "813789827278438480",
+        "channelId": "810180622479917064",
+        "guildId": null
+      }
+    },
+    {
+      "id": "813954517020180511",
+      "type": "Default",
+      "timestamp": "2021-02-24T02:04:39.401+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bonding curves... globe",
+      "author": {
+        "id": "395673197615513600",
+        "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "discriminator": "8888",
+        "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814001674640818216",
+      "type": "Default",
+      "timestamp": "2021-02-24T05:12:02.654+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hmmm.\nAs much as I like the fish I think I like the globe better *in this case*.",
+      "author": {
+        "id": "367484103089455108",
+        "name": "metaverde",
+        "discriminator": "2503",
+        "nickname": "metaverde",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814003318736289826",
+      "type": "Default",
+      "timestamp": "2021-02-24T05:18:34.637+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I suggest the \uD83E\uDDFF Nazar Amulet",
+      "author": {
+        "id": "523401372188540939",
+        "name": "markop",
+        "discriminator": "2007",
+        "nickname": "markop",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814238306799452211",
+      "type": "Default",
+      "timestamp": "2021-02-24T20:52:20.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "haha - like these suggestions",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814238359777443901",
+      "type": "Default",
+      "timestamp": "2021-02-24T20:52:32.788+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Alright - we can use the globe of course!",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814558327866130502",
+      "type": "Default",
+      "timestamp": "2021-02-25T18:03:59.125+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Alright - all channels should be bridged now. some rooms did not offer an obvious bridge target on the other side - these are unbridged for now:\n\n```\nno bridge obvious (TEC side):\n  #\uD83E\uDD16parameters \n  #\uD83C\uDF3Estewards\n  and all categories except \"working groups\" & \"general\" in the category open\n\nno bridge obvious (TE side)\n  #\uD83C\uDF31-tec-voting\n```",
+      "author": {
+        "id": "426314998822731787",
+        "name": "geleeroyale",
+        "discriminator": "3228",
+        "nickname": "geleeroyale",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426314998822731787/e9eddf1eceb2d43b85bbfd4ad7e6901e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814852992334954546",
+      "type": "Default",
+      "timestamp": "2021-02-26T13:34:52.609+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you @geleeroyale",
+      "author": {
+        "id": "367484103089455108",
+        "name": "metaverde",
+        "discriminator": "2503",
+        "nickname": "metaverde",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "426314998822731787",
+          "name": "geleeroyale",
+          "discriminator": "3228",
+          "nickname": "geleeroyale",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "814853220953358377",
+      "type": "Default",
+      "timestamp": "2021-02-26T13:35:47.116+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Should the voting channel be set up here as well?",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "819287092411498556",
+      "type": "Default",
+      "timestamp": "2021-03-10T19:14:24.449+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Kings Of Leon release NFT album: https://www.youtube.com/watch?v=ATalRLswojc",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Kings of Leon's New NFT Album Is a Game Changer",
+          "url": "https://www.youtube.com/watch?v=ATalRLswojc",
+          "timestamp": null,
+          "description": "James Corden connects with the members of Kings of Leon who have largely spent the last year apart but have just released their first new album in five years, \"When You See Yourself.\" And James asks about releasing the album as an NFT, which raised $500,000 for Crew Nation.\n\nMore Late Late Show:\nSubscribe: http://bit.ly/CordenYouTube\nWatch Full ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "The Late Late Show with James Corden",
+            "url": "https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/2BF7p7mQ4UJbwjbGrR1L6LptCjl6gJSUBmPi_5ackTw/https/i.ytimg.com/vi/ATalRLswojc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "820267594355441704",
+      "type": "Default",
+      "timestamp": "2021-03-13T12:10:34.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!praise @ygg_anderson @sem(\uD83C\uDF38,\uD83D\uDC1D) @freedumbs00 for setting up an awesome onboarding sesh for YGG https://www.youtube.com/watch?v=HKPkH-wbG8k",
+      "author": {
+        "id": "395673197615513600",
+        "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "discriminator": "8888",
+        "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SEM REVEALS ALL \uD83D\uDD2E\uD83D\uDD2E\uD83D\uDD2E",
+          "url": "https://www.youtube.com/watch?v=HKPkH-wbG8k",
+          "timestamp": null,
+          "description": "Everything you need to know about the state of the hatch!\n\n\n\n\uD83D\uDE4F Thank you for watching! Hit \uD83D\uDC4D and subscribe \uD83D\uDEA9 to support this work\n\n\uD83C\uDF31Join the Community\uD83C\uDF31\non Discord https://discord.gg/uM4ZWDjNfK \nor say hello on Telegram https://t.me/tecommons\nJoin the conversation https://forum.tecommons.org/\nFollow us on Twitter: https://twitter.com/tecmns \nLear...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Token Engineering Commons",
+            "url": "https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/vD9g79ZsKIHT3qg7X7RVBgZWHSjgg3re7BsTQgj5ld4/https/i.ytimg.com/vi/HKPkH-wbG8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2705.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE01",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f601.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "659828514924658688",
+          "name": "ygg_anderson",
+          "discriminator": "4998",
+          "nickname": "ygg_anderson",
+          "isBot": false
+        },
+        {
+          "id": "676517295643820032",
+          "name": "sem(\uD83C\uDF38,\uD83D\uDC1D)",
+          "discriminator": "0161",
+          "nickname": "sem(\uD83C\uDF38,\uD83D\uDC1D)",
+          "isBot": false
+        },
+        {
+          "id": "780101341124886587",
+          "name": "freedumbs00",
+          "discriminator": "3857",
+          "nickname": "freedumbs00",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "820458415499378698",
+      "type": "Default",
+      "timestamp": "2021-03-14T00:48:49.635+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Crosspost from telegram:\n\nHey, to clarify, we are not using gardens-template right? I think that is out of date and replaced by honey-template? And honey-template will be upgraded into commons-template. Is this correct?",
+      "author": {
+        "id": "659828514924658688",
+        "name": "ygg_anderson",
+        "discriminator": "4998",
+        "nickname": "ygg_anderson",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "820758491173224542",
+      "type": "Default",
+      "timestamp": "2021-03-14T20:41:13.251+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://hackernoon.com/why-everyone-missed-the-most-mind-blowing-feature-of-cryptocurrency-860c3f25f1fb",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Why Everyone Missed the Most Mind-Blowing Feature of Cryptocurrency...",
+          "url": "https://hackernoon.com/why-everyone-missed-the-most-mind-blowing-feature-of-cryptocurrency-860c3f25f1fb",
+          "timestamp": null,
+          "description": "There’s one incredible feature of cryptocurrencies that almost everyone seems to have missed, including Satoshi himself.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/UzXL_oRx1DIdwumyMDU6ZfL1p5GmdXQLwuY7WJGOygQ/https/hackernoon.com/hn-images/1%2A-f6Dl0AjwpYi-CVURqlHog.jpeg",
+            "width": 2600,
+            "height": 1733
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "828719476144603136",
+      "type": "Reply",
+      "timestamp": "2021-04-05T19:55:19.976+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*The first system that truly\u00A0gamifies the delivery of money\u00A0will rocket to exponential growth, upending the current system for good. That will\u00A0set the initial playing field dynamically\u00A0and allow players who never would have gotten into the game to compete. The more people who can participate, the more efficient and valuable the network becomes.*",
+      "author": {
+        "id": "367484103089455108",
+        "name": "metaverde",
+        "discriminator": "2503",
+        "nickname": "metaverde",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "249005209710362624",
+          "name": "durgadas",
+          "discriminator": "9280",
+          "nickname": "durgadas",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "820758491173224542",
+        "channelId": "810180622479917064",
+        "guildId": null
+      }
+    },
+    {
+      "id": "828720043130486814",
+      "type": "Default",
+      "timestamp": "2021-04-05T19:57:35.156+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you Durgadas.",
+      "author": {
+        "id": "367484103089455108",
+        "name": "metaverde",
+        "discriminator": "2503",
+        "nickname": "metaverde",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "829025921435566131",
+      "type": "Default",
+      "timestamp": "2021-04-06T16:13:02.227+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/i/status/1349687411228504065",
+      "author": {
+        "id": "780101341124886587",
+        "name": "freedumbs00",
+        "discriminator": "3857",
+        "nickname": "freedumbs00",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/780101341124886587/a72875c4beab22861c03b8997c298421.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/i/status/1349687411228504065",
+          "timestamp": "2021-01-14T11:58:49.473+00:00",
+          "description": "Can we use this moment as a turning point to build what should have always been there?\n\nThe short answer is YES. The DisCO Elements take a step further to address the *how*. \n\nGet your free copy at https://t.co/DzsquwlSAI https://t.co/UUtJixi7hZ",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "DisCO Coop (@discocoop)",
+            "url": "https://twitter.com/discocoop",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/IAJGM3pKUTPF95U_RF4aTEF5B18OQyfBd9-4-FvEDIE/https/pbs.twimg.com/profile_images/1195123012217065472/qmvcHvlX_bigger.jpg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/oBUbFLx_pdLVVGyJXDsiK0bYbeYASfCgbyq4zgry3Js/https/pbs.twimg.com/ext_tw_video_thumb/1349687341833744384/pu/img/8Gymjpn1Gj3glWmt.jpg",
+            "width": 1200,
+            "height": 675
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "829025949181804584",
+      "type": "Default",
+      "timestamp": "2021-04-06T16:13:08.842+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "BOOM",
+      "author": {
+        "id": "780101341124886587",
+        "name": "freedumbs00",
+        "discriminator": "3857",
+        "nickname": "freedumbs00",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/780101341124886587/a72875c4beab22861c03b8997c298421.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "829032547215867935",
+      "type": "Default",
+      "timestamp": "2021-04-06T16:39:21.936+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh here it is",
+      "author": {
+        "id": "523401372188540939",
+        "name": "markop",
+        "discriminator": "2007",
+        "nickname": "markop",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "831916722801606697",
+      "type": "Default",
+      "timestamp": "2021-04-14T15:40:02.981+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "These are the weekly updates from the Commons Swarm!\nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/2?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/2?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - April 14th Hi TEC! These are some of this week’s advances:   We closed the hatch and performed a Commons Upgrade Vote. We have advances on the Hatch Configuration Dashboard (repo). Make sure you check out our Params Hack Sessions, where we are working in modeling the 1Hive marketplace bonding curve. Working wi...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/qqsAj2MmEFx8WSfUBWoiD8MUljhjjMpUwYIfzwOYoHA/https/forum.tecommons.org/uploads/default/original/1X/fe0e39f334f53aae1a4b6236cda3fa20d0975753.png",
+            "width": 535,
+            "height": 286
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "833767795560546374",
+      "type": "Default",
+      "timestamp": "2021-04-19T18:15:33.118+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://hackmd.io/QijHpCIiR6uZXktbIfZI7g?view",
+      "author": {
+        "id": "676517295643820032",
+        "name": "sem(\uD83C\uDF38,\uD83D\uDC1D)",
+        "discriminator": "0161",
+        "nickname": "sem(\uD83C\uDF38,\uD83D\uDC1D)",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/676517295643820032/bfcde0fd88f9b8e9c184906a5080c128.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://hackmd.io/QijHpCIiR6uZXktbIfZI7g?view",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/W0_yLlntuQKoT3Q35FE91UZRvYFIWapsWtiNN406YmE/https/hackmd.io/favicon.png",
+            "width": 128,
+            "height": 128
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "834473247000363018",
+      "type": "Default",
+      "timestamp": "2021-04-21T16:58:45.848+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wednesday weekly updates for the Commons Swarm:\nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/3?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/3?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - April 21st Hi TEC! These are some of this week’s advances in the Commons Swarm:   We have successfuly voted and migrated from a demo Hatch DAO to a newer test DAO. This is the mechanism we are going to use in the Hatch DAO to Commons DAO upgrade. Cultural build tribute is gone!!! This doesn’t exist in the hatc...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/qqsAj2MmEFx8WSfUBWoiD8MUljhjjMpUwYIfzwOYoHA/https/forum.tecommons.org/uploads/default/original/1X/fe0e39f334f53aae1a4b6236cda3fa20d0975753.png",
+            "width": 535,
+            "height": 286
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "836286769082400798",
+      "type": "Default",
+      "timestamp": "2021-04-26T17:05:03.206+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837050013401612288",
+      "type": "Default",
+      "timestamp": "2021-04-28T19:37:54.832+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wednesday weekly updates from the #\uD83C\uDF10｜commons-swarm!! \nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/4?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/4?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - April 28th  Implementing the new front-design for the three types of Hatch Goals    We are doing a ragequit demo with the community, testing the integration of 1Hive redemptions app into the hatch frontend. We have an open discussion to redefine the impact hour formula parameters, so they can be more user frie...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/MKh4YKfiPL41NGyW68Uz1LRVlFrZVtPg58_tl6n3Bc0/https/forum.tecommons.org/uploads/default/original/1X/a9d3d712f5c31490e76022c747763d638670abc0.jpeg",
+            "width": 1164,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "838826785771749397",
+      "type": "Default",
+      "timestamp": "2021-05-03T17:18:10.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "839557965811286077",
+      "type": "Default",
+      "timestamp": "2021-05-05T17:43:37.282+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wednesday weekly updates for #\uD83C\uDF10｜commons-swarm!! Don't miss out on the exciting updates the Commons Swarm is bringing to the Hatch Dashboard!!\n\nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/5?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/5?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - May 5th Hi TEC! These are some of this week’s advances in the Commons Swarm:   Aragon Connect is fixed for xDai!   Code readability improvements.  Fixed normalizer function for ethersProvider.   Play with our latest Hatch Demo!   Front-end polishing: theme and style fixes and responsive view implementation.  H...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/qqsAj2MmEFx8WSfUBWoiD8MUljhjjMpUwYIfzwOYoHA/https/forum.tecommons.org/uploads/default/original/1X/fe0e39f334f53aae1a4b6236cda3fa20d0975753.png",
+            "width": 535,
+            "height": 286
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "841367778355052594",
+      "type": "Default",
+      "timestamp": "2021-05-10T17:35:10.217+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "842820619392385055",
+      "type": "Default",
+      "timestamp": "2021-05-14T17:48:14.513+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Creating Virtuous Cycles at Metagame with ME: https://calendar.google.com/event?action=TEMPLATE&tmeid=NWFtbm4ydW8wZTQ5bWdhYXBydHFvbmE5azcgbmloNTlrdGdhZm1tNjRlZDRxazZ1ZTh2djRAZw&tmsrc=nih59ktgafmm64ed4qk6ue8vv4%40group.calendar.google.com",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Google Calendar",
+          "url": "https://calendar.google.com/event?action=TEMPLATE&tmeid=NWFtbm4ydW8wZTQ5bWdhYXBydHFvbmE5azcgbmloNTlrdGdhZm1tNjRlZDRxazZ1ZTh2djRAZw&tmsrc=nih59ktgafmm64ed4qk6ue8vv4%40group.calendar.google.com",
+          "timestamp": null,
+          "description": "With Google's free online calendar, it’s easy to keep track of life’s important events all in one place.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "843632718298087425",
+      "type": "Default",
+      "timestamp": "2021-05-16T23:35:13.98+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A NEW LINK TO OUR REGULAR SPIRAL DYNAMICS MEETING: https://calendar.google.com/event?action=TEMPLATE&tmeid=OTN2dm5uZGNuZWdiZ252bDE4b2I4ZTRpcjRfMjAyMTA1MjBUMDAwMDAwWiBkdXJnYWRhc2FqaUBt&tmsrc=durgadasaji%40gmail.com&scp=ALL",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Google Calendar",
+          "url": "https://calendar.google.com/event?action=TEMPLATE&tmeid=OTN2dm5uZGNuZWdiZ252bDE4b2I4ZTRpcjRfMjAyMTA1MjBUMDAwMDAwWiBkdXJnYWRhc2FqaUBt&tmsrc=durgadasaji%40gmail.com&scp=ALL",
+          "timestamp": null,
+          "description": "With Google's free online calendar, it’s easy to keep track of life’s important events all in one place.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "843905203682017300",
+      "type": "Default",
+      "timestamp": "2021-05-17T17:37:59.558+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "846444446471684096",
+      "type": "Default",
+      "timestamp": "2021-05-24T17:48:02.216+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "847158460973973554",
+      "type": "Default",
+      "timestamp": "2021-05-26T17:05:16.539+00:00",
+      "timestampEdited": "2021-05-26T17:05:34.875+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Weekly updates for the #\uD83C\uDF10｜commons-swarm!! \nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/8?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/8?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - May 26th Hi TEC! These are some of this week’s advances in the Commons Swarm:   We have release candidates for all the hatch smart contracts. They are currently being reviewed and next week we’re planning a rehearsal with the parameters that end up winning the vote on June 1st.   Contracts are verified and the...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/qqsAj2MmEFx8WSfUBWoiD8MUljhjjMpUwYIfzwOYoHA/https/forum.tecommons.org/uploads/default/original/1X/fe0e39f334f53aae1a4b6236cda3fa20d0975753.png",
+            "width": 535,
+            "height": 286
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "848999375656452104",
+      "type": "Default",
+      "timestamp": "2021-05-31T19:00:24.802+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "851537165212319775",
+      "type": "Default",
+      "timestamp": "2021-06-07T19:04:40.982+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "852257421283295262",
+      "type": "Default",
+      "timestamp": "2021-06-09T18:46:43.411+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wednesday weekly updates!! https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/10?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/10?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - June 9th Hi TEC! These are some of this week’s advances in the Commons Swarm:   The dress rehearsal hatch reached 1M tDAI! Drops confetti. The new demo has a different video (the final one will be ready during the official hatch) and the final description with a FAQ section. We are working towards making the C...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FiLYemr9vU9t6ar99pr3YX_nI9qtis21eS1PnzzJBbk/https/forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "854048357583552532",
+      "type": "Default",
+      "timestamp": "2021-06-14T17:23:15.899+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "856584748528697374",
+      "type": "Default",
+      "timestamp": "2021-06-21T17:21:58.624+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "857410559220908112",
+      "type": "Default",
+      "timestamp": "2021-06-24T00:03:27.236+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wednesday weekly updates from the Commons Swarm!\n\nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/13?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/13?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - June 23rd Hi TEC! These are some of this week’s advances in the Commons Swarm:   We have been working on improving Conviction Voting and Augmented Bonding Curve models. Regarding the Commons Upgrade, we’ve been developing a work-in-progress library to make the creation of EVMScript votes much easier. In this s...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FiLYemr9vU9t6ar99pr3YX_nI9qtis21eS1PnzzJBbk/https/forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "859125091179036702",
+      "type": "Default",
+      "timestamp": "2021-06-28T17:36:23.509+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 0,
+            "height": 0
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 0,
+              "height": 0
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861656015728934922",
+      "type": "Default",
+      "timestamp": "2021-07-05T17:13:22.944+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862397044588806175",
+      "type": "Default",
+      "timestamp": "2021-07-07T18:17:57.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wednesday weekly updates from the Commons Swarm!\n\nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/14?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/14?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - June 30th to July 7th Hi TEC! These are some of this week’s advances in the Commons Swarm:   The dress rehearsal recap summarizes the process of test tokens going through the smart contracts: mintings, impact hours, ragequitting, and the “commons” upgrade. We have a new version of TEC Convert.  Uses the new si...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FiLYemr9vU9t6ar99pr3YX_nI9qtis21eS1PnzzJBbk/https/forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "864193620177190952",
+      "type": "Default",
+      "timestamp": "2021-07-12T17:16:54.991+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "865653261788643349",
+      "type": "Default",
+      "timestamp": "2021-07-16T17:57:00.67+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I had a question, what's the address/id for the HatchConfig? (*my terminology might be wrong here)-\n\nI was trying to query some data from the subgraph, but I'm not sure how to fetch the data for 'The Hatch'\n```js\n{\n  contributions(first: 1000, where: {hatchConfig: HATCH_ADDRESS}) {\n    id\n    amount\n    value\n  }\n}\n```\n\n```js\n{\n  hatchConfig (id: <ADDRESS>) {\n    id\n    address\n    token {\n      id\n    }\n    reserve\n  }\n}\n```",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD77\uD83C\uDFFD",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f977-1f3fd.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "865660235549245511",
+      "type": "Default",
+      "timestamp": "2021-07-16T18:24:43.344+00:00",
+      "timestampEdited": "2021-07-16T18:29:04.645+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, nvm I was using the wrong subgraph(I used <https://api.thegraph.com/subgraphs/name/commonsswarm/aragon-hatch-xdai-staging> instead of <https://api.thegraph.com/subgraphs/name/commonsswarm/aragon-hatch-xdai>, and that kept showing TESTTEC)",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "866729802344693783",
+      "type": "Default",
+      "timestamp": "2021-07-19T17:14:47.94+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "869266590288453652",
+      "type": "Default",
+      "timestamp": "2021-07-26T17:15:05.317+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 960,
+            "height": 540
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "871803163424981012",
+      "type": "Default",
+      "timestamp": "2021-08-02T17:14:31.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "874340024395632721",
+      "type": "Default",
+      "timestamp": "2021-08-09T17:15:06.268+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "876876607866945546",
+      "type": "Default",
+      "timestamp": "2021-08-16T17:14:34.895+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "879412303009828884",
+      "type": "Default",
+      "timestamp": "2021-08-23T17:10:31.728+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "881949853268181042",
+      "type": "Default",
+      "timestamp": "2021-08-30T17:13:50.855+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "882649563926769714",
+      "type": "Default",
+      "timestamp": "2021-09-01T15:34:14.876+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Monthly* updates from the Commons Swarm! \uD83C\uDF10 \n\nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/16?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/16?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Monthly* Commons Update - August 5th to September 1st Hi TEC! These are some of last month’s advances in the Commons Swarm:   We have released documentation on how to install the Augmented Bonding Curve in any Aragon or Gardens DAO. It’s only available on Rinkeby for now, but we will publish it on xDAI mainnet as soon as the code is ...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FiLYemr9vU9t6ar99pr3YX_nI9qtis21eS1PnzzJBbk/https/forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "884486578557308968",
+      "type": "Default",
+      "timestamp": "2021-09-06T17:13:53.294+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "885270096728195122",
+      "type": "Default",
+      "timestamp": "2021-09-08T21:07:18.583+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wednesday's weekly updates for the Commons Swarm :TEC: \uD83D\uDC1D \n\nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/17?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/17?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - September 2-8 Hi TEC! These are some of last month’s advances in the Commons Swarm:   We presented a design and some yet-to-be-tested code for a Hooked Voting Aggregator that allows to have multi-token Commons/Gardens within the proper circumstances (all tokens must be hooked). We wrote tests that cover all th...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FiLYemr9vU9t6ar99pr3YX_nI9qtis21eS1PnzzJBbk/https/forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "887023039273918524",
+      "type": "Default",
+      "timestamp": "2021-09-13T17:12:52.654+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "889558806089056296",
+      "type": "Default",
+      "timestamp": "2021-09-20T17:09:06.575+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892096747487248474",
+      "type": "Default",
+      "timestamp": "2021-09-27T17:13:58.957+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "893162294261997649",
+      "type": "Default",
+      "timestamp": "2021-09-30T15:48:05.105+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "183879548394274816",
+        "name": "Zeptimus",
+        "discriminator": "3359",
+        "nickname": "Zeptimus",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "893162291619581972",
+          "url": "https://cdn.discordapp.com/attachments/810180622479917064/893162291619581972/242298474_23848661649260060_8846711529221137262_n.png",
+          "fileName": "242298474_23848661649260060_8846711529221137262_n.png",
+          "fileSizeBytes": 333815
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44f.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "894633812452077630",
+      "type": "Default",
+      "timestamp": "2021-10-04T17:15:22.381+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "895354062931894282",
+      "type": "Default",
+      "timestamp": "2021-10-06T16:57:23.477+00:00",
+      "timestampEdited": "2021-10-06T16:58:02.738+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Updates from the Commons Swarm \uD83C\uDF10\n\nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/19?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "897169850559004702",
+      "type": "Default",
+      "timestamp": "2021-10-11T17:12:40.983+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899706957085163550",
+      "type": "Default",
+      "timestamp": "2021-10-18T17:14:14.316+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "900420460653740072",
+      "type": "Default",
+      "timestamp": "2021-10-20T16:29:26.823+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Weekly updates from the #\uD83C\uDF10｜commons-swarm \uD83C\uDF10 \n\nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/21?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/21?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - Oct 14-20 Hi TEC! These are some of last week’s advances in the Commons Swarm:   The EVMCrispr Terminal is a tool developed by the Commons Swarm that has been getting a lot of love ❤ from many members of the community:  Agave folks have contributed in improving the voting testing capabilities to be able to che...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FiLYemr9vU9t6ar99pr3YX_nI9qtis21eS1PnzzJBbk/https/forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "902241491483787295",
+      "type": "Default",
+      "timestamp": "2021-10-25T17:05:34.406+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "903035975066853467",
+      "type": "Default",
+      "timestamp": "2021-10-27T21:42:34.053+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wednesday weekly updates from the #\uD83C\uDF10｜commons-swarm \uD83C\uDF10 \n\nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/22?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/22?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - Oct 21-27 Hi TEC! These are some of last week’s advances in the Commons Swarm:   We have released a new article of the “Commons Swarm Outcomes” series: A fundraising module for DAOs.  This second part is focused on describing the different pieces of the Hatch DAO that can be composed altogether in different op...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FiLYemr9vU9t6ar99pr3YX_nI9qtis21eS1PnzzJBbk/https/forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "904778531639267328",
+      "type": "Default",
+      "timestamp": "2021-11-01T17:06:51.915+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "905945710460014604",
+      "type": "Default",
+      "timestamp": "2021-11-04T22:24:49.031+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Weekly updates for the #\uD83C\uDF10｜commons-swarm \nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/23?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/23?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - Oct 28 - Nov 3 Hi TEC! These are some of last week’s advances in the Commons Swarm:   We have had great advances with the Augmented Bonding Curve, making it more secure, simple, and efficient based on the review of Shokai.  Some cool stuff you  can check out:   There have been plenty of advances in the integra...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FiLYemr9vU9t6ar99pr3YX_nI9qtis21eS1PnzzJBbk/https/forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "907315213697699870",
+      "type": "Default",
+      "timestamp": "2021-11-08T17:06:44.047+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "907346798346129419",
+      "type": "Default",
+      "timestamp": "2021-11-08T19:12:14.414+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/ensdomains/status/1457428261047312400?s=20 CLAIM YOUR ENS TOKENS if you have an ENS address!",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/ensdomains/status/1457428261047312400?s=20",
+          "timestamp": "2021-11-07T19:22:29.798+00:00",
+          "description": "7pm US eastern time on Monday November 8th\n\nThat's the time when the ENS governance token $ENS will launch and the token claim website https://t.co/ZGGfGLhdhS will open for claiming.\n\nWatch this Twitter account for the latest info.\n\nSee the thread below for more:",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "ens.eth (@ensdomains)",
+            "url": "https://twitter.com/ensdomains",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/8JL_I1blcsk4Yu_ItLqCNlmwmGL9lqrc3zCXJuMJvHE/https/pbs.twimg.com/profile_images/1455381288756695041/acatxTm8_bigger.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Retweets",
+              "value": "688",
+              "isInline": true
+            },
+            {
+              "name": "Likes",
+              "value": "2479",
+              "isInline": true
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "909851832996757504",
+      "type": "Default",
+      "timestamp": "2021-11-15T17:06:21.216+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "912388667958521867",
+      "type": "Default",
+      "timestamp": "2021-11-22T17:06:49.803+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "914925342689464391",
+      "type": "Default",
+      "timestamp": "2021-11-29T17:06:40.188+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "917460818843557938",
+      "type": "Default",
+      "timestamp": "2021-12-06T17:01:44.81+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "831551539003785236",
+        "name": "Commons call reminder",
+        "discriminator": "0000",
+        "nickname": "Commons call reminder",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**TEC Commons Swarm Weekly sync**",
+          "url": null,
+          "timestamp": null,
+          "description": "Join Commons Swarm Weekly sync call in 1h\nLink: [https://discord.gg/gSruFFZjcH](https://discord.gg/gSruFFZjcH)\n**AGENDA AND NOTES**\n[https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4](https://docs.google.com/document/d/159YbgyeCkcUYqpiq49rTh5CeRnmF4u_GYkr3UDUtJpk/edit?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3Thlr33kR2QuDdslqc1ME4)",
+          "color": "#0F2EEE",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8osN0Lp3Aec4IsRCZGKOyWFT1UnWlsmW-fHnKbikXgg/https/images-ext-1.discordapp.net/external/9wjKKfnz90VR4MCxCu_KYVee6HDO8smJduqtL8dbNCs/%253Fsize%253D128/https/cdn.discordapp.com/icons/776352494992883722/0000b679a3e5f283653a38e138a43f9b.webp",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+            "width": 910,
+            "height": 512
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/J140jCJ0iiuAvn5xiAsTqdXkc7wf0WD_XMTjamP2rQA/https/raw.githubusercontent.com/Vyvy-vi/TEC-Discord-Automation/main/.github/resources/Banner_commons.png",
+              "width": 910,
+              "height": 512
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time:",
+              "value": "Monday, 8pm CET",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920704542771912735",
+      "type": "Default",
+      "timestamp": "2021-12-15T15:51:08.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Weekly updates for the #\uD83C\uDF10｜commons-swarm \n\nhttps://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/25?u=chuygarcia92",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Swarm - How are we doing?",
+          "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/25?u=chuygarcia92",
+          "timestamp": null,
+          "description": "Wednesday’s Weekly Commons Update - Nov 25 - Dec 15 Hi TEC! These are some of last week’s advances in the Commons Swarm:   The final revision of the bonding curve is already deployed, so the contract is ready to be used by any DAO that wants to issue their token based on this mechanism.  The Commons Upgrade demo is live using the TEC Casino temp...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FiLYemr9vU9t6ar99pr3YX_nI9qtis21eS1PnzzJBbk/https/forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928709705386319933",
+      "type": "Default",
+      "timestamp": "2022-01-06T18:00:48.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/spreadsheets/d/1p5cmCkY5ys1uR8pqyilAz1-ByTtNY6wUjN5Kqac9vME/edit#gid=0",
+      "author": {
+        "id": "395673197615513600",
+        "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "discriminator": "8888",
+        "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Timeline for Launch",
+          "url": "https://docs.google.com/spreadsheets/d/1p5cmCkY5ys1uR8pqyilAz1-ByTtNY6wUjN5Kqac9vME/edit",
+          "timestamp": null,
+          "description": "Sheet1\n\nAll Times Costa Rica Time\nIf we guess right.. Assuming Best Case 5 day Vote Duration\n1/12/2021 11:00:00,Deploy the one we think will win\n1/13/2021 8:00:00,Vote is Final\n1/13/2021 8:30:00,Create the Migration Vote \n1/17/2021 8:30:00,Miration Vote Passes, Ragequit time starts\n1/19/2021 8:30:00",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Y3FJrfDw58LbUTSONN7wHDP7vvdErIPYowFb0slqvig/https/lh6.googleusercontent.com/BvO6M6hYTyI29METVqt7IbSLquu51ZaoDbDq6hX1H8brCnV2gyITm5jsDjRwZA65HzIlaWb5l8wxrQ%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "935479622668275712",
+      "type": "Default",
+      "timestamp": "2022-01-25T10:22:02.415+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!praise @Nuggan @sem(\uD83C\uDF38,\uD83D\uDC1D) @iviangita for the Real Time Launch action! Great sharing the war room with you!!!",
+      "author": {
+        "id": "395673197615513600",
+        "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "discriminator": "8888",
+        "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2705.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "676517295643820032",
+          "name": "sem(\uD83C\uDF38,\uD83D\uDC1D)",
+          "discriminator": "0161",
+          "nickname": "sem(\uD83C\uDF38,\uD83D\uDC1D)",
+          "isBot": false
+        },
+        {
+          "id": "714915268329078894",
+          "name": "Nuggan",
+          "discriminator": "5183",
+          "nickname": "Nuggan",
+          "isBot": false
+        },
+        {
+          "id": "753834288511713303",
+          "name": "iviangita",
+          "discriminator": "3204",
+          "nickname": "iviangita",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "935488851324051496",
+      "type": "Default",
+      "timestamp": "2022-01-25T10:58:42.698+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823",
+      "author": {
+        "id": "676517295643820032",
+        "name": "sem(\uD83C\uDF38,\uD83D\uDC1D)",
+        "discriminator": "0161",
+        "nickname": "sem(\uD83C\uDF38,\uD83D\uDC1D)",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/676517295643820032/bfcde0fd88f9b8e9c184906a5080c128.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hatch Bot NFT in Metal \uD83E\uDD18",
+          "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823",
+          "timestamp": null,
+          "description": "TL;DR  We will ship a physical version of the Hatch NFT to those who acquired it. We will pay retroactively the people who made possible the NFT in the first place, including the original artist.   Proposal description We would like to bring the Hatch Bot NFT into the real world, by printing it in aluminum and send it to their owners.  We would ...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8KqJGfq9Xe7baR06bavo2wFLYn8v-nwyuUlFHyGi9Xc/https/forum.tecommons.org/uploads/default/original/1X/93b67f49a4fcdbd1a0217b184a2c3c2accd1a201.png",
+            "width": 880,
+            "height": 878
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938977882036912138",
+      "type": "Default",
+      "timestamp": "2022-02-04T02:02:52.443+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!praise @divine_comedian for being such a rockstar, already tested changing the entry and exit tributes https://gardens-staging.1hive.org/#/xdai/garden/0x854edac1f992f71a5f0eabbb016221064b6e4434/vote/3",
+      "author": {
+        "id": "395673197615513600",
+        "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "discriminator": "8888",
+        "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gardens",
+          "url": "https://gardens-staging.1hive.org/",
+          "timestamp": null,
+          "description": "Gardens",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2705.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "288019500132073472",
+          "name": "divine_comedian",
+          "discriminator": "5493",
+          "nickname": "mitch (\uD83C\uDF54, \uD83C\uDF54)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "938977995245371433",
+      "type": "Default",
+      "timestamp": "2022-02-04T02:03:19.434+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!praise @mitch for being the \"DAO whisperer\"",
+      "author": {
+        "id": "395673197615513600",
+        "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "discriminator": "8888",
+        "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938977996201689161",
+      "type": "Default",
+      "timestamp": "2022-02-04T02:03:19.662+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Griff (\uD83D\uDC9C,\uD83D\uDC9C) Specify the user",
+      "author": {
+        "id": "797473774823538688",
+        "name": "Praise",
+        "discriminator": "7460",
+        "nickname": "Praise",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797473774823538688/9e0ae9eca43256aae6dd2d62af82dd7f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "395673197615513600",
+          "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+          "discriminator": "8888",
+          "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "938978057862135808",
+      "type": "Default",
+      "timestamp": "2022-02-04T02:03:34.363+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!praise @divine_comedian for being the \"DAO whisperer\"",
+      "author": {
+        "id": "395673197615513600",
+        "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "discriminator": "8888",
+        "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2705.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "288019500132073472",
+          "name": "divine_comedian",
+          "discriminator": "5493",
+          "nickname": "mitch (\uD83C\uDF54, \uD83C\uDF54)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "948955788242747452",
+      "type": "Default",
+      "timestamp": "2022-03-03T14:51:30.663+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @Griff (\uD83D\uDC9C,\uD83D\uDC9C) @sem(\uD83C\uDF38,\uD83D\uDC1D) Do you have any objection to me moving this channel to the Archive section of our Discord?",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "395673197615513600",
+          "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+          "discriminator": "8888",
+          "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+          "isBot": false
+        },
+        {
+          "id": "676517295643820032",
+          "name": "sem(\uD83C\uDF38,\uD83D\uDC1D)",
+          "discriminator": "0161",
+          "nickname": "sem(\uD83C\uDF38,\uD83D\uDC1D)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "966954502324383774",
+      "type": "Default",
+      "timestamp": "2022-04-22T06:51:58.5+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wassup everyone GM!",
+      "author": {
+        "id": "945592804036476968",
+        "name": "Sunnybeee",
+        "discriminator": "6123",
+        "nickname": "Sunnybeee",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/945592804036476968/a0e836408259d7ac2685563dd0a9cbd7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "967592660204392468",
+      "type": "Default",
+      "timestamp": "2022-04-24T01:07:47.195+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sup",
+      "author": {
+        "id": "276022903915675648",
+        "name": "l_silva",
+        "discriminator": "9554",
+        "nickname": "l_silva",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276022903915675648/9b9c5815fc3e1302cbf3e1e615f47ca7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "967952534998220864",
+      "type": "Default",
+      "timestamp": "2022-04-25T00:57:48.032+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sup",
+      "author": {
+        "id": "392867630891139093",
+        "name": "tonga",
+        "discriminator": "3112",
+        "nickname": "tonga",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392867630891139093/ee5be3293a914335edb0f850808d8456.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000432425505144893",
+      "type": "Default",
+      "timestamp": "2022-07-23T16:01:17.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi",
+      "author": {
+        "id": "409477390356578324",
+        "name": "vezir04",
+        "discriminator": "6711",
+        "nickname": "vezir04",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/409477390356578324/91637e25948200dbd60b38153d1cb993.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 104
+}

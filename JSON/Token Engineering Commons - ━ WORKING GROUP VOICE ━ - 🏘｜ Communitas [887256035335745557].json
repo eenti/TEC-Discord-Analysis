@@ -1,0 +1,1362 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "887256035335745557",
+    "type": "GuildVoiceChat",
+    "categoryId": "816362403947479060",
+    "category": "━ WORKING GROUP VOICE ━",
+    "name": "\uD83C\uDFD8｜ Communitas",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "985980572478357567",
+      "type": "Default",
+      "timestamp": "2022-06-13T18:54:47.112+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorry everyone! I had some kind of a glitch and didn't heard Edu \uD83D\uDE05",
+      "author": {
+        "id": "923588346696052737",
+        "name": "Sha",
+        "discriminator": "6179",
+        "nickname": "Sha",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/923588346696052737/53fc02ac8a164cd9c04718096c03c2cb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "985981417790009434",
+      "type": "Default",
+      "timestamp": "2022-06-13T18:58:08.65+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gotta hop off, but I'm loving what @LBS is saying!",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "633708951447535616",
+          "name": "LBS",
+          "discriminator": "6541",
+          "nickname": "LBS",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "988505802253946880",
+      "type": "Default",
+      "timestamp": "2022-06-20T18:09:08.807+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@bear100 I wrote this some time ago while I was working in the SourceCred community: https://discourse.sourcecred.io/t/thoughts-on-measuring-value/1026",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Thoughts on Measuring Value",
+          "url": "https://discourse.sourcecred.io/t/thoughts-on-measuring-value/1026",
+          "timestamp": null,
+          "description": "So these thoughts have been brewing for a minute, and Jojo’s post “Snapshot of a Newbie” catalyzed them into a more concrete idea. You can read my reply to Jojo’s Topic where these thoughts came from if you’re curious.  Value. It’s a huge part of what we do and what we think about. But value as a topic can be touchy and it can get personal. We’v...",
+          "color": "#111111",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/PTQ0yFOOH3m07REBzKxenC8tM_ypyIZFPAyLa3GTBqw/https/aws1.discourse-cdn.com/standard11/uploads/sourcecred1/original/1X/986dcce90e935da074dd1c478dfca1da289ee43d.png",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2764.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f49c.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "836058804759691265",
+          "name": "bear100",
+          "discriminator": "9085",
+          "nickname": "bear100",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "988506005186940929",
+      "type": "Default",
+      "timestamp": "2022-06-20T18:09:57.19+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you for sharing. I’ll check it out",
+      "author": {
+        "id": "836058804759691265",
+        "name": "bear100",
+        "discriminator": "9085",
+        "nickname": "bear100",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✨",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2728.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "988514343077417010",
+      "type": "Default",
+      "timestamp": "2022-06-20T18:43:05.098+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "988514342414721044",
+          "url": "https://cdn.discordapp.com/attachments/887256035335745557/988514342414721044/Screen_Shot_2022-06-20_at_8.42.59_PM.png",
+          "fileName": "Screen_Shot_2022-06-20_at_8.42.59_PM.png",
+          "fileSizeBytes": 62764
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "988514829549600868",
+      "type": "Default",
+      "timestamp": "2022-06-20T18:45:01.082+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "good points!",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "988516065816481832",
+      "type": "Default",
+      "timestamp": "2022-06-20T18:49:55.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@GideonRo Some notes I wrote re Membership last night:\n\nMember\n* Has signed the Community Covenant\n* Has access to necessary tools/platforms\n* Praise activated\n* Has attended one orientation call\n* Has access to weekly reports/newsletters, twitter, etc.",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "343470788491476992",
+          "name": "GideonRo",
+          "discriminator": "3175",
+          "nickname": "Gideonro",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "988518466694836244",
+      "type": "Default",
+      "timestamp": "2022-06-20T18:59:28.245+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Member:\n- Understands social community\n- Understands basics of Token Engineering\n- Participates in governance of TEC\n- Makes contributions to the TEC\n\n@eduardovegap",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "573648007384530954",
+          "name": "eduardovegap",
+          "discriminator": "0422",
+          "nickname": "Edu",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "993590471668535406",
+      "type": "Default",
+      "timestamp": "2022-07-04T18:53:48.464+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://relevant.community/general/top",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Support",
+          "url": "https://relevant.community/general/top",
+          "timestamp": null,
+          "description": "A space for introductions, questions, and updates from the Relevant Team\n\nNew to Relevant? \nCheck out [this guide](https://relevant.community/general/post/5f442f65800055001716f84f).",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/K9bGWyU_iUHpPD6RpdaeHIvk2p_usQFbh41QsPWPqFA/https/relevant-image.s3.amazonaws.com/y875rnddb_.png",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "996116046870220940",
+      "type": "Default",
+      "timestamp": "2022-07-11T18:09:32.515+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Irem Sometimes the internet isn't good enough to do video, but it can do voice. I'd recommend just suing your mic and not your camera. \uD83D\uDC4D",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "984284705325191250",
+          "name": "Irem",
+          "discriminator": "3362",
+          "nickname": "Irem",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "996116233109901363",
+      "type": "Default",
+      "timestamp": "2022-07-11T18:10:16.918+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will try now, thank you!!",
+      "author": {
+        "id": "984284705325191250",
+        "name": "Irem",
+        "discriminator": "3362",
+        "nickname": "Irem",
+        "color": "#11806A",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/984284705325191250/146964881a464689fa2c2035ac993861.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "996117229391335434",
+      "type": "Default",
+      "timestamp": "2022-07-11T18:14:14.45+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah! \uD83D\uDE42",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "996119681989619784",
+      "type": "Default",
+      "timestamp": "2022-07-11T18:23:59.195+00:00",
+      "timestampEdited": "2022-07-11T18:24:20.787+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.figma.com/file/tbktpVFbUEKOrSWSlkZWi3/TE-FLOWER?node-id=2%3A2",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TE FLOWER",
+          "url": "https://www.figma.com/file/tbktpVFbUEKOrSWSlkZWi3/TE-FLOWER?node-id=2%3A2",
+          "timestamp": null,
+          "description": "Created with Figma",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/pJXeSdYjhTAxGgrAJ00dr3Bi_m0vyb2yf_vMyTBQr7Q/%3Fver%3Dthumbnails%2Fcf5b0687-430b-46c2-8eb8-81eb427c321a/https/www.figma.com/file/tbktpVFbUEKOrSWSlkZWi3/thumbnail",
+            "width": 800,
+            "height": 325
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "996125806755590234",
+      "type": "Default",
+      "timestamp": "2022-07-11T18:48:19.453+00:00",
+      "timestampEdited": "2022-07-11T18:48:50.546+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Exactly, @bear100 No need to reinvent the wheel!",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "836058804759691265",
+          "name": "bear100",
+          "discriminator": "9085",
+          "nickname": "bear100",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1006267556975349850",
+      "type": "Default",
+      "timestamp": "2022-08-08T18:28:01.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://forms.gle/T3jeTmTD2wXXVyGB9",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DAO Contributor Sentiment Tracker",
+          "url": "https://forms.gle/T3jeTmTD2wXXVyGB9",
+          "timestamp": null,
+          "description": "This survey covers the entire DAO space. While answering please keep in mind ALL the DAOs you are actively contributing to currently or in the recent past\n\nThis survey should take up to 5 minutes to answer\n\nYour answers will help build a report on the overall sentiment and levels of satisfaction from working with DAOs. This will in turn guide DA...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/cz9f7O7m6cmn7LHYrc3LfGCeNf5hYpQ7z0cU7c-ob-A/https/lh6.googleusercontent.com/iwXUKKeAI7mMcVz0LmWz4D-bdslB6FwiJrwD-F8uEYvJi46UWRoeVHWUYlT7a_oN-TbvI9ZOzC8%3Dw1200-h630-p",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1006268878848012378",
+      "type": "Default",
+      "timestamp": "2022-08-08T18:33:16.289+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Expanding the understanding of the advice process would be amazing, and I think that having a channel to do some of that work in could help with actually going through the Advice Process.",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1006269141528883281",
+      "type": "Default",
+      "timestamp": "2022-08-08T18:34:18.917+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've also noticed that the Discourse forums aren't being used very much or have much visibility? Maybe it's a symptom of that?",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1006269165323173968",
+      "type": "Default",
+      "timestamp": "2022-08-08T18:34:24.59+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@eduardovegap",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "573648007384530954",
+          "name": "eduardovegap",
+          "discriminator": "0422",
+          "nickname": "Edu",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1006269423247695932",
+      "type": "Default",
+      "timestamp": "2022-08-08T18:35:26.084+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SourceCred used its forum a lot, but it wasn't super organized.",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1006269822314750133",
+      "type": "Default",
+      "timestamp": "2022-08-08T18:37:01.229+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Biiig agree with Irem and Gideon",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1006269896268726443",
+      "type": "Default",
+      "timestamp": "2022-08-08T18:37:18.861+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "actually i am very new for all this resources and havent even visited the TEC Discourse so far\uD83D\uDE44  The channel will make this all more visible indeed",
+      "author": {
+        "id": "937411935362752632",
+        "name": "marinatsay",
+        "discriminator": "1494",
+        "nickname": "marinatsay",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/937411935362752632/083db9ef34d17aab57dc9c85d2025324.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1006270085482160128",
+      "type": "Reply",
+      "timestamp": "2022-08-08T18:38:03.973+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://forum.tecommons.org/ it's a lot of information! take your time \uD83D\uDE04",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Token Engineering Commons",
+          "url": "https://forum.tecommons.org/",
+          "timestamp": null,
+          "description": "Building safe digital economies that protect and support public goods",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FiLYemr9vU9t6ar99pr3YX_nI9qtis21eS1PnzzJBbk/https/forum.tecommons.org/uploads/default/original/1X/ffd103eeda16b5f36d93f2909785859dd9ee73cb.png",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "937411935362752632",
+          "name": "marinatsay",
+          "discriminator": "1494",
+          "nickname": "marinatsay",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1006269896268726443",
+        "channelId": "887256035335745557",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1006270214146621490",
+      "type": "Default",
+      "timestamp": "2022-08-08T18:38:34.649+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah it took me a really long time to realize there was a Discourse forum too.",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1006270336427376711",
+      "type": "Default",
+      "timestamp": "2022-08-08T18:39:03.803+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oooooooonboarding!",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1006270413891981372",
+      "type": "Default",
+      "timestamp": "2022-08-08T18:39:22.272+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Governance onboarding !!! Yeah!",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1006270423937319003",
+      "type": "Default",
+      "timestamp": "2022-08-08T18:39:24.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There's an onboarding call? lol",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1006270443898024007",
+      "type": "Default",
+      "timestamp": "2022-08-08T18:39:29.426+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its a lot of info at onboarding",
+      "author": {
+        "id": "937411935362752632",
+        "name": "marinatsay",
+        "discriminator": "1494",
+        "nickname": "marinatsay",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/937411935362752632/083db9ef34d17aab57dc9c85d2025324.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1016396288390086717",
+      "type": "Default",
+      "timestamp": "2022-09-05T17:15:58.882+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@eduardovegap we're getting a little echo from your mic",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "573648007384530954",
+          "name": "eduardovegap",
+          "discriminator": "0422",
+          "nickname": "Edu",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1016396382782890095",
+      "type": "Reply",
+      "timestamp": "2022-09-05T17:16:21.387+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks! was unmuted haaha",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "633708951447535616",
+          "name": "LBS",
+          "discriminator": "6541",
+          "nickname": "LBS",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1016396288390086717",
+        "channelId": "887256035335745557",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1016396422398103674",
+      "type": "Default",
+      "timestamp": "2022-09-05T17:16:30.832+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "❤️ ✨",
+      "author": {
+        "id": "633708951447535616",
+        "name": "LBS",
+        "discriminator": "6541",
+        "nickname": "LBS",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/633708951447535616/627b6486e78c01f75f904e757c6e218c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1016397936483123223",
+      "type": "20",
+      "timestamp": "2022-09-05T17:22:31.818+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ Praise @bear100 For his document on reputation! great work!",
+      "author": {
+        "id": "948497297308807178",
+        "name": "TEC Praise Bot",
+        "discriminator": "3550",
+        "nickname": "TEC Praise Bot",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/948497297308807178/235494c88f3103356bff9f24b459b27a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "836058804759691265",
+          "name": "bear100",
+          "discriminator": "9085",
+          "nickname": "bear100",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1018932904451129386",
+      "type": "Default",
+      "timestamp": "2022-09-12T17:15:35.279+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/presentation/d/1TeCkbFeLyOlQ1rY1jGCP3mjdg9XDBxl7bqunn1Wofdk/edit#slide=id.g10f8845cf7a_0_0",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "COMMUNITY DATA AUG/SEP",
+          "url": "https://docs.google.com/presentation/d/1TeCkbFeLyOlQ1rY1jGCP3mjdg9XDBxl7bqunn1Wofdk/edit",
+          "timestamp": null,
+          "description": "COMMUNITY DATA NOV/DEC",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/R-EfZsa4ZLBK0pJs6u5M-qPWWQlbmnpsefIlmD6z1CQ/https/lh4.googleusercontent.com/DTTd9o5axdO3D5AgUmOdq1pOjujU0uwRWJU3uAaKHpZ5WJNkR15HJ8noJ92fDuv-gzkEuAFkJk0kbQ%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018938724261830726",
+      "type": "Default",
+      "timestamp": "2022-09-12T17:38:42.83+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/document/d/1y4kaZM5nWypg1iVf4m-7yvv5BDB6odxwrhpnqGsX0ZE/edit",
+      "author": {
+        "id": "216946363584348162",
+        "name": "Costa",
+        "discriminator": "7828",
+        "nickname": "Costa",
+        "color": "#11806A",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/216946363584348162/c2fc71c50fae5976fd3ffdd9cbdf0f2a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Guides on Guides",
+          "url": "https://docs.google.com/document/d/1y4kaZM5nWypg1iVf4m-7yvv5BDB6odxwrhpnqGsX0ZE/edit",
+          "timestamp": null,
+          "description": "Guides TLDR.  The objective of the TEC Guide is to be the connector that nudges a newcomer toward the WG or individuals they are most likely to connect with. So, the TEC Guide fulfils a different role than a “Buddy” would. Getting to know the newcomer and having a good understanding of what’s hap...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/QASmxlffw4l8BVqu5Azv71WQDaaU-Q-He6VEKES35WQ/https/lh6.googleusercontent.com/TXgCPQ_xxI9ofnSx3gCHeABqK8OTXc8-nzTmwM4yH3lpHiXE5jDY5-6_2NJcSFUkjiIN0bHPto86Rg%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018938801764179988",
+      "type": "Default",
+      "timestamp": "2022-09-12T17:39:01.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/master",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A Brief History",
+          "url": "https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/master",
+          "timestamp": null,
+          "description": "This handbook is meant to help you understand, navigate and contribute to the Token Engineering Commons..",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/edbqnWQC1Ma4gy-uSipa1yzDIqahTE4lg2OOmefURDc/%3Fcolor%3D%2523FD40FE%26logo%3Dhttps%253A%252F%252F89038353-files.gitbook.io%252F~%252Ffiles%252Fv0%252Fb%252Fgitbook-legacy-files%252Fo%252Fspaces%25252F-MRe_M_mUIIB11A-MQyZ%25252Favatar-rectangle-1616086536325.png%253Fgeneration%253D1616086536797603%2526alt%253Dmedia%26theme%3Ddark/https/app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ/page/-MRe_PJes4Hz4ZnbFJcy.png",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018942178040496208",
+      "type": "Default",
+      "timestamp": "2022-09-12T17:52:26.275+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit#slide=id.gf284b1ec84_9_0",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TEC Community Call Updates",
+          "url": "https://docs.google.com/presentation/d/1msWeZyBOURMEMqF_WtsmYqaBnBCQz7oKkKLp2xxpwIE/edit",
+          "timestamp": null,
+          "description": "COMMUNITY CALL 95 Weekly updates from the TEC September 8 tecommons.org General Voice Channel",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/reL0FMFQgRSFV8v4xNkNCPIEQIfMubmYP6CgWIiJC8U/https/lh3.googleusercontent.com/J9MwhV10fEDd2DcRrfWfFIaq8Et4EDCj5PjwBpgILiRkRxXk0fpDVHKRTqa2mMbSP1gy8AmuquLnfA%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1021469608739360838",
+      "type": "Default",
+      "timestamp": "2022-09-19T17:15:32.711+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm happy to chime in in those calls to help there if needed",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1024009814004736092",
+      "type": "Default",
+      "timestamp": "2022-09-26T17:29:24.841+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "angie has that role to amplify TEA stuff",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1024009841125117952",
+      "type": "Default",
+      "timestamp": "2022-09-26T17:29:31.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the amplifier",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1024012058242588822",
+      "type": "Default",
+      "timestamp": "2022-09-26T17:38:19.909+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Agreed on that \uD83D\uDC4D",
+      "author": {
+        "id": "836058804759691265",
+        "name": "bear100",
+        "discriminator": "9085",
+        "nickname": "bear100",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1024012765934932121",
+      "type": "Default",
+      "timestamp": "2022-09-26T17:41:08.636+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4D",
+      "author": {
+        "id": "836058804759691265",
+        "name": "bear100",
+        "discriminator": "9085",
+        "nickname": "bear100",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026541397358153849",
+      "type": "Default",
+      "timestamp": "2022-10-03T17:09:01.347+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/document/d/1UO2RskGRntTpKsp0B-y2DcDbYuTxPpu_jeF4464PEso/edit",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Communitas WG Agenda",
+          "url": "https://docs.google.com/document/d/1UO2RskGRntTpKsp0B-y2DcDbYuTxPpu_jeF4464PEso/edit",
+          "timestamp": null,
+          "description": "Communitas Agenda & Notes   Monday 3rd of october, 2022  Attendees: Edu, Irem, Natesuits, Costa. Gideon, Enti, Gene, delightfullabyss, bear100   What question would you like to be asked as an intro question?   Questions along the lines of topics that we care about on the TEC.  Economic models. ...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sfPQY_Ei7HFDiNfxscBEkVngvSsu-PmXYkp5w-L29ro/https/lh5.googleusercontent.com/vXcHOVv-MODWvI-lmWUTaj88wGOyno4zeo-fkfjs2hjApclzZn-EWjVIBm5oXy4XgDOLmWfTFrLqsg%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026547060868137050",
+      "type": "Default",
+      "timestamp": "2022-10-03T17:31:31.633+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4D\uD83D\uDC4D",
+      "author": {
+        "id": "836058804759691265",
+        "name": "bear100",
+        "discriminator": "9085",
+        "nickname": "bear100",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026552578328252417",
+      "type": "Default",
+      "timestamp": "2022-10-03T17:53:27.098+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes, we need to find a better way to do praise rituals, it's just too costly and not scalable imo",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026553682315186348",
+      "type": "Default",
+      "timestamp": "2022-10-03T17:57:50.309+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is great! I need to run to another call - but i love it!!!",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026554096741789706",
+      "type": "Default",
+      "timestamp": "2022-10-03T17:59:29.116+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gotta, go, take care everyone!",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 45
+}

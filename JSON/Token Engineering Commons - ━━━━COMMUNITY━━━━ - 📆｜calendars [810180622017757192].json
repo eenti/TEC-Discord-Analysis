@@ -1,0 +1,242 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "810180622017757192",
+    "type": "GuildTextChat",
+    "categoryId": "810180622017757190",
+    "category": "━━━━COMMUNITY━━━━",
+    "name": "\uD83D\uDCC6｜calendars",
+    "topic": "Click here to access our calendar (all our calls are open and you are welcome to join!) https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "812071348637007912",
+      "type": "Default",
+      "timestamp": "2021-02-18T21:21:37.071+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin",
+      "author": {
+        "id": "367484103089455108",
+        "name": "metaverde",
+        "discriminator": "2503",
+        "nickname": "metaverde",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "835409756839477289",
+            "name": "TEC_pink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/835409756839477289.png"
+          },
+          "count": 10
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "812071393863794688",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-02-18T21:21:47.854+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "367484103089455108",
+        "name": "metaverde",
+        "discriminator": "2503",
+        "nickname": "metaverde",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367484103089455108/e938e9e279ba99d6f4872bca4d33ee27.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "812071348637007912",
+        "channelId": "810180622017757192",
+        "guildId": null
+      }
+    },
+    {
+      "id": "908058767487275039",
+      "type": "Default",
+      "timestamp": "2021-11-10T18:21:21.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone remember that you can have easy access to the calendar that holds our calls \uD83D\uDE42 \uD83D\uDC46",
+      "author": {
+        "id": "749990807238607020",
+        "name": "Juankbell",
+        "discriminator": "7458",
+        "nickname": "Juankbell",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f4af.svg"
+          },
+          "count": 43
+        },
+        {
+          "emoji": {
+            "id": "835409756839477289",
+            "name": "TEC_pink",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/835409756839477289.png"
+          },
+          "count": 13
+        },
+        {
+          "emoji": {
+            "id": "901149626755850242",
+            "name": "672161496620335115",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/901149626755850242.gif"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "913104598498172929",
+      "type": "Default",
+      "timestamp": "2021-11-24T16:31:40.945+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Please check the \"Events\" section too!",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "913104596874965102",
+          "url": "https://cdn.discordapp.com/attachments/810180622017757192/913104596874965102/Screen_Shot_2021-11-24_at_5.31.05_PM.png",
+          "fileName": "Screen_Shot_2021-11-24_at_5.31.05_PM.png",
+          "fileSizeBytes": 12089
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 20
+        },
+        {
+          "emoji": {
+            "id": "751108427060609034",
+            "name": "This",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/751108427060609034.png"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1033700350542225488",
+      "type": "Default",
+      "timestamp": "2022-10-23T11:16:08.793+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hello, is there a way to have calls in a different time as the calendar?",
+      "author": {
+        "id": "804420778010738730",
+        "name": "blockresearcher.btc",
+        "discriminator": "6006",
+        "nickname": "blockresearcher.btc",
+        "color": "#9AF3DF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804420778010738730/f09a768d5cb16b5bb2e2d904e57a24ee.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1037505247591006348",
+      "type": "Reply",
+      "timestamp": "2022-11-02T23:15:26.941+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey there! you're very welcome to host TE related calls in the server. Do you have something in mind?",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "804420778010738730",
+          "name": "blockresearcher.btc",
+          "discriminator": "6006",
+          "nickname": "blockresearcher.btc",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1033700350542225488",
+        "channelId": "810180622017757192",
+        "guildId": "810180621930070088"
+      }
+    }
+  ],
+  "messageCount": 6
+}

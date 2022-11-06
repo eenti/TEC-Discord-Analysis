@@ -1,0 +1,2055 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "831938823172653076",
+    "type": "GuildNews",
+    "categoryId": "810180622017757190",
+    "category": "━━━━COMMUNITY━━━━",
+    "name": "\uD83D\uDCE3｜announcements",
+    "topic": "Announcements for the TEC :D"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "854022504166588476",
+      "type": "Default",
+      "timestamp": "2021-06-14T15:40:31.964+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "uhhh may I?...",
+      "author": {
+        "id": "466370740468318208",
+        "name": "solsista",
+        "discriminator": "5370",
+        "nickname": "solsista",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "854022564253794325",
+      "type": "Default",
+      "timestamp": "2021-06-14T15:40:46.29+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "...Another Hitchhiker sighting! This Thursday 7 pm CET we'll get current insights into content of Chapter 3 \"Cryptoeconomic Patterns & Applications\" with Chapter lead Vasily Sumanov, one of the winner first and only TE Hackathon back in 2019 - and fully immersed in the recent DeFi wave since 2020, yet an absolute proponent of \"real economy\" and connoisseur of Dynamics (Chemical Engineer in life before Crypto) \n\nhttps://docs.google.com/presentation/d/1lTC8z7KeUJKVLm4j2EejegKJdHjYZTF8GPQaaRNiq0Q/edit#slide=id.gdd94030a36_0_0",
+      "author": {
+        "id": "466370740468318208",
+        "name": "solsista",
+        "discriminator": "5370",
+        "nickname": "solsista",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466370740468318208/8e1527bd1816443128bb26787073be8b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A Hitchhiker's Webinar Announcements",
+          "url": "https://docs.google.com/presentation/d/1lTC8z7KeUJKVLm4j2EejegKJdHjYZTF8GPQaaRNiq0Q/edit",
+          "timestamp": null,
+          "description": "WEBINAR SERIES Cryptoeconomic Patterns 17th June 2021 7PM CET → Join Webinar",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/MlIF7yHbpt7qutyq5THk0jwQ2cMk-gnBi3wXDC4aO00/https/lh6.googleusercontent.com/LxrlRE-2o22-nGQpjJSTWKdyhC2ql9-IDtxWWfexRGCtqIkAKIk2lBHUpJC875K07HjZvddR_jGJpg%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "862980005227528212",
+      "type": "Default",
+      "timestamp": "2021-07-09T08:54:26.639+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "395673197615513600",
+        "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "discriminator": "8888",
+        "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "862980002785263626",
+          "url": "https://cdn.discordapp.com/attachments/831938823172653076/862980002785263626/Screen_Shot_2021-07-08_at_8.41.15_PM.png",
+          "fileName": "Screen_Shot_2021-07-08_at_8.41.15_PM.png",
+          "fileSizeBytes": 317292
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862980182947004456",
+      "type": "Default",
+      "timestamp": "2021-07-09T08:55:09.011+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "These were the finale results i got during the call... I assume that is the same you got right @liviade  #FloridaRecount",
+      "author": {
+        "id": "395673197615513600",
+        "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "discriminator": "8888",
+        "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "868957269100990464",
+      "type": "Default",
+      "timestamp": "2021-07-25T20:45:57.399+00:00",
+      "timestampEdited": "2021-07-26T16:42:21.435+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We have #\uD83D\uDCC2｜coordination now, which keeps track of changes on the coordination github repository(The repo which is used for managing TEC issues, epic, etc.)\n\nAnd #⚙｜tec-github-updates keeps track of all things happening on the github org :)",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f60d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "913717998634815508",
+      "type": "Default",
+      "timestamp": "2021-11-26T09:09:06.934+00:00",
+      "timestampEdited": "2021-11-26T09:09:24.603+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A new proposal is open on Snapshot -\n\nWe're choosing community members from TEC that will form **LASERTAG** (Liquidity And Strategic Employment Requests Token Allocation Group), who will have access to the multisig that would hold the tokens bought as part of the Initial Buy proposal.\n\nRead more - https://forum.tecommons.org/t/the-initial-buy-in/670/29\n\n**Vote here** - https://snapshot.org/#/tecommons.eth/proposal/0x9f5b81d5e98a234cc5a0f5de81dfd19a07f26e3cf39bfc95a156bd6e01ae0eab\n\n**VOTE NOW!** Your participation matters!!",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Initial Buy-In",
+          "url": "https://forum.tecommons.org/t/the-initial-buy-in/670/29",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Fi82F0_l_K487XB-_mXW30YO973enmP-N-fsz-JZntU/https/forum.tecommons.org/uploads/default/optimized/1X/67ef6ac677855aa0ae35c37636247382eb56f483_2_1024x334.jpeg",
+            "width": 1024,
+            "height": 334
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D\uD83C\uDFFD",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d-1f3fd.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "922542779261915276",
+      "type": "Default",
+      "timestamp": "2021-12-20T17:35:38.592+00:00",
+      "timestampEdited": "2021-12-20T17:36:28.865+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Hatcher we have one LAST debate. It starts in** 1 hour and half**! At the Params voice Channel! This one will be hosted by @Zeptimus!  A gentle reminder that the** FINAL PARAM DEBATE** will be tomorrow, Tuesday 21th, at 10AM EST / 4PM CET! . You can take a look at the current proposals here: https://tokenlog.xyz/CommonsBuild/commons-config-proposals",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tokenlog · Token-weighted backlogs",
+          "url": "https://tokenlog.xyz/CommonsBuild/commons-config-proposals",
+          "timestamp": null,
+          "description": "Democratize your open-source software project. A better way for projects to collaborate with their biggest supporters.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/IVr0yfOtHwO2_Cv269jg_geQknYl_biggoghx3zmX88/https/tokenlog.xyz/icon.png",
+            "width": 240,
+            "height": 240
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": [
+        {
+          "id": "183879548394274816",
+          "name": "Zeptimus",
+          "discriminator": "3359",
+          "nickname": "Zeptimus",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "923304604404416523",
+      "type": "Default",
+      "timestamp": "2021-12-22T20:02:51.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Snapshot vote to substitute one member of the LASERTAG multisig live now \nhttps://snapshot.org/#/tecommons.eth/proposal/0xcad826c818f3bfc821e746cc3f72f378bee5e935de7092864294a47710785c77",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928851685269454888",
+      "type": "Default",
+      "timestamp": "2022-01-07T03:24:58.998+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Hatcher We wish you had a Happy New Year! \n\nWe bring you news from the TEC that will kick start your 2022. \uD83E\uDD73\n\nWe are at the very last step before the launch of the **Token Engineering Commons** and **$TEC. **This is a collaboratively designed Commons economy and now is the time to vote for the final set of parameters.** Only Hatchers can vote **therefore you can decide the economy that will be launched this month! \n\n5 Proposals are participating on the vote, this voter pamphlet compares and contrasts the 5 different proposals up for quadratic rank choice vote:\n\nhttps://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit#slide=id.g10a2af6295c_2_0 \n\nAnd of course, about the vote:\n- Will happen on https://snapshot.org/#/tecommons.eth  \n- Voting opens at Jan. 7 @ 9am EST / 3pm CET \n- Voting ends at Jan. 13 @ 9am EST / 3pm CET\n\n\nWe will also have debates, STARTING TOMORROW!\n\n- Fri., Jan. 7, 2:30 - 4pm EST / 8:30 - 10pm CET \n- Mon., Jan. 10, 11am - 12:30pm EST / 5 - 6:30pm CET \n- Tue., Jan. 11, 11am - 12pm EST / 5 - 6:30pm CET\n- Final debate! Wed., Jan. 12,  time tbd, check TEC calendar. \n                                                                                                                                                           \n Respond with an emoji \uD83E\uDD1D  if you manage to reach this point of the message haha and of course if you have any question, doubt or suggestions, we are here for you! :TEC:",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Upgrade Proposal",
+          "url": "https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit",
+          "timestamp": null,
+          "description": "Commons Upgrade Voter Pamphlet Help us pick a time for the Final debate on Jan 12! Americas & Asia Pacific Fireside Chats Europe, Africa & Asia Pacific Fireside Chats Reading time of approximate 15 min #CollaborativeEconomics",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kJpwkxD86LwgdfxenW_eYe5NuJgz1w1p7APuqfZU1Io/https/lh3.googleusercontent.com/y1Sua5bUUdNPOxoH_x85sA-3cjHQa50iN4Q3EyoX1dRyfINfgmS8mZsiORVfOsAQ-78ioKaoAN9L6A%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD1D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f91d.svg"
+          },
+          "count": 13
+        },
+        {
+          "emoji": {
+            "id": "850673915441315880",
+            "name": "TEC_bold",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/850673915441315880.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f973.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "929097025096646696",
+      "type": "Default",
+      "timestamp": "2022-01-07T19:39:52.571+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit#slide=id.g10a2af62cd7_5_12",
+      "author": {
+        "id": "395673197615513600",
+        "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "discriminator": "8888",
+        "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395673197615513600/29a506011b5a6221f234c9ba91de6ef1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Upgrade Voter Pamphlet - TEC Vote",
+          "url": "https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit",
+          "timestamp": null,
+          "description": "Commons Upgrade Voter Pamphlet Help us pick a time for the Final debate on Jan 12! Americas & Asia Pacific Fireside Chats Europe, Africa & Asia Pacific Fireside Chats Reading time of approximate 15 min #CollaborativeEconomics",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kJpwkxD86LwgdfxenW_eYe5NuJgz1w1p7APuqfZU1Io/https/lh3.googleusercontent.com/y1Sua5bUUdNPOxoH_x85sA-3cjHQa50iN4Q3EyoX1dRyfINfgmS8mZsiORVfOsAQ-78ioKaoAN9L6A%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "930664583083995176",
+      "type": "Default",
+      "timestamp": "2022-01-12T03:28:47.519+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Hatcher THE FINAL DEBATE is tomorrow **Wednesday 12** at **5PM CET / 11 AM ET**! **The vote will end January 13**! So please join us for a special 2 hours debate! You can join at any moment you see fit.  If you want to inform yourself about the different proposals that will be presented and debated, we prepared this document: https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit#slide=id.g10a2af6295c_2_0",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Commons Upgrade Voter Pamphlet - TEC Vote",
+          "url": "https://docs.google.com/presentation/d/1PlaxG-FZh0TJIjiM-gV6cgAzVgEaqNEyW4V-bgdC78Y/edit",
+          "timestamp": null,
+          "description": "Commons Upgrade Voter Pamphlet Help us pick a time for the Final debate on Jan 12! Americas & Asia Pacific Fireside Chats Europe, Africa & Asia Pacific Fireside Chats Reading time of approximate 15 min #CollaborativeEconomics",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kJpwkxD86LwgdfxenW_eYe5NuJgz1w1p7APuqfZU1Io/https/lh3.googleusercontent.com/y1Sua5bUUdNPOxoH_x85sA-3cjHQa50iN4Q3EyoX1dRyfINfgmS8mZsiORVfOsAQ-78ioKaoAN9L6A%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✨",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2728.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDDF3️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f5f3.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "930664625979154493",
+      "type": "Default",
+      "timestamp": "2022-01-12T03:28:57.746+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/this-is-the-great-debate-baron-vaughn-the-great-debate-pointing-tv-show-gif-17890293",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/this-is-the-great-debate-baron-vaughn-the-great-debate-pointing-tv-show-gif-17890293",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/qS6scY3t1Owll41O3OlKwV9DybQT8Bkfcw1uICLNbkE/https/media.tenor.co/images/977706249d294120c24a4b1a78b9e660/tenor.png",
+            "width": 640,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "958117806812065802",
+      "type": "Default",
+      "timestamp": "2022-03-28T21:38:06.112+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Want to learn more about Token Engineering?\nDon't miss this month’s Introduction to Token Engineering! \n\n\uD83D\uDE80 This is co-hosted by TEC\n\uD83D\uDCC5 April 1 at 3pm UTC\n\nTo join, be sure to register now: https://forms.gle/PDK6toRMG9vXNRAf9\nWe'll see you there!",
+      "author": {
+        "id": "716075819755110440",
+        "name": "angieberry.eth",
+        "discriminator": "9822",
+        "nickname": "angieberry.eth",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Introduction to Token Engineering",
+          "url": "https://forms.gle/PDK6toRMG9vXNRAf9",
+          "timestamp": null,
+          "description": "Great you are interested in Token Engineering! \n\nThis is the registration form for our upcoming \"Introduction to Token Engineering\" 60 min session \non  Friday, April 1st, 2022 – 03:00pm UTC.\nWe co-host these sessions with TE Commons for a 360° overview on the TE Community. \n\nThe event will be hosted online - if you register here we will follow-u...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mNVaHtN38aBtiQndeloGEugr1d_RpxwPTEq1Y2HqhVA/https/lh3.googleusercontent.com/vaIb549HGvJnrwTGMMLYo_o7cdd3jr3RdI4a0oAOk1D7lkuMiOCR6wIX59nei_HASHcc9ND3CSU%3Dw1200-h630-p",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "835016327542210560",
+            "name": "TEC",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/835016327542210560.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "963137178999853156",
+      "type": "Default",
+      "timestamp": "2022-04-11T18:03:17.697+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Proposal Inverter AMA starting now! \n\nhttps://twitter.com/i/spaces/1mrGmaZoWzkGy/peek",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "869462954104467486",
+            "name": "Fireee",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/869462954104467486.gif"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2705.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "782316134707625985",
+            "name": "purplefire",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/782316134707625985.gif"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "902652608416731227",
+            "name": "cooldoge",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/902652608416731227.gif"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "963833224159694878",
+      "type": "Default",
+      "timestamp": "2022-04-13T16:09:07.795+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TE Academy will be at DAOist GGG in Amsterdam next week! Meet us for panels and a workshop on #tokenengineering in DAOs. #OwnYourEconomy\n\uD83D\uDCC5 Monday, April 18\nLivestream available!\n\nhttps://www.thedaoist.co/event/ggg",
+      "author": {
+        "id": "716075819755110440",
+        "name": "angieberry.eth",
+        "discriminator": "9822",
+        "nickname": "angieberry.eth",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The DAOist GGG Amsterdam 2022",
+          "url": "https://www.thedaoist.co/event/ggg",
+          "timestamp": null,
+          "description": "The Global Governance Gathering: Two full days entirely dedicated to manifesting intentional coordination between DAOs.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1aHmHqJmyD0UGUieasgD5Xqp1Om6vQ4CMDEYzY9tBec/https/assets.website-files.com/61bb3bcbe9c0ac2142865e07/62324338d498e7e6ffef9ed0_The%2520DAOist_GG_FLYER_opt.gif",
+            "width": 640,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✨",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2728.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "964348435983646760",
+      "type": "Reply",
+      "timestamp": "2022-04-15T02:16:23.866+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cc: @streamerd, @Jeremy&TheGospelOfChange & @Leen something to attune to.",
+      "author": {
+        "id": "778446953004007475",
+        "name": "ALOYSIOUS",
+        "discriminator": "3049",
+        "nickname": "ALOYSIOUS",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/778446953004007475/e3bc81190f06b35246b5481fae5fd101.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "716075819755110440",
+          "name": "angieberry.eth",
+          "discriminator": "9822",
+          "nickname": "angieberry.eth",
+          "isBot": false
+        },
+        {
+          "id": "721535403479269538",
+          "name": "Jeremy&TheGospelOfChange",
+          "discriminator": "8201",
+          "nickname": "Jeremy&TheGospelOfChange",
+          "isBot": false
+        },
+        {
+          "id": "767698114806546443",
+          "name": "streamerd",
+          "discriminator": "5565",
+          "nickname": "streamerd",
+          "isBot": false
+        },
+        {
+          "id": "618897639836090398",
+          "name": "Leen",
+          "discriminator": "8610",
+          "nickname": "Leen",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "963833224159694878",
+        "channelId": "831938823172653076",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "970001362274373682",
+      "type": "Default",
+      "timestamp": "2022-04-30T16:39:06.52+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Invite a friend to our upcoming “Introduction to Token Engineering” virtual event!\u00A0\n\n\uD83C\uDF08 This is co-hosted by TEC\n\nWhen❓Thursday, May 5, 2022 - 5:00pm UTC\nWhere❓ https://forms.gle/tnjzPNDGrYsatUyD9",
+      "author": {
+        "id": "716075819755110440",
+        "name": "angieberry.eth",
+        "discriminator": "9822",
+        "nickname": "angieberry.eth",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Introduction to Token Engineering",
+          "url": "https://forms.gle/tnjzPNDGrYsatUyD9",
+          "timestamp": null,
+          "description": "Great you are interested in Token Engineering! \n\nThis is the registration form for our upcoming \"Introduction to Token Engineering\" 60 min session \non Thursday, May 5th, 2022 – 05:00pm UTC.\nWe co-host these sessions with TE Commons for a 360° overview on the TE Community. \n\nThe event will be hosted online - if you register here we will follow-up...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mNVaHtN38aBtiQndeloGEugr1d_RpxwPTEq1Y2HqhVA/https/lh3.googleusercontent.com/vaIb549HGvJnrwTGMMLYo_o7cdd3jr3RdI4a0oAOk1D7lkuMiOCR6wIX59nei_HASHcc9ND3CSU%3Dw1200-h630-p",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "971488985287385088",
+      "type": "Default",
+      "timestamp": "2022-05-04T19:10:23.485+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Join us tomorrow for our monthly “Introduction to Token Engineering” event where you’ll learn more about this new discipline and community!\n\nWe’ll see you there! \uD83D\uDE09\n\uD83C\uDF08 This is co-hosted by TEC\n\n\uD83D\uDDD3️ Thursday, May 5, 2022 - 5:00pm UTC\n▶️ To join, make sure to sign up here: https://forms.gle/tnjzPNDGrYsatUyD9",
+      "author": {
+        "id": "716075819755110440",
+        "name": "angieberry.eth",
+        "discriminator": "9822",
+        "nickname": "angieberry.eth",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Introduction to Token Engineering",
+          "url": "https://forms.gle/tnjzPNDGrYsatUyD9",
+          "timestamp": null,
+          "description": "Great you are interested in Token Engineering! \n\nThis is the registration form for our upcoming \"Introduction to Token Engineering\" 60 min session \non Thursday, May 5th, 2022 – 05:00pm UTC.\nWe co-host these sessions with TE Commons for a 360° overview on the TE Community. \n\nThe event will be hosted online - if you register here we will follow-up...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mNVaHtN38aBtiQndeloGEugr1d_RpxwPTEq1Y2HqhVA/https/lh3.googleusercontent.com/vaIb549HGvJnrwTGMMLYo_o7cdd3jr3RdI4a0oAOk1D7lkuMiOCR6wIX59nei_HASHcc9ND3CSU%3Dw1200-h630-p",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "972510514401918986",
+      "type": "Default",
+      "timestamp": "2022-05-07T14:49:35.005+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We've been working hard with the TEC to improve our Discord onboarding! \uD83E\uDD16\n\nCheck out our newest updates!\n\nJoin us here: https://discord.gg/Kr8y2udwVu",
+      "author": {
+        "id": "716075819755110440",
+        "name": "angieberry.eth",
+        "discriminator": "9822",
+        "nickname": "angieberry.eth",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "981991477385240616",
+      "type": "Default",
+      "timestamp": "2022-06-02T18:43:32.728+00:00",
+      "timestampEdited": "2022-06-02T18:44:11.732+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Hatcher Gentle reminder that tomorrow we will be having our **Proposal's Party**: It's a place to ask questions, to know about what's going on Garden's and in general, to get informed about the Proposals that are up for vote! Join at any moment. It will be at the **Community Voice Channel at 6PM CET, tomorrow Friday, June 3rd. **",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "981991526588633128",
+      "type": "Default",
+      "timestamp": "2022-06-02T18:43:44.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/party-time-dance-moves-dancing-amy-poehler-tina-fey-gif-16459913",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/party-time-dance-moves-dancing-amy-poehler-tina-fey-gif-16459913",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/n1k9s_x9N7-OVNwNF-fhGWICbJi7M_Cqt8I636J1ZgE/https/media.tenor.com/Dw7VoNFE6AgAAAAD/party-time-dance-moves.png",
+            "width": 640,
+            "height": 358
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f973.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "982310387129135124",
+      "type": "Default",
+      "timestamp": "2022-06-03T15:50:46.736+00:00",
+      "timestampEdited": "2022-06-03T15:54:45.3+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Porposal party will start in 10 minutes! Join @Griff (\uD83D\uDC9C,\uD83D\uDC9C) on talking about incoming proposals that are important for our community on the Community Voice Channel!",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f973.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": [
+        {
+          "id": "395673197615513600",
+          "name": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+          "discriminator": "8888",
+          "nickname": "Griff (\uD83D\uDC9C,\uD83D\uDC9C)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "982513533952618557",
+      "type": "Reply",
+      "timestamp": "2022-06-04T05:18:00.713+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi Chuy!\n\nDoes that get recorded? And can you tell me the PI discussion channel, please, where I'm hoping there are some pinned posts?",
+      "author": {
+        "id": "530682470232883210",
+        "name": "innov8tor3",
+        "discriminator": "3988",
+        "nickname": "innov8tor3",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "727934296387616848",
+          "name": "chuygarcia.eth",
+          "discriminator": "6692",
+          "nickname": "chuygarcia.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "963137178999853156",
+        "channelId": "831938823172653076",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "983388909729886258",
+      "type": "Default",
+      "timestamp": "2022-06-06T15:16:26.562+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Are you new to Token Engineering and would like to learn in Spanish? \nDon’t miss this month’s “Introduction to Token Engineering” \uD83E\uDD13\n\n⭐ Friday, June 10 at 4 pm UTC\n⭐ https://bit.ly/3x3wSyE\n\nWe’ll see you there! \uD83C\uDF08",
+      "author": {
+        "id": "716075819755110440",
+        "name": "angieberry.eth",
+        "discriminator": "9822",
+        "nickname": "angieberry.eth",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Introduction to Token Engineering",
+          "url": "https://bit.ly/3x3wSyE",
+          "timestamp": null,
+          "description": "Great you are interested in Token Engineering! \n\nThis is the registration form for our upcoming \"Introduction to Token Engineering\" 60 min session\non Friday, June 10 at 4:00 PM UTC. This session will be in Spanish!\nWe co-host these sessions with TE Commons for a 360° overview on the TE Community. \n\nThe event will be hosted online - if you regist...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mNVaHtN38aBtiQndeloGEugr1d_RpxwPTEq1Y2HqhVA/https/lh3.googleusercontent.com/vaIb549HGvJnrwTGMMLYo_o7cdd3jr3RdI4a0oAOk1D7lkuMiOCR6wIX59nei_HASHcc9ND3CSU%3Dw1200-h630-p",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF08",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f308.svg"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "984507600647372850",
+      "type": "Default",
+      "timestamp": "2022-06-09T17:21:43.261+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The first Sampo funding proposal is now up for a vote. If you hold $TEC tokens, you can vote here: \nhttps://gardensdao.eth.limo/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/24\n\nThis working group develops the economic layer of the Token Engineering Commons through financial guidance, income generating strategies and services, and fundraising support. This proposal is the first step toward making ourselves economically sustainable.",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gardens",
+          "url": "https://gardensdao.eth.limo/",
+          "timestamp": null,
+          "description": "Gardens",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "984922590223138836",
+      "type": "Default",
+      "timestamp": "2022-06-10T20:50:44.486+00:00",
+      "timestampEdited": "2022-06-10T20:52:14.234+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gitcoin Round 14 kinda snuck up on us. Next round, we'll do more of a push! But even without much organizing, we are getting donations! \n\nBecause of quadratic funding, even a small gift from you can make a difference! This round (and its Gitcoin match!) ends June 23, so now's the time! \nhttps://gitcoin.co/grants/1155/token-engineering-commons",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83D\uDCB0 Token Engineering Commons | Grants",
+          "url": "https://gitcoin.co/grants/1155/token-engineering-commons",
+          "timestamp": null,
+          "description": "GR14\n2022.06.08\nHello there! We've been working non-stop at TEC and we're excited for this round of Gitcoin Grants. In this update we will cover some of the proposals we've been funding, tools we've developed and participations we've had this past quarter :)\n\nProposals Passed:\nTE Fundamentals course by Token Engineering Academy\nProposal Inverter...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/DJ8isyIhdDogeHK1Gd98OgrCLl2pI_eAjXPvGTB8QWU/https/c.gitcoin.co/grants/e6e7ed82a89701fa8d0c0e396550ca31/tec_banner2.jpeg",
+            "width": 1812,
+            "height": 498
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "987075492156952586",
+      "type": "Default",
+      "timestamp": "2022-06-16T19:25:36.306+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you are having trouble using xDAI / Gnosis Chain in your wallet, note the following update from Gnosis:\nhttps://developers.gnosischain.com/for-developers/developer-resources/update-rpc-url",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Update RPC URL",
+          "url": "https://developers.gnosischain.com/for-developers/developer-resources/update-rpc-url",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QfQGDylJXR3L6rCRDG2uFkPXBC-ds-Tog-1SDdCn4gg/%3Fcolor%3D%252307795B%26logo%3Dhttps%253A%252F%252F1854443065-files.gitbook.io%252F~%252Ffiles%252Fv0%252Fb%252Fgitbook-x-prod.appspot.com%252Fo%252Fspaces%25252FRL2JBEC3qIqa8TgFlYjG%25252Flogo%25252FUMDAXWOaRwnBk6QYksxe%25252Fchain1.png%253Falt%253Dmedia%2526token%253D09453692-6b28-45ae-b148-36fd7f70e9bf%26theme%3Dlight/https/app.gitbook.com/share/space/thumbnail/RL2JBEC3qIqa8TgFlYjG/page/GeGx7nqZsZpbPvK8Lxu8.png",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "989855779764985866",
+      "type": "Default",
+      "timestamp": "2022-06-24T11:33:28.527+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "last couple of days to vote on the revised covenant \uD83D\uDCE2 https://snapshot.org/#/tecommons.eth/proposal/0xbc7cbf415aecae2583108cee9eb6bd2e1514029c27cbd8cbd202a3981210cf94",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "998632126654193774",
+      "type": "Default",
+      "timestamp": "2022-07-18T16:47:32.682+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/start-the-party-lets-go-show-must-go-on-fire-carry-on-gif-22918493",
+      "author": {
+        "id": "716075819755110440",
+        "name": "angieberry.eth",
+        "discriminator": "9822",
+        "nickname": "angieberry.eth",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/start-the-party-lets-go-show-must-go-on-fire-carry-on-gif-22918493",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/txcwvHyS8QGHO8ult569Nzc4lwr0WkdArhoKGGFqEt0/https/media.tenor.com/tmRlIWdyOjAAAAAD/start-the-party-lets-go.png",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "998632152671457351",
+      "type": "Default",
+      "timestamp": "2022-07-18T16:47:38.885+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone want to be the first to know what day we are launching TE Fundamentals? and find out what is TE Knowledge Commons?\n\njoin us for the TE Academy birthday celebrations on July 27 starting at 7AM UTC until 7:30PM UTC \uD83E\uDD2F \n~events are happening all day to include all time zones \uD83D\uDE09\n\nSave the date!! we'll have multiple events across the whole day, including announcements, talks, and party! \uD83C\uDF82 \n\nSign up here: https://forms.gle/vp9wiZenBrzzogLX9 and get a special calendar invite!",
+      "author": {
+        "id": "716075819755110440",
+        "name": "angieberry.eth",
+        "discriminator": "9822",
+        "nickname": "angieberry.eth",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TE Academy Birthday Party",
+          "url": "https://forms.gle/vp9wiZenBrzzogLX9",
+          "timestamp": null,
+          "description": "Great you want to celebrate with us!\nThis is the registration form for out upcoming celebration day, on July 27. It will be a day of multi-events.\n\nThe event will be hosted online - if you register here, we will follow-up with a calendar invite to the sessions!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1gpZWP095qQVnEC2FXCoQEePd9FgUOa_aUBYT2mwRLw/https/lh3.googleusercontent.com/Dly5ne9cnveZCYjfl_wqsoJOxnKtefTdyTn5WV0y2tB11lI2EbHGKtagh3NiNgVbtZR5Wpd-PNk%3Dw1200-h630-p",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC96",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f496.svg"
+          },
+          "count": 13
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "998658004234797066",
+      "type": "Reply",
+      "timestamp": "2022-07-18T18:30:22.378+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@angieberry.eth - you are so good at building excitement and engagement.",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "716075819755110440",
+          "name": "angieberry.eth",
+          "discriminator": "9822",
+          "nickname": "angieberry.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "998632152671457351",
+        "channelId": "831938823172653076",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "998662017063850045",
+      "type": "Reply",
+      "timestamp": "2022-07-18T18:46:19.111+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hope to see you there! \uD83E\uDD73",
+      "author": {
+        "id": "716075819755110440",
+        "name": "angieberry.eth",
+        "discriminator": "9822",
+        "nickname": "angieberry.eth",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "343470788491476992",
+          "name": "GideonRo",
+          "discriminator": "3175",
+          "nickname": "Gideonro",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "998658004234797066",
+        "channelId": "831938823172653076",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1006628509042622556",
+      "type": "Default",
+      "timestamp": "2022-08-09T18:22:18.809+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @everyone !\nAre you learning about token economics and the cross-disciplinary field of Token Engineering? \uD83E\uDD14 \n\nJoin us for this month's Introduction to Token Engineering event co-hosted by TEC :TEC: \n\nMake sure to invite a friend \uD83E\uDEC2\n\nSave this event to your calendar! \uD83D\uDC47\nhttps://discord.gg/8Z8XQfQU?event=1001500276840206376",
+      "author": {
+        "id": "716075819755110440",
+        "name": "angieberry.eth",
+        "discriminator": "9822",
+        "nickname": "angieberry.eth",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF1F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f31f.svg"
+          },
+          "count": 9
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1006986578498953266",
+      "type": "Default",
+      "timestamp": "2022-08-10T18:05:09.22+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone The 12th Rune Group Treasury Policy Document is ready to be ratified on Snapshot.  If you get a moment, please do cast your vote in support/opposition to the Treasury Policy!  Thanks! https://snapshot.org/#/tecommons.eth/proposal/0x8d27ec3591b04ff1b6ccccc0c481f5e625ba0ed064d0c0cbe245ecca61019cef",
+      "author": {
+        "id": "417979381332443136",
+        "name": "natesuits",
+        "discriminator": "4789",
+        "nickname": "natesuits",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "835016327542210560",
+            "name": "TEC",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/835016327542210560.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1007047411266506894",
+      "type": "Reply",
+      "timestamp": "2022-08-10T22:06:52.882+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Format is not accurate, i'd like to loop @liviade",
+      "author": {
+        "id": "183879548394274816",
+        "name": "Zeptimus",
+        "discriminator": "3359",
+        "nickname": "Zeptimus",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "417979381332443136",
+          "name": "natesuits",
+          "discriminator": "4789",
+          "nickname": "natesuits",
+          "isBot": false
+        },
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1006986578498953266",
+        "channelId": "831938823172653076",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1007090729358741514",
+      "type": "Reply",
+      "timestamp": "2022-08-11T00:59:00.72+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What is wrong with it? 4 days, single choice + link to the forum",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "183879548394274816",
+          "name": "Zeptimus",
+          "discriminator": "3359",
+          "nickname": "Zeptimus",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1007047411266506894",
+        "channelId": "831938823172653076",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1007197731011444736",
+      "type": "Reply",
+      "timestamp": "2022-08-11T08:04:11.902+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you consider a day 24hrs this proposal have 3 days",
+      "author": {
+        "id": "183879548394274816",
+        "name": "Zeptimus",
+        "discriminator": "3359",
+        "nickname": "Zeptimus",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1007090729358741514",
+        "channelId": "831938823172653076",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1007202638074482688",
+      "type": "Reply",
+      "timestamp": "2022-08-11T08:23:41.837+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ops, you're right. Was that by accident @natesuits ? We talked about the duration during soft gov.",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "183879548394274816",
+          "name": "Zeptimus",
+          "discriminator": "3359",
+          "nickname": "Zeptimus",
+          "isBot": false
+        },
+        {
+          "id": "417979381332443136",
+          "name": "natesuits",
+          "discriminator": "4789",
+          "nickname": "natesuits",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1007197731011444736",
+        "channelId": "831938823172653076",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1007202982900809798",
+      "type": "Default",
+      "timestamp": "2022-08-11T08:25:04.05+00:00",
+      "timestampEdited": "2022-08-11T08:27:11.552+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm not sure what to do about it. I would say since people already started voting, we could right an errata in the forum,  try like it is and hope to reach quorum.",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1007203019374473236",
+      "type": "Default",
+      "timestamp": "2022-08-11T08:25:12.746+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What do you think @Zeptimus",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "183879548394274816",
+          "name": "Zeptimus",
+          "discriminator": "3359",
+          "nickname": "Zeptimus",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1007253196957290588",
+      "type": "Reply",
+      "timestamp": "2022-08-11T11:44:36.014+00:00",
+      "timestampEdited": "2022-08-11T11:45:07.577+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I agree. I think we should reconsider only if we notice that the vote is 50/50 (or similar scenario) and that  extra day would make a difference. Otherwise we are just being burocratic.",
+      "author": {
+        "id": "573648007384530954",
+        "name": "eduardovegap",
+        "discriminator": "0422",
+        "nickname": "Edu",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/573648007384530954/bf6ebec19881cee4bbe0c3105f5ddfae.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1007202982900809798",
+        "channelId": "831938823172653076",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1007346303233175632",
+      "type": "Reply",
+      "timestamp": "2022-08-11T17:54:34.28+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think it affects to future votes and gives no legitimacy to the 4 days vote, that being said I personally do not mind if we get rid of vote duration as long as the quorum still 10% of the total supply",
+      "author": {
+        "id": "183879548394274816",
+        "name": "Zeptimus",
+        "discriminator": "3359",
+        "nickname": "Zeptimus",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1007203019374473236",
+        "channelId": "831938823172653076",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1012784815336067122",
+      "type": "Default",
+      "timestamp": "2022-08-26T18:05:16.608+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Praise 0.11 is out!\n\n⦿ Restrict praising to certain Discord channels\n⦿ Praise analytics in the dashboard\n⦿ Info messages to first time praisers \n⦿ Plus more\n\n\uD83D\uDCC3 Release notes: https://github.com/commons-stack/praise/releases/tag/v0.11.0\n\nhttps://twitter.com/givepraise/status/1563220192884183041",
+      "author": {
+        "id": "388384931102982154",
+        "name": "kristofer",
+        "discriminator": "1475",
+        "nickname": "kristofer",
+        "color": "#42577E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388384931102982154/edd4d3475e05681b5feff22686f9dd46.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE80",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f680.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1014121630504583219",
+      "type": "Default",
+      "timestamp": "2022-08-30T10:37:18.181+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @everyone Soft Gov created this pol to have a sentiment analysis of TEC stakeholders. It should take around 5 minutes to answer \uD83D\uDE4F\uD83C\uDFFD   https://pol.is/586fkncusw",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TEC Stakeholder Signal",
+          "url": "https://pol.is/586fkncusw",
+          "timestamp": null,
+          "description": "Half year passed since the launch of the ABC and the TEC token. We (Community Stewards) would like to hear from you and have a sentiment analysis of the health and direction of our Commons so we can take better decisions together.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ROEDRc6zRmQofCMI9kOJwXzcZqbVJbjiEPVD8H7J3Hk/https/s3.amazonaws.com/pol.is/polis_logo.png",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2705.svg"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1014945480213528727",
+      "type": "Reply",
+      "timestamp": "2022-09-01T17:10:59.258+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great news, I guess we also await @divine_comedian back from his vacation ? And then back to the fray, I had to take a small timeout but I'm back now.",
+      "author": {
+        "id": "530682470232883210",
+        "name": "innov8tor3",
+        "discriminator": "3988",
+        "nickname": "innov8tor3",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "288019500132073472",
+          "name": "divine_comedian",
+          "discriminator": "5493",
+          "nickname": "mitch (\uD83C\uDF54, \uD83C\uDF54)",
+          "isBot": false
+        },
+        {
+          "id": "388384931102982154",
+          "name": "kristofer",
+          "discriminator": "1475",
+          "nickname": "kristofer",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1012784815336067122",
+        "channelId": "831938823172653076",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1014973723213844520",
+      "type": "Default",
+      "timestamp": "2022-09-01T19:03:12.914+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Happening NOW!**\nMental Health: Take care of your mind event to have an open conversation about our mental health journey \uD83E\uDDE0 \n\n\uD83D\uDCCD  Gravity Voice Channel",
+      "author": {
+        "id": "716075819755110440",
+        "name": "angieberry.eth",
+        "discriminator": "9822",
+        "nickname": "angieberry.eth",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017110981215793284",
+      "type": "Reply",
+      "timestamp": "2022-09-07T16:35:54.93+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Gentle reminder to answer this stakeholder sentiment analysis poll if you haven't yet. We'll be closing it tomorrow.  https://pol.is/586fkncusw",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TEC Stakeholder Signal",
+          "url": "https://pol.is/586fkncusw",
+          "timestamp": null,
+          "description": "Half year passed since the launch of the ABC and the TEC token. We (Community Stewards) would like to hear from you and have a sentiment analysis of the health and direction of our Commons so we can take better decisions together.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ROEDRc6zRmQofCMI9kOJwXzcZqbVJbjiEPVD8H7J3Hk/https/s3.amazonaws.com/pol.is/polis_logo.png",
+            "width": 1024,
+            "height": 1024
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 12
+        }
+      ],
+      "mentions": [],
+      "reference": {
+        "messageId": "1014121630504583219",
+        "channelId": "831938823172653076",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1022201774154723360",
+      "type": "Default",
+      "timestamp": "2022-09-21T17:44:54.549+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone - we have about 20 hours left before Gitcoin Round 15 ends. We've raised $359 with a $17 match from Gitcoin so far. Let's see if we can push it over $500 before end of day. Every single donation helps!! \n\nhttps://gitcoin.co/grants/1155/token-engineering-commons\n\n\uD83D\uDE4F \uD83D\uDC9A :TEC:",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83D\uDCB0 Token Engineering Commons | Grants",
+          "url": "https://gitcoin.co/grants/1155/token-engineering-commons",
+          "timestamp": null,
+          "description": "GR15: Token Engineering Content Curation Service!\n2022.08.18\n\nToken engineering is a new discipline that applies engineering principles to the design of blockchain and broader crypto-economic systems. It’s what helps anticipate and prevent the kinds of crypto meltdowns that have hurt so many people and damaged perceptions of web3 among the broad...",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/DJ8isyIhdDogeHK1Gd98OgrCLl2pI_eAjXPvGTB8QWU/https/c.gitcoin.co/grants/e6e7ed82a89701fa8d0c0e396550ca31/tec_banner2.jpeg",
+            "width": 1812,
+            "height": 498
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "835016327542210560",
+            "name": "TEC",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/835016327542210560.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC99",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f499.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1025822187057319947",
+      "type": "Default",
+      "timestamp": "2022-10-01T17:31:08.249+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone \nCOME TO THE\nLAUNCH OF TE FUNDAMENTALS\nThe first comprehensive education & certification program in Token Engineering!\n\nWhen:\nTuesday\nOct 11, 2022\n7pm-8pm UTC\nJoin via Zoom: https://us02web.zoom.us/j/82102814507\n\nWe'll celebrate the launch at Devcon and will run a Cryptoeconomics & Governance Community Hub!\nhttps://www.notion.so/te-academy/Cryptoeconomics-Governance-Community-Hub-f2c5da9d967742b1aa53b94babbe033b\nGreat place to meet token engineers and TE Academy alumni – so please drop by if you are in Bogotá.\nIf you aren't you can even join online - just check the program!",
+      "author": {
+        "id": "417979381332443136",
+        "name": "natesuits",
+        "discriminator": "4789",
+        "nickname": "natesuits",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Join our Cloud HD Video Meeting",
+          "url": "https://us02web.zoom.us/j/82102814507",
+          "timestamp": null,
+          "description": "Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as ex...",
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Cryptoeconomics & Governance Community Hub",
+          "url": "https://www.notion.so/te-academy/Cryptoeconomics-Governance-Community-Hub-f2c5da9d967742b1aa53b94babbe033b",
+          "timestamp": null,
+          "description": "The Community Hub",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/dNjaMk95kMOn4NazIpOopk9K-a96pakefWs2RXDfZnQ/%3Ftable%3Dblock%26id%3Df2c5da9d-9677-42b1-aa53-b94babbe033b%26spaceId%3D6e9c51c0-96e4-45e3-9a03-ab57308e7d7f%26width%3D2000%26userId%3D%26cache%3Dv2/https/www.notion.so/image/https%253A%252F%252Fs3-us-west-2.amazonaws.com%252Fsecure.notion-static.com%252Fb8e93f71-ae44-4527-9de4-16dc1266962b%252FCryptoEconGov_CommunityHub_Notion.jpg",
+            "width": 1920,
+            "height": 400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "835016327542210560",
+            "name": "TEC",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/835016327542210560.png"
+          },
+          "count": 22
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 19
+        },
+        {
+          "emoji": {
+            "id": "701203747174350848",
+            "name": "tec",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/701203747174350848.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 49
+}

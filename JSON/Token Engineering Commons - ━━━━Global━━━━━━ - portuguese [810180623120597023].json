@@ -1,0 +1,2381 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "810180623120597023",
+    "type": "GuildTextChat",
+    "categoryId": "810180622966325297",
+    "category": "━━━━Global━━━━━━",
+    "name": "portuguese",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "817796181337964606",
+      "type": "Default",
+      "timestamp": "2021-03-06T16:30:03.549+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bom Dia",
+      "author": {
+        "id": "780101341124886587",
+        "name": "freedumbs00",
+        "discriminator": "3857",
+        "nickname": "freedumbs00",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/780101341124886587/a72875c4beab22861c03b8997c298421.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF08",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f308.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "893490199999414352",
+      "type": "Default",
+      "timestamp": "2021-10-01T13:31:03.925+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey @\uD835\uDE35\uD835\uDE36.\uD835\uDE36\uD835\uDE2C'\uD835\uDE3B ✨ @BiancaGadelha @Gami @isysoares @VitorNunes @fabiosmendes",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "869940637594714183",
+          "name": "BiancaGadelha",
+          "discriminator": "2667",
+          "nickname": "BiancaGadelha",
+          "isBot": false
+        },
+        {
+          "id": "800793722190954537",
+          "name": "isysoares",
+          "discriminator": "5223",
+          "nickname": "isysoares",
+          "isBot": false
+        },
+        {
+          "id": "570796304351887405",
+          "name": "\uD835\uDE35\uD835\uDE36.\uD835\uDE36\uD835\uDE2C'\uD835\uDE3B ✨",
+          "discriminator": "6666",
+          "nickname": "\uD835\uDE35\uD835\uDE36.\uD835\uDE36\uD835\uDE2C'\uD835\uDE3B ✨",
+          "isBot": false
+        },
+        {
+          "id": "760182911991021650",
+          "name": "VitorNunes",
+          "discriminator": "0090",
+          "nickname": "VitorNunes",
+          "isBot": false
+        },
+        {
+          "id": "725532461936935002",
+          "name": "Gami",
+          "discriminator": "9297",
+          "nickname": "Gami",
+          "isBot": false
+        },
+        {
+          "id": "696688739879092284",
+          "name": "fabiosmendes",
+          "discriminator": "4802",
+          "nickname": "fabiosmendes",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "893490257608183808",
+      "type": "Default",
+      "timestamp": "2021-10-01T13:31:17.66+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bora ocupar esse espaço aqui!",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "893490356455366676",
+      "type": "Default",
+      "timestamp": "2021-10-01T13:31:41.227+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "aloooo ❤️",
+      "author": {
+        "id": "725532461936935002",
+        "name": "Gami",
+        "discriminator": "9297",
+        "nickname": "Gami",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/725532461936935002/c66719eaed65e1ac9b6ffb0661139942.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC99",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f499.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "893526119448469544",
+      "type": "Default",
+      "timestamp": "2021-10-01T15:53:47.789+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Aeeee",
+      "author": {
+        "id": "869940637594714183",
+        "name": "BiancaGadelha",
+        "discriminator": "2667",
+        "nickname": "BiancaGadelha",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/869940637594714183/3a19e8e74e29c54ca67342ce050bce03.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "893526208686460928",
+      "type": "Default",
+      "timestamp": "2021-10-01T15:54:09.065+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tudo bom? \uD83D\uDC9C",
+      "author": {
+        "id": "869940637594714183",
+        "name": "BiancaGadelha",
+        "discriminator": "2667",
+        "nickname": "BiancaGadelha",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/869940637594714183/3a19e8e74e29c54ca67342ce050bce03.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "☀️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2600.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "893700661521285120",
+      "type": "Default",
+      "timestamp": "2021-10-02T03:27:21.862+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Que delicia esse espaço!",
+      "author": {
+        "id": "570796304351887405",
+        "name": "\uD835\uDE35\uD835\uDE36.\uD835\uDE36\uD835\uDE2C'\uD835\uDE3B ✨",
+        "discriminator": "6666",
+        "nickname": "\uD835\uDE35\uD835\uDE36.\uD835\uDE36\uD835\uDE2C'\uD835\uDE3B ✨",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570796304351887405/424f5cca41e4fa97ae244de538839097.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "☀️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2600.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "893700688784261161",
+      "type": "Default",
+      "timestamp": "2021-10-02T03:27:28.362+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Boa noite à todos!",
+      "author": {
+        "id": "570796304351887405",
+        "name": "\uD835\uDE35\uD835\uDE36.\uD835\uDE36\uD835\uDE2C'\uD835\uDE3B ✨",
+        "discriminator": "6666",
+        "nickname": "\uD835\uDE35\uD835\uDE36.\uD835\uDE36\uD835\uDE2C'\uD835\uDE3B ✨",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570796304351887405/424f5cca41e4fa97ae244de538839097.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "893849026821251142",
+      "type": "Default",
+      "timestamp": "2021-10-02T13:16:54.906+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Quero muito conhecer vocês e saber das suas jornadas no daoverse ❤️",
+      "author": {
+        "id": "725532461936935002",
+        "name": "Gami",
+        "discriminator": "9297",
+        "nickname": "Gami",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/725532461936935002/c66719eaed65e1ac9b6ffb0661139942.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "895277190273441802",
+      "type": "Default",
+      "timestamp": "2021-10-06T11:51:55.607+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Opa, e aí galera. \uD83D\uDCAF",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✌️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/270c.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "897636366131793940",
+      "type": "Default",
+      "timestamp": "2021-10-13T00:06:26.963+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Boa noite amigues, queria dizer que agora estou com bastante tempo livre para contribuir por aqui. Tmj!",
+      "author": {
+        "id": "570796304351887405",
+        "name": "\uD835\uDE35\uD835\uDE36.\uD835\uDE36\uD835\uDE2C'\uD835\uDE3B ✨",
+        "discriminator": "6666",
+        "nickname": "\uD835\uDE35\uD835\uDE36.\uD835\uDE36\uD835\uDE2C'\uD835\uDE3B ✨",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570796304351887405/424f5cca41e4fa97ae244de538839097.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899702425613643816",
+      "type": "Default",
+      "timestamp": "2021-10-18T16:56:13.929+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bom dia pessoal",
+      "author": {
+        "id": "403704889080938497",
+        "name": "Tiago Cavazin",
+        "discriminator": "2622",
+        "nickname": "Tiago Cavazin",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403704889080938497/275da8f132eb28880f6b7abbf0ab0ed8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899729055149072436",
+      "type": "Reply",
+      "timestamp": "2021-10-18T18:42:02.905+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bom dia",
+      "author": {
+        "id": "403579916383420418",
+        "name": "bernaka",
+        "discriminator": "9024",
+        "nickname": "bernaka",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403579916383420418/aa2e6eebb242432810b824c56e7693cb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "403704889080938497",
+          "name": "Tiago Cavazin",
+          "discriminator": "2622",
+          "nickname": "Tiago Cavazin",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "899702425613643816",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "901198466439577600",
+      "type": "Default",
+      "timestamp": "2021-10-22T20:00:57.857+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ola!",
+      "author": {
+        "id": "869940637594714183",
+        "name": "BiancaGadelha",
+        "discriminator": "2667",
+        "nickname": "BiancaGadelha",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/869940637594714183/3a19e8e74e29c54ca67342ce050bce03.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "901199027612315729",
+      "type": "Default",
+      "timestamp": "2021-10-22T20:03:11.651+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sou nova nesse espaço do TEC e ainda aprendendo sobre Eth e Tokens. Quero muito um dia poder contribuir para a comunidade! Queria saber de vocês, suas tragetórias, como chegaram aqui e  como está esse mundo cripto no Brasil",
+      "author": {
+        "id": "869940637594714183",
+        "name": "BiancaGadelha",
+        "discriminator": "2667",
+        "nickname": "BiancaGadelha",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/869940637594714183/3a19e8e74e29c54ca67342ce050bce03.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "908783289953841212",
+      "type": "Default",
+      "timestamp": "2021-11-12T18:20:20.702+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "o/",
+      "author": {
+        "id": "340686435268952064",
+        "name": "Parrachia",
+        "discriminator": "0450",
+        "nickname": "Pedro Parrachia",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/340686435268952064/e8992c56ca034abb53c15345b89af0c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "908783507894063164",
+      "type": "Default",
+      "timestamp": "2021-11-12T18:21:12.663+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "chegando agora no TEA. long overdue \uD83D\uDE04",
+      "author": {
+        "id": "340686435268952064",
+        "name": "Parrachia",
+        "discriminator": "0450",
+        "nickname": "Pedro Parrachia",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/340686435268952064/e8992c56ca034abb53c15345b89af0c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "873265143524511765",
+            "name": "PeepoLove",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/873265143524511765.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "909081962734567424",
+      "type": "Reply",
+      "timestamp": "2021-11-13T14:07:09.842+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bom te ver por aqui",
+      "author": {
+        "id": "725532461936935002",
+        "name": "Gami",
+        "discriminator": "9297",
+        "nickname": "Gami",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/725532461936935002/c66719eaed65e1ac9b6ffb0661139942.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "340686435268952064",
+          "name": "Parrachia",
+          "discriminator": "0450",
+          "nickname": "Pedro Parrachia",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "908783507894063164",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "909083196124200990",
+      "type": "Reply",
+      "timestamp": "2021-11-13T14:12:03.905+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oie! eu cheguei no mundo das DAOs coincidentemente pelo @Parrachia . Nesse momento to contribuindo pra a PrimeDAO e TheDAOist . fica avonts para perguntar qualquer coisa, eu fico bem feliz de onboard brasileires",
+      "author": {
+        "id": "725532461936935002",
+        "name": "Gami",
+        "discriminator": "9297",
+        "nickname": "Gami",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/725532461936935002/c66719eaed65e1ac9b6ffb0661139942.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f49c.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "340686435268952064",
+          "name": "Parrachia",
+          "discriminator": "0450",
+          "nickname": "Pedro Parrachia",
+          "isBot": false
+        },
+        {
+          "id": "869940637594714183",
+          "name": "BiancaGadelha",
+          "discriminator": "2667",
+          "nickname": "BiancaGadelha",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "901199027612315729",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "910729860643717180",
+      "type": "Default",
+      "timestamp": "2021-11-18T03:15:19.32+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "que delicia entrar nesse chat e ver papos rolando \uD83D\uDC9B",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "910729989270409218",
+      "type": "Reply",
+      "timestamp": "2021-11-18T03:15:49.987+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@thiago.rossi eu vi que tu postou esses dias sobre brasil blockchain week? conta mais aqui :)",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "815645395191070730",
+          "name": "thiago.rossi",
+          "discriminator": "1714",
+          "nickname": "thiago.rossi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "895277190273441802",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "911262540997230614",
+      "type": "Default",
+      "timestamp": "2021-11-19T14:32:00.213+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "eae galera!",
+      "author": {
+        "id": "202823259765473290",
+        "name": "sebas5384",
+        "discriminator": "9823",
+        "nickname": "sebas5384",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/202823259765473290/bfa18d7e4cd93f14508097f5532ecd72.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911358468932382720",
+      "type": "Default",
+      "timestamp": "2021-11-19T20:53:11.215+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDCA5 OHM-forked \"NemesisDAO . finance\", got listed on CMC & CG! Join now while very early \uD83D\uDCA5\nhttps://discord.com/invite/b8CUaukZn6",
+      "author": {
+        "id": "910554879725019197",
+        "name": "SONNY",
+        "discriminator": "9254",
+        "nickname": "SONNY",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "913118108598825011",
+      "type": "Reply",
+      "timestamp": "2021-11-24T17:25:22.004+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "vai rolar isso? podemos puxar um TheDAOist",
+      "author": {
+        "id": "725532461936935002",
+        "name": "Gami",
+        "discriminator": "9297",
+        "nickname": "Gami",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/725532461936935002/c66719eaed65e1ac9b6ffb0661139942.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f440.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "910729989270409218",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "913190566358028369",
+      "type": "Reply",
+      "timestamp": "2021-11-24T22:13:17.28+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Começou hoje! https://www.youtube.com/watch?v=k8NIGZrfhDo ainda está acontecendo a ultima conversa de hoje",
+      "author": {
+        "id": "869940637594714183",
+        "name": "BiancaGadelha",
+        "discriminator": "2667",
+        "nickname": "BiancaGadelha",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/869940637594714183/3a19e8e74e29c54ca67342ce050bce03.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ao vivo | Blockchain Revolution Brasil 2021",
+          "url": "https://www.youtube.com/watch?v=k8NIGZrfhDo",
+          "timestamp": null,
+          "description": "Bem-vindos ao Blockchain Revolution Brasil 2021!\n\nSessões ao vivo | 24 de novembro das 16h00 às 20h00\n\n16:00-16:10 Boas-vindas\nPor Carl Amorim, CEO BRI Brasil\n\n16:10-17:00 O impacto das tecnologias no mundo pós pandemia\nBate-papo entre Carlos Piazza, Darwinista Digital, Nexialista, Futurista Practioner Certified Millenium Project e Carl Amorim, ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Blockchain Hub Brasil",
+            "url": "https://www.youtube.com/channel/UC_6MBjTECFBclKcIW_YyDaw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/iCDuSg-Sl9LZctsbvvvygAyqVabS-Qm0VlCy9uLU9gs/https/i.ytimg.com/vi/k8NIGZrfhDo/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "725532461936935002",
+          "name": "Gami",
+          "discriminator": "9297",
+          "nickname": "Gami",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "913118108598825011",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "913399429669748767",
+      "type": "Default",
+      "timestamp": "2021-11-25T12:03:14.174+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "olaa! encontrei esse espacinho agora, que delicia outros brasileiros por aqui ❤️",
+      "author": {
+        "id": "902543185367142400",
+        "name": "pat.zip (TE Academy)",
+        "discriminator": "5266",
+        "nickname": "pat.zip (TE Academy)",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902543185367142400/3485dc9d4dafd5db7ec18f6ed2979c3f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "915947806609518602",
+      "type": "Reply",
+      "timestamp": "2021-12-02T12:49:34.583+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "aaa boto fé! nao tava sabendo",
+      "author": {
+        "id": "725532461936935002",
+        "name": "Gami",
+        "discriminator": "9297",
+        "nickname": "Gami",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/725532461936935002/c66719eaed65e1ac9b6ffb0661139942.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "869940637594714183",
+          "name": "BiancaGadelha",
+          "discriminator": "2667",
+          "nickname": "BiancaGadelha",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "913190566358028369",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "917100245479981137",
+      "type": "Reply",
+      "timestamp": "2021-12-05T17:08:57.421+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Opaaa. Boa tarde, galera. Pra quem tá no br \uD83E\uDD73  desculpem a demora. Ciclos encerrando e outros iniciando, fora que as gravações para o evento foram bem puxadas haha\nMas aí, o evento vai ficar no ar até o final de dezembro, então quem quiser assistir é só acessar no YT ou cadastrar no https://revolucaoblockchain.com.br/\n\nPra quem quiser saber mais sobre a Kairós (a DAO por trás do BRI Brasil, Blockchain Hub, etc) tem esse link também\nhttps://kairos.gamifica.ai\n\nEstou à disposição, também pra quem quiser conversar sobre o ecossistema aqui no br. Inclusive, estamos precisando né!? Falei estes dias numa reunião do Commons Stack que menos de 30% da população brazuca fala inglês e quando fui pesquisar de fato, descobri que o número de 2020 é de 5% \uD83E\uDD7A .\n\nAproveitando, no Blockchain Revolution temos uma palestra sobre a TE Academy com a @pat.zip (TE Academy) e o @danlessa em pt-br que foi muito massa.",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BRB 2021",
+          "url": "https://revolucaoblockchain.com.br/",
+          "timestamp": null,
+          "description": "O BRB é um evento satélite de preparação para o BRG Blockchain Revolution Global. Nasceu para incentivar a adoção do blockchain no Brasil, O evento acontecerá on-line a partir de 24 de novembro de 2021. Reserve a sua vaga aqui e saiba mais sobre as temáticas do evento.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/SLBCM3cNDcG2dvbETZkXG0HibHujHLKGT3ht54yJbwc/https/cdn.bitrix24.com.br/b15206831/landing/41c/41ccb4427650130586a2d38d46492c6a/Call_for_Speakers_-_BRB_2021_Post_para_Twitter_1x.png",
+            "width": 1200,
+            "height": 675
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Gamifica - Eventos Gamificados",
+          "url": "https://kairos.gamifica.ai/",
+          "timestamp": null,
+          "description": "Gamifica.ai é a plataforma whitelabel de eventos digitais engajadores e memoráveis.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "390142533566464000",
+          "name": "danlessa",
+          "discriminator": "2831",
+          "nickname": "danlessa",
+          "isBot": false
+        },
+        {
+          "id": "902543185367142400",
+          "name": "pat.zip (TE Academy)",
+          "discriminator": "5266",
+          "nickname": "pat.zip (TE Academy)",
+          "isBot": false
+        },
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "910729989270409218",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "920698724097859584",
+      "type": "Reply",
+      "timestamp": "2021-12-15T15:28:01.58+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Muito legal!!! Obrigada por compartilhar!",
+      "author": {
+        "id": "869940637594714183",
+        "name": "BiancaGadelha",
+        "discriminator": "2667",
+        "nickname": "BiancaGadelha",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/869940637594714183/3a19e8e74e29c54ca67342ce050bce03.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "815645395191070730",
+          "name": "thiago.rossi",
+          "discriminator": "1714",
+          "nickname": "thiago.rossi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "917100245479981137",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "920745706828988416",
+      "type": "Default",
+      "timestamp": "2021-12-15T18:34:43.136+00:00",
+      "timestampEdited": "2021-12-15T18:34:55.613+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "alguem sabe se o ETH Rio vai rolar mesmo e quem ta organizando?",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "921071092163018843",
+      "type": "Default",
+      "timestamp": "2021-12-16T16:07:41.045+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@danlessa",
+      "author": {
+        "id": "340686435268952064",
+        "name": "Parrachia",
+        "discriminator": "0450",
+        "nickname": "Pedro Parrachia",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/340686435268952064/e8992c56ca034abb53c15345b89af0c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✌️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/270c.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "390142533566464000",
+          "name": "danlessa",
+          "discriminator": "2831",
+          "nickname": "danlessa",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "921071117580529675",
+      "type": "Reply",
+      "timestamp": "2021-12-16T16:07:47.105+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "uia, tava por fora",
+      "author": {
+        "id": "340686435268952064",
+        "name": "Parrachia",
+        "discriminator": "0450",
+        "nickname": "Pedro Parrachia",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/340686435268952064/e8992c56ca034abb53c15345b89af0c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920745706828988416",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "921072491353497600",
+      "type": "Default",
+      "timestamp": "2021-12-16T16:13:14.638+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "olar",
+      "author": {
+        "id": "390142533566464000",
+        "name": "danlessa",
+        "discriminator": "2831",
+        "nickname": "danlessa",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/390142533566464000/e5ee007ea675f838bd2330148492d4c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "921072708194820127",
+      "type": "Default",
+      "timestamp": "2021-12-16T16:14:06.337+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "parece que já tem uma massa critica por sp\n\neu estava pensando bastante ultimamente de ter espacos bacanas pra co-trabalho, vocês andam na mesma?",
+      "author": {
+        "id": "390142533566464000",
+        "name": "danlessa",
+        "discriminator": "2831",
+        "nickname": "danlessa",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/390142533566464000/e5ee007ea675f838bd2330148492d4c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "921090774811156501",
+      "type": "Reply",
+      "timestamp": "2021-12-16T17:25:53.754+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Aqui na minha cidade já pensamos em coisas do tipo, mas como é uma cidade \"pequena\" os co-trabalhos que existem giram em torno da universidade",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "390142533566464000",
+          "name": "danlessa",
+          "discriminator": "2831",
+          "nickname": "danlessa",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "921072708194820127",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "921093242911608842",
+      "type": "Reply",
+      "timestamp": "2021-12-16T17:35:42.195+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "eu ia amar um espaço de coworking tb",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "390142533566464000",
+          "name": "danlessa",
+          "discriminator": "2831",
+          "nickname": "danlessa",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "921072708194820127",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "921095172610211920",
+      "type": "Reply",
+      "timestamp": "2021-12-16T17:43:22.271+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/eth_rio",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "EthRio \uD83C\uDDE7\uD83C\uDDF7 | 14-17 March 2022 (@eth_rio)",
+          "url": "https://twitter.com/eth_rio",
+          "timestamp": null,
+          "description": "A convergence of creators, builders and thinkers in the world's most beautiful city ❤\n\njoin us - https://t.co/w7YonGi6Ki\n\nLocation: Museum of the Future\n\n#ethereum #ethrio",
+          "color": "#1DA1F2",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/j22-o-T8GSLbM6JRViXrUF2dyMOBNF1l2E0rX2v2IHQ/https/pbs.twimg.com/profile_images/1467989066226577417/pNvbuVjl_normal.jpg",
+            "width": 48,
+            "height": 48
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Tweets",
+              "value": "9",
+              "isInline": true
+            },
+            {
+              "name": "Followers",
+              "value": "284",
+              "isInline": true
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "920745706828988416",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "921095266206109716",
+      "type": "Default",
+      "timestamp": "2021-12-16T17:43:44.586+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Não sei se vc viu",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "921095294752546886",
+      "type": "Default",
+      "timestamp": "2021-12-16T17:43:51.392+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@liviade",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE3B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f63b.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "921361397198250054",
+      "type": "Reply",
+      "timestamp": "2021-12-17T11:21:15.159+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "eu vi, mas nao ta mto atualizado, obg por compartilhar :)",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE09",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f609.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "815645395191070730",
+          "name": "thiago.rossi",
+          "discriminator": "1714",
+          "nickname": "thiago.rossi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "921095172610211920",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "922498515589017600",
+      "type": "Default",
+      "timestamp": "2021-12-20T14:39:45.31+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "390142533566464000",
+        "name": "danlessa",
+        "discriminator": "2831",
+        "nickname": "danlessa",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/390142533566464000/e5ee007ea675f838bd2330148492d4c3.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "922498514628526180",
+          "url": "https://cdn.discordapp.com/attachments/810180623120597023/922498514628526180/Screenshot_20211220-112721_Instagram.jpg",
+          "fileName": "Screenshot_20211220-112721_Instagram.jpg",
+          "fileSizeBytes": 1238766
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD29",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f929.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "922498566478495754",
+      "type": "Default",
+      "timestamp": "2021-12-20T14:39:57.443+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "olha o TEC viajando o brasil nos ombros",
+      "author": {
+        "id": "390142533566464000",
+        "name": "danlessa",
+        "discriminator": "2831",
+        "nickname": "danlessa",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/390142533566464000/e5ee007ea675f838bd2330148492d4c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "922524926789951538",
+      "type": "Default",
+      "timestamp": "2021-12-20T16:24:42.231+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "390142533566464000",
+        "name": "danlessa",
+        "discriminator": "2831",
+        "nickname": "danlessa",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/390142533566464000/e5ee007ea675f838bd2330148492d4c3.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "922524925909151744",
+          "url": "https://cdn.discordapp.com/attachments/810180623120597023/922524925909151744/Screen_Shot_2021-12-20_at_13.24.05.png",
+          "fileName": "Screen_Shot_2021-12-20_at_13.24.05.png",
+          "fileSizeBytes": 570261
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927944060176576603",
+      "type": "Default",
+      "timestamp": "2022-01-04T15:18:24.313+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bora marcar um almoço ou algo do tipo p galera de sp",
+      "author": {
+        "id": "340686435268952064",
+        "name": "Parrachia",
+        "discriminator": "0450",
+        "nickname": "Pedro Parrachia",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/340686435268952064/e8992c56ca034abb53c15345b89af0c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928255461310992394",
+      "type": "Default",
+      "timestamp": "2022-01-05T11:55:48.129+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sim, boraa",
+      "author": {
+        "id": "902543185367142400",
+        "name": "pat.zip (TE Academy)",
+        "discriminator": "5266",
+        "nickname": "pat.zip (TE Academy)",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902543185367142400/3485dc9d4dafd5db7ec18f6ed2979c3f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "928255507158925333",
+      "type": "Default",
+      "timestamp": "2022-01-05T11:55:59.06+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "quem ta por sp em janeiro?",
+      "author": {
+        "id": "902543185367142400",
+        "name": "pat.zip (TE Academy)",
+        "discriminator": "5266",
+        "nickname": "pat.zip (TE Academy)",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902543185367142400/3485dc9d4dafd5db7ec18f6ed2979c3f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "929391422036123729",
+      "type": "Default",
+      "timestamp": "2022-01-08T15:09:42.271+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oi pessoal, alguem por aqui montando DAO? Eu estou montando uma e queria validar o tokenomics. To buscando ajuda ou consultoria pra validar o tokenomics do meu negócio",
+      "author": {
+        "id": "507916856821284894",
+        "name": "MΞLK",
+        "discriminator": "8101",
+        "nickname": "MΞLK",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/507916856821284894/c93063f3b6cdb694b839fe934fb569aa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "930093430879694849",
+      "type": "Reply",
+      "timestamp": "2022-01-10T13:39:14.222+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Olá, melk. Se quiser explicar melhor, pode enviar no privado",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "507916856821284894",
+          "name": "MΞLK",
+          "discriminator": "8101",
+          "nickname": "MΞLK",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "929391422036123729",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "930822559765786694",
+      "type": "Reply",
+      "timestamp": "2022-01-12T13:56:32.095+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@xav tava fazendo isso de forma computacional pra alguns projetos, pode ser um bom colega junto com o @thiago.rossi, que entende bastante de dinâmicas de DAO",
+      "author": {
+        "id": "390142533566464000",
+        "name": "danlessa",
+        "discriminator": "2831",
+        "nickname": "danlessa",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/390142533566464000/e5ee007ea675f838bd2330148492d4c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "824851440869572608",
+          "name": "xav",
+          "discriminator": "6180",
+          "nickname": "xav",
+          "isBot": false
+        },
+        {
+          "id": "815645395191070730",
+          "name": "thiago.rossi",
+          "discriminator": "1714",
+          "nickname": "thiago.rossi",
+          "isBot": false
+        },
+        {
+          "id": "507916856821284894",
+          "name": "MΞLK",
+          "discriminator": "8101",
+          "nickname": "MΞLK",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "929391422036123729",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "931733246235009064",
+      "type": "Default",
+      "timestamp": "2022-01-15T02:15:16.669+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Po legal, vou falar com vcs",
+      "author": {
+        "id": "507916856821284894",
+        "name": "MΞLK",
+        "discriminator": "8101",
+        "nickname": "MΞLK",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/507916856821284894/c93063f3b6cdb694b839fe934fb569aa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "931733488116301834",
+      "type": "Default",
+      "timestamp": "2022-01-15T02:16:14.338+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@thiago.rossi tentei mandar mensagem privada mas nao consegui",
+      "author": {
+        "id": "507916856821284894",
+        "name": "MΞLK",
+        "discriminator": "8101",
+        "nickname": "MΞLK",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/507916856821284894/c93063f3b6cdb694b839fe934fb569aa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "815645395191070730",
+          "name": "thiago.rossi",
+          "discriminator": "1714",
+          "nickname": "thiago.rossi",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "931733594454507532",
+      "type": "Default",
+      "timestamp": "2022-01-15T02:16:39.691+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@xav acha que pode ajudar de alguma forma?",
+      "author": {
+        "id": "507916856821284894",
+        "name": "MΞLK",
+        "discriminator": "8101",
+        "nickname": "MΞLK",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/507916856821284894/c93063f3b6cdb694b839fe934fb569aa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "824851440869572608",
+          "name": "xav",
+          "discriminator": "6180",
+          "nickname": "xav",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "932297809737171076",
+      "type": "Default",
+      "timestamp": "2022-01-16T15:38:39.097+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Este e um momento único para reduzirmos a desigualdade econômica através da educação e acesso tecnologico! Estou aqui para contribuir e ajudar o talento brasileiro a deslanchar na web3!!",
+      "author": {
+        "id": "778574570202333224",
+        "name": "A3",
+        "discriminator": "3343",
+        "nickname": "A3",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/778574570202333224/10ec9cfed5937337150e72bb25fb5993.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f49a.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "932396606022631494",
+      "type": "Reply",
+      "timestamp": "2022-01-16T22:11:13.967+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Também tentei e não consegui. Tentei add como amigo e tb não foi",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "507916856821284894",
+          "name": "MΞLK",
+          "discriminator": "8101",
+          "nickname": "MΞLK",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "931733488116301834",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "932625666409631764",
+      "type": "Reply",
+      "timestamp": "2022-01-17T13:21:26.219+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bora, voltei",
+      "author": {
+        "id": "390142533566464000",
+        "name": "danlessa",
+        "discriminator": "2831",
+        "nickname": "danlessa",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/390142533566464000/e5ee007ea675f838bd2330148492d4c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "340686435268952064",
+          "name": "Parrachia",
+          "discriminator": "0450",
+          "nickname": "Pedro Parrachia",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927944060176576603",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "932649347261276180",
+      "type": "Default",
+      "timestamp": "2022-01-17T14:55:32.174+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Salve!",
+      "author": {
+        "id": "824851440869572608",
+        "name": "xav",
+        "discriminator": "6180",
+        "nickname": "xav",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/824851440869572608/09413effce6711acc99070589596d0cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932649394736595024",
+      "type": "Reply",
+      "timestamp": "2022-01-17T14:55:43.493+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bora conversar",
+      "author": {
+        "id": "824851440869572608",
+        "name": "xav",
+        "discriminator": "6180",
+        "nickname": "xav",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/824851440869572608/09413effce6711acc99070589596d0cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "507916856821284894",
+          "name": "MΞLK",
+          "discriminator": "8101",
+          "nickname": "MΞLK",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "931733246235009064",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "932651176015581224",
+      "type": "Default",
+      "timestamp": "2022-01-17T15:02:48.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "salve",
+      "author": {
+        "id": "340686435268952064",
+        "name": "Parrachia",
+        "discriminator": "0450",
+        "nickname": "Pedro Parrachia",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/340686435268952064/e8992c56ca034abb53c15345b89af0c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932651209427419156",
+      "type": "Default",
+      "timestamp": "2022-01-17T15:02:56.149+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pior q agora tá foda covid de novo",
+      "author": {
+        "id": "340686435268952064",
+        "name": "Parrachia",
+        "discriminator": "0450",
+        "nickname": "Pedro Parrachia",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/340686435268952064/e8992c56ca034abb53c15345b89af0c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932651234396078130",
+      "type": "Default",
+      "timestamp": "2022-01-17T15:03:02.102+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "podemos pensar algo em espaço aberto",
+      "author": {
+        "id": "340686435268952064",
+        "name": "Parrachia",
+        "discriminator": "0450",
+        "nickname": "Pedro Parrachia",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/340686435268952064/e8992c56ca034abb53c15345b89af0c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "932651552320151593",
+      "type": "Reply",
+      "timestamp": "2022-01-17T15:04:17.901+00:00",
+      "timestampEdited": "2022-01-17T15:04:47.64+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "opa, me adiciona p nos falarmos",
+      "author": {
+        "id": "340686435268952064",
+        "name": "Parrachia",
+        "discriminator": "0450",
+        "nickname": "Pedro Parrachia",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/340686435268952064/e8992c56ca034abb53c15345b89af0c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "507916856821284894",
+          "name": "MΞLK",
+          "discriminator": "8101",
+          "nickname": "MΞLK",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "929391422036123729",
+        "channelId": "810180623120597023",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "933779168724934676",
+      "type": "Default",
+      "timestamp": "2022-01-20T17:45:02.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fala galera! Se for rolar esse encontro, avisem com um pouco de antedência que dou um pulo até sampa... tô em MG até maio, pelo menos",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "934400489079066714",
+      "type": "Default",
+      "timestamp": "2022-01-22T10:53:56.918+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bom dia, pessoal! Aproveitar pra compartilhar a revista que acabou de sair - Blockchain Business Review!\n\nNa entrevista de capa, a Grace Rachmany, autora do livro \"So, You've Got a DAO\" menciona o WG de Soft Gov do TEC.\n\nRecomendo a leitura!\n\nhttps://www.magzter.com/BR/BlockPub/Blockchain-Business-Review/Business/848791",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Blockchain Business Review-Janeiro de 2022 Magazine - Get your Digi...",
+          "url": "https://www.magzter.com/BR/BlockPub/Blockchain-Business-Review/Business/848791",
+          "timestamp": null,
+          "description": "Get your digital subscription/issue of Blockchain Business Review-Janeiro de 2022 Magazine on Magzter and enjoy reading the Magazine on iPad, iPhone, Android devices and the web.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/RF9Q1UyqZaQ_dzrJAZrhJIqZTDqteR7CdMeVbzQ3LFo/https/files.magzter.com/resize/magazine/1625583407/1642801302/view/3.jpg",
+            "width": 640,
+            "height": 800
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF08",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f308.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "934400849940189196",
+      "type": "Default",
+      "timestamp": "2022-01-22T10:55:22.954+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, e eu contribuí com 2 artigos",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "934400919775358976",
+      "type": "Default",
+      "timestamp": "2022-01-22T10:55:39.604+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD73",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "935162935876149258",
+      "type": "Default",
+      "timestamp": "2022-01-24T13:23:38.4+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pessoal, só pra avisar... só parece que tem que pagar para ler a revista, mas não precisa... é só cadastrar e acessar gratuitamente.",
+      "author": {
+        "id": "815645395191070730",
+        "name": "thiago.rossi",
+        "discriminator": "1714",
+        "nickname": "thiago.rossi",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/815645395191070730/9b9aaebb8329651e34aad47a1d017bf8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "935247712033591326",
+      "type": "Default",
+      "timestamp": "2022-01-24T19:00:30.611+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "que massa a Grace na capa, trabalhei com ela uns anos atrás",
+      "author": {
+        "id": "340686435268952064",
+        "name": "Parrachia",
+        "discriminator": "0450",
+        "nickname": "Pedro Parrachia",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/340686435268952064/e8992c56ca034abb53c15345b89af0c3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD29",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f929.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "938884816194142255",
+      "type": "Default",
+      "timestamp": "2022-02-03T19:53:03.817+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Sara Camargos",
+      "author": {
+        "id": "869940637594714183",
+        "name": "BiancaGadelha",
+        "discriminator": "2667",
+        "nickname": "BiancaGadelha",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/869940637594714183/3a19e8e74e29c54ca67342ce050bce03.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "930225056477503559",
+          "name": "Sara Camargos",
+          "discriminator": "0205",
+          "nickname": "Sara Camargos",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "943965478555111565",
+      "type": "Default",
+      "timestamp": "2022-02-17T20:21:48.118+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey hey! \uD83D\uDE42",
+      "author": {
+        "id": "641449673818898472",
+        "name": "paulofonseca",
+        "discriminator": "1987",
+        "nickname": "paulofonseca",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/641449673818898472/a287ac42128a43906f3185231abfb936.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✌️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/270c.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "980288832647876668",
+      "type": "Default",
+      "timestamp": "2022-05-29T01:57:50.589+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oiii",
+      "author": {
+        "id": "532670114269495306",
+        "name": "tothemoon",
+        "discriminator": "3424",
+        "nickname": "tothemoon",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/532670114269495306/bb9127acedb92cbdc9cf2e449b3068a0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "982331148388675624",
+      "type": "Default",
+      "timestamp": "2022-06-03T17:13:16.606+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fala, pessoal",
+      "author": {
+        "id": "441626959882223617",
+        "name": "matheusfpl",
+        "discriminator": "1541",
+        "nickname": "matheusfpl",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/441626959882223617/b3004abad50a9148cdaace15cb171b38.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997280834342105119",
+      "type": "Default",
+      "timestamp": "2022-07-14T23:17:59.489+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gm",
+      "author": {
+        "id": "799632945341923328",
+        "name": "castelo.eth",
+        "discriminator": "2522",
+        "nickname": "castelo.eth",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/799632945341923328/902b5d93896f3430934ba0f6225fd036.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997497646501601484",
+      "type": "Default",
+      "timestamp": "2022-07-15T13:39:31.536+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "alguém já conseguiu trabalho como tradutor aí? como faz? obrigada \uD83D\uDE42",
+      "author": {
+        "id": "960505968947515392",
+        "name": "laviedefedra",
+        "discriminator": "3745",
+        "nickname": "laviedefedra",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/960505968947515392/e78d6355c546fe5b029615cc8e75950a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1037036317063790712",
+      "type": "Default",
+      "timestamp": "2022-11-01T16:12:05.191+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "boa tarde \uD83D\uDD90️",
+      "author": {
+        "id": "807026351730196520",
+        "name": "jnptzl",
+        "discriminator": "0384",
+        "nickname": "jnptzl",
+        "color": "#9AF3DF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/807026351730196520/c2b9e185f549f739fda933ac2f18bc7a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 74
+}

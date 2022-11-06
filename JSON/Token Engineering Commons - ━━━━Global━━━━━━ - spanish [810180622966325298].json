@@ -1,0 +1,793 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "810180622966325298",
+    "type": "GuildTextChat",
+    "categoryId": "810180622966325297",
+    "category": "━━━━Global━━━━━━",
+    "name": "spanish",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "822750362930642975",
+      "type": "Default",
+      "timestamp": "2021-03-20T08:36:12.485+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Juankbell It would be good to invite Mount Manu to this channel he said he would like to start onboarding Spanish people to TEC.\n\nAlso, why are global channels private and not public?",
+      "author": {
+        "id": "523401372188540939",
+        "name": "markop",
+        "discriminator": "2007",
+        "nickname": "markop",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "749990807238607020",
+          "name": "Juankbell",
+          "discriminator": "7458",
+          "nickname": "Juankbell",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "823255422357602314",
+      "type": "Reply",
+      "timestamp": "2021-03-21T18:03:08.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fixed \uD83D\uDC4D",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "523401372188540939",
+          "name": "markop",
+          "discriminator": "2007",
+          "nickname": "markop",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822750362930642975",
+        "channelId": "810180622966325298",
+        "guildId": null
+      }
+    },
+    {
+      "id": "823634329103499345",
+      "type": "Default",
+      "timestamp": "2021-03-22T19:08:46.444+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@markop Even more than that, I'm game for translating the whole gitbook to Spanish >:)",
+      "author": {
+        "id": "480128711941685289",
+        "name": "Manuel Flores",
+        "discriminator": "3530",
+        "nickname": "Manuel Flores",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480128711941685289/c08645ae9ca560be07dc5536283aaf20.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF89",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f389.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "523401372188540939",
+          "name": "markop",
+          "discriminator": "2007",
+          "nickname": "markop",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "823635812121051177",
+      "type": "Default",
+      "timestamp": "2021-03-22T19:14:40.023+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Whoa!",
+      "author": {
+        "id": "523401372188540939",
+        "name": "markop",
+        "discriminator": "2007",
+        "nickname": "markop",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/523401372188540939/569d4fffb49860ec5178c4a171c1dc4a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "834416957175365682",
+      "type": "Default",
+      "timestamp": "2021-04-21T13:15:05.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola a todos! el día de hoy estaremos dialogando con Santi Siri sobre Proof of Humanity en un meetup de Eth Colombia! \uD83D\uDE4C https://www.youtube.com/watch?v=ZrTjD3dyZMw",
+      "author": {
+        "id": "749990807238607020",
+        "name": "Juankbell",
+        "discriminator": "7458",
+        "nickname": "Juankbell",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Caribe.Eth Vol.5 - Proof of Humanity con Santiago Siri",
+          "url": "https://www.youtube.com/watch?v=ZrTjD3dyZMw",
+          "timestamp": null,
+          "description": "En esta quinta sesión de Ethereum Caribe estaremos dialogando sobre salarios básicos universales (#UBI), DAOs, identidad y resolución de disputas a través de redes descentralizadas. No te lo puedes perder!\n\nEl miércoles 21 de Abril 2021, 10:00 A.M. Col, estaremos con Santiago Siri aprendiendo sobre Proof of Humanity, proyecto que cuenta con el r...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Ethereum Caribe",
+            "url": "https://www.youtube.com/channel/UC9KijvCJYCpsZzfP0bBbFZA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/eHjWcqEUo9IhgvXt0phEUqWtXjAHEX4vs4vD6xw1n3s/https/i.ytimg.com/vi/ZrTjD3dyZMw/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "834417244150300742",
+      "type": "Default",
+      "timestamp": "2021-04-21T13:16:13.728+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "También aprovecho para invitar a este Discord que usamos para Latam https://discord.gg/8UwQRaRqX3",
+      "author": {
+        "id": "749990807238607020",
+        "name": "Juankbell",
+        "discriminator": "7458",
+        "nickname": "Juankbell",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "847566913369669642",
+      "type": "Default",
+      "timestamp": "2021-05-27T20:08:19.179+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hoy! en dos horas tendremos una nueva sesión de Eth Colombia! estaremos dialogando con invitados de Consensys sobre Defi \uD83D\uDE42 todos invitados https://www.youtube.com/watch?v=TGwpUQerRw8",
+      "author": {
+        "id": "749990807238607020",
+        "name": "Juankbell",
+        "discriminator": "7458",
+        "nickname": "Juankbell",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DeFi: Introducción y breve historia [EthColombia + ConsenSys]",
+          "url": "https://www.youtube.com/watch?v=TGwpUQerRw8",
+          "timestamp": null,
+          "description": "En esta charla repasaremos la historia del desarrollo de las Finanzas Descentralizadas (DeFi), a través de la historia y los proyectos que están revolucionando el mundo de las finanzas. Haremos un paralelo con los productos y servicios actuales de las finanzas tradicionales. Gracias a ConsenSys iniciaremos un espacio recurrente de aprendizaje so...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Ethereum Colombia",
+            "url": "https://www.youtube.com/channel/UCWZ7HHeICc4wohpVa-KOGzg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/VVpBKTdK-2NjOq871_oKoYaXgSB6RVBHTcO5JSonTaQ/https/i.ytimg.com/vi/TGwpUQerRw8/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "854779726500200508",
+      "type": "Default",
+      "timestamp": "2021-06-16T17:49:27.837+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hoy! a las 7pm Argentina, 5pm Col, los invitamos al evento de DefiLatam donde estaremos hablando sobre DAOs, 5 años después del hack a The DAO! Todos invitados \uD83D\uDE04  https://www.meetup.com/es/defilatam/events/278705496/",
+      "author": {
+        "id": "749990807238607020",
+        "name": "Juankbell",
+        "discriminator": "7458",
+        "nickname": "Juankbell",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DAOs: Una mirada a 5 años de The DAO hack",
+          "url": "https://www.meetup.com/es/defilatam/events/278705496/",
+          "timestamp": null,
+          "description": "mié., 16 jun. 2021 19:00: Estamos felices de anunciar el 2do #meetup de DeFi LATAMTemática: #DAOsFecha: 16/06/2021, 7PM (Argentina)Tenemos #speakers de lujo \uD83D\uDE80♦️ vicente.eth, actual embajador de Maker",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GSCt6rcDTcAPkNnai1de2guAFbv1ehd-rNGmSSH7gb8/https/secure.meetupstatic.com/photos/event/d/2/c/9/600_496793961.jpeg",
+            "width": 600,
+            "height": 338
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "859470476689539072",
+      "type": "Default",
+      "timestamp": "2021-06-29T16:28:49.832+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mañana! https://www.meetup.com/es/Ethereum-Caribe/events/279024418/ todos invitados!",
+      "author": {
+        "id": "749990807238607020",
+        "name": "Juankbell",
+        "discriminator": "7458",
+        "nickname": "Juankbell",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "859470476752977950",
+          "url": "https://cdn.discordapp.com/attachments/810180622966325298/859470476752977950/IMAGE_2021-06-29_112825.jpg",
+          "fileName": "IMAGE_2021-06-29_112825.jpg",
+          "fileSizeBytes": 184235
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Caribe.ETH vol.6 Gobernanza, cultura y aspectos legales en DAOs",
+          "url": "https://www.meetup.com/es/Ethereum-Caribe/events/279024418/",
+          "timestamp": null,
+          "description": "mié., 30 jun. 2021 14:00: EthColombia presenta: Caribe.ETH Vol.6 - En esta ocasión tendremos como invitados a Santiago García y Juan Bell, representantes de The Commons Stack y Token Engineering Commo",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NVV5BDaMiRMkMjG9jXxay0Pxd9qxbsaMRn-caTc5Guk/https/secure.meetupstatic.com/photos/event/d/8/f/2/600_497095538.jpeg",
+            "width": 600,
+            "height": 338
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "862484518521798676",
+      "type": "Default",
+      "timestamp": "2021-07-08T00:05:33.403+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=yrip_nSfAw4 estamos en vivo para toda la audiencia de habla hispana.  Hablaremos de:\n- Deberíamos interesarnos en Ethereum como plataforma?\n- Comprenda por qué Ethereum es una disrupción Financiera\n- Nuevos modelos de gobernanza que redefinen el trabajo del futuro\n- Por qué debemos tener una comunidad  de programadores de Smart Contracts y Web3\n- Conozca Ethereum Colombia y como ser parte ella.",
+      "author": {
+        "id": "749990807238607020",
+        "name": "Juankbell",
+        "discriminator": "7458",
+        "nickname": "Juankbell",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ethereum... negocio, software o economía programable - TNT # 128",
+          "url": "https://www.youtube.com/watch?v=yrip_nSfAw4",
+          "timestamp": null,
+          "description": "Con el equipo de Ethereum Colombia nos reuniremos y hablaremos sobre las caras del cubo Rubik de Ethereum y el potencial de transformación global.\n \nHablaremos de:\n- Deberíamos interesarnos en Ethereum como plataforma?\n- Comprenda por qué Ethereum es una disrupción Financiera\n- Nuevos modelos de gobernanza que redefinen el trabajo del futuro\n- P...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Blockchain eX - Innovation Center",
+            "url": "https://www.youtube.com/channel/UCe-_Yt1aKU6MRSUrwfy2gCA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/W7DvDSmOQ5EJHhmdLH3f92GUpQbQOc7J4W3xlhxNdoE/https/i.ytimg.com/vi/yrip_nSfAw4/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "913455057733845023",
+      "type": "Default",
+      "timestamp": "2021-11-25T15:44:16.938+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "749990807238607020",
+        "name": "Juankbell",
+        "discriminator": "7458",
+        "nickname": "Juankbell",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "913455055678627901",
+          "url": "https://cdn.discordapp.com/attachments/810180622966325298/913455055678627901/Captura_de_Pantalla_2021-11-23_a_las_12.39.35_p._m..png",
+          "fileName": "Captura_de_Pantalla_2021-11-23_a_las_12.39.35_p._m..png",
+          "fileSizeBytes": 1825356
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "913455107994185798",
+      "type": "Default",
+      "timestamp": "2021-11-25T15:44:28.921+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "todos invitados! \uD83D\uDE42",
+      "author": {
+        "id": "749990807238607020",
+        "name": "Juankbell",
+        "discriminator": "7458",
+        "nickname": "Juankbell",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "913559336134012929",
+      "type": "Default",
+      "timestamp": "2021-11-25T22:38:38.846+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/40V0JgaKbT4",
+      "author": {
+        "id": "749990807238607020",
+        "name": "Juankbell",
+        "discriminator": "7458",
+        "nickname": "Juankbell",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bienes Públicos en Ethereum/ ETH Colombia: Camino a Devcon",
+          "url": "https://www.youtube.com/watch?v=40V0JgaKbT4",
+          "timestamp": null,
+          "description": "Charlaremos acerca de iniciativas que tienen a los bienes comunes como principal enfoque; Token Engineering Commons, Giveth y Gitcoin.",
+          "color": "#FF0000",
+          "author": {
+            "name": "Ethereum Colombia",
+            "url": "https://www.youtube.com/channel/UCWZ7HHeICc4wohpVa-KOGzg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/mOQf4OF407PUswhVQTeAcAvrxYbTh-WBMTSwVMxFozc/https/i.ytimg.com/vi/40V0JgaKbT4/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "914939715910783026",
+      "type": "Default",
+      "timestamp": "2021-11-29T18:03:47.031+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola!",
+      "author": {
+        "id": "753494673808424961",
+        "name": "Edgar | Chain of Secrets",
+        "discriminator": "5783",
+        "nickname": "Edgar | Chain of Secrets",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/753494673808424961/99890c193cee4c7d449b171363311322.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "915660499876737105",
+      "type": "Default",
+      "timestamp": "2021-12-01T17:47:55.32+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wena",
+      "author": {
+        "id": "321011444755726337",
+        "name": "NikosamA98",
+        "discriminator": "5909",
+        "nickname": "NikosamA98",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/321011444755726337/c545d0b39aadd5d720466bed7fc925c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "890708715228004352",
+            "name": "gm",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/890708715228004352.gif"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "918196991098507284",
+      "type": "Default",
+      "timestamp": "2021-12-08T17:47:01.953+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola! Que bueno que abrieron este canal!!!",
+      "author": {
+        "id": "768973489532305428",
+        "name": "Ali Pizra",
+        "discriminator": "7151",
+        "nickname": "Ali Pizra",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768973489532305428/5e9085e7865266fc83b9a8dd1d93011d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "890708715228004352",
+            "name": "gm",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/890708715228004352.gif"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "921263407657812008",
+      "type": "Default",
+      "timestamp": "2021-12-17T04:51:52.632+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola",
+      "author": {
+        "id": "897541670793515071",
+        "name": "AnaTech",
+        "discriminator": "7412",
+        "nickname": "AnaTech",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897541670793515071/a9283f918863c5bfc94e9606789327b2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "921263429187149854",
+      "type": "Default",
+      "timestamp": "2021-12-17T04:51:57.765+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gn",
+      "author": {
+        "id": "897541670793515071",
+        "name": "AnaTech",
+        "discriminator": "7412",
+        "nickname": "AnaTech",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897541670793515071/a9283f918863c5bfc94e9606789327b2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "933757132229206056",
+      "type": "Default",
+      "timestamp": "2022-01-20T16:17:28.692+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bd",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951610770712588400",
+      "type": "Default",
+      "timestamp": "2022-03-10T22:41:27.811+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hoy desde las 6:00 pm EST comienza el lanzamiento de la hackathon EthColombia con una transmisión en vivo y varias presentaciones. comparto el link para los que quieran unirse https://www.youtube.com/watch?v=H1jMXZHtmlM",
+      "author": {
+        "id": "749990807238607020",
+        "name": "Juankbell",
+        "discriminator": "7458",
+        "nickname": "Juankbell",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749990807238607020/8deaadd14238c0a72a8871176b993946.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Día 0: Inmersión a FORK THE SYSTEM",
+          "url": "https://www.youtube.com/watch?v=H1jMXZHtmlM",
+          "timestamp": null,
+          "description": "En esta sesión mostraremos las herramientas que tendremos a disposición durante la hackathon:\r\n\r\n18h00 EVENTO VIRTUAL \uD83D\uDCE1 Bienvenida \uD83C\uDF89\r\n\r\n18h15 Johny Gómez – Blockchain para negocios\r\n\r\n18h45 Mateo Daza y Juan Bell – Bienes públicos de Ethereum\r\n\r\n19h45 Andrés a.k.a. Sandusky – Taller The Graph\r\n\r\n20h30 Ahmed Castro - Estado actual de las Layer 2\r...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Ethereum Colombia",
+            "url": "https://www.youtube.com/channel/UCWZ7HHeICc4wohpVa-KOGzg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/YQ7eta_bsBoBachh-siNhzerls5wsnUJw26Z9_dblrk/https/i.ytimg.com/vi/H1jMXZHtmlM/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "960801328190349382",
+      "type": "Default",
+      "timestamp": "2022-04-05T07:21:27.466+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gn",
+      "author": {
+        "id": "768973489532305428",
+        "name": "Ali Pizra",
+        "discriminator": "7151",
+        "nickname": "Ali Pizra",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768973489532305428/5e9085e7865266fc83b9a8dd1d93011d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1014907724531769384",
+      "type": "Default",
+      "timestamp": "2022-09-01T14:40:57.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @everyone!\nLos invitamos este Miércoles, 7 de Septiembre a las 6pm UTC a nuestro evento de Introducción a Token Engineering, en Español. \uD83C\uDF08 \uD83E\uDD13\nhttps://twitter.com/tokengineering/status/1565346239377465345?s=20&t=d8wz4HPS_Jy6mfladu3mIw",
+      "author": {
+        "id": "716075819755110440",
+        "name": "angieberry.eth",
+        "discriminator": "9822",
+        "nickname": "angieberry.eth",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716075819755110440/d77cb3d4d73ca4c58dcc8b72389f4d82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/tokengineering/status/1565346239377465345?s=20&t=d8wz4HPS_Jy6mfladu3mIw",
+          "timestamp": "2022-09-01T14:30:00.851+00:00",
+          "description": "¿Quieres ser un Token Engineer, o buscas aprender más acerca de esta disciplina? \uD83E\uDD13\n\n¡Te invitamos a nuestra próxima sesión de Introducción a Token Engineering, en Español!\n\n⏰ Miércoles, Septiembre 7 a las 6pm UTC\n\uD83D\uDC47\u00A0Inscríbete aquí\nhttps://t.co/asBtz7QPDB",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "#TokenEngineering (@tokengineering)",
+            "url": "https://twitter.com/tokengineering",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Q4vXPqJv1fzLFAXiALCrvYkMJxbocyJK3BZp-NF4_RA/https/pbs.twimg.com/profile_images/1133711944857325568/KVQkeK5__400x400.png"
+          },
+          "image": {
+            "url": "https://images-ext-2.discordapp.net/external/I2xQy99alB2uAyHtjfPyGYLpjiNP3hpRrznFUHwZoQM/https/pbs.twimg.com/media/Fbgs1nvUsAAKSRo.jpg",
+            "width": 960,
+            "height": 540
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-2.discordapp.net/external/I2xQy99alB2uAyHtjfPyGYLpjiNP3hpRrznFUHwZoQM/https/pbs.twimg.com/media/Fbgs1nvUsAAKSRo.jpg",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "850673915441315880",
+            "name": "TEC_bold",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/850673915441315880.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 22
+}

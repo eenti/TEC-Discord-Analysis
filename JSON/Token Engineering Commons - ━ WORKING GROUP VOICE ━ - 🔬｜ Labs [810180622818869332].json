@@ -1,0 +1,45 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "810180622818869332",
+    "type": "GuildVoiceChat",
+    "categoryId": "816362403947479060",
+    "category": "━ WORKING GROUP VOICE ━",
+    "name": "\uD83D\uDD2C｜ Labs",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "985336127856738374",
+      "type": "Default",
+      "timestamp": "2022-06-12T00:13:59.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tst",
+      "author": {
+        "id": "558192816308617227",
+        "name": "Vyvy-vi",
+        "discriminator": "5040",
+        "nickname": "Vyvy-vi",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558192816308617227/df06267790d2bb80a6057b8e5a78611b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

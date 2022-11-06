@@ -1,0 +1,318 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "1024321174831890502",
+    "type": "GuildVoiceChat",
+    "categoryId": "810180622017757187",
+    "category": "━━━━START HERE━━━━",
+    "name": "\uD83D\uDCDE  | orientation-call",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1025106699750752277",
+      "type": "Default",
+      "timestamp": "2022-09-29T18:08:02.782+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "were you at the TE in Spanish twitter space?  @PauloDiaz",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "928095017799647294",
+          "name": "PauloDiaz",
+          "discriminator": "8825",
+          "nickname": "PauloDiaz",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1025107505510105118",
+      "type": "Default",
+      "timestamp": "2022-09-29T18:11:14.89+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh, hey @Mert Ozd!",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "699013677751205920",
+          "name": "Mert Ozd",
+          "discriminator": "6679",
+          "nickname": "Mert Ozd",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1025107585512243241",
+      "type": "Default",
+      "timestamp": "2022-09-29T18:11:33.964+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hola",
+      "author": {
+        "id": "699013677751205920",
+        "name": "Mert Ozd",
+        "discriminator": "6679",
+        "nickname": "Mert Ozd",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025107586510499850",
+      "type": "Default",
+      "timestamp": "2022-09-29T18:11:34.202+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "senior",
+      "author": {
+        "id": "699013677751205920",
+        "name": "Mert Ozd",
+        "discriminator": "6679",
+        "nickname": "Mert Ozd",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025107703032459356",
+      "type": "Default",
+      "timestamp": "2022-09-29T18:12:01.983+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how ya doin, its been a while",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025108186308554792",
+      "type": "Default",
+      "timestamp": "2022-09-29T18:13:57.205+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have an audio problem",
+      "author": {
+        "id": "785883436458967062",
+        "name": "Marathonmind",
+        "discriminator": "3078",
+        "nickname": "Marathonmind",
+        "color": "#9AF3DF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/785883436458967062/7232c89b3d17e81acf4f4e8426ef4f53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025108223658819695",
+      "type": "Default",
+      "timestamp": "2022-09-29T18:14:06.11+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will get abck once I get it fixed",
+      "author": {
+        "id": "785883436458967062",
+        "name": "Marathonmind",
+        "discriminator": "3078",
+        "nickname": "Marathonmind",
+        "color": "#9AF3DF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/785883436458967062/7232c89b3d17e81acf4f4e8426ef4f53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025108360112111627",
+      "type": "Default",
+      "timestamp": "2022-09-29T18:14:38.643+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes !!",
+      "author": {
+        "id": "699013677751205920",
+        "name": "Mert Ozd",
+        "discriminator": "6679",
+        "nickname": "Mert Ozd",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025108405364469780",
+      "type": "Default",
+      "timestamp": "2022-09-29T18:14:49.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have been a bad contributor for a long time \uD83D\uDE04",
+      "author": {
+        "id": "699013677751205920",
+        "name": "Mert Ozd",
+        "discriminator": "6679",
+        "nickname": "Mert Ozd",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699013677751205920/2054a3f03ee750ed3a6861f2cdf9fb73.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025109689534533693",
+      "type": "Default",
+      "timestamp": "2022-09-29T18:19:55.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Handbook: https://token-engineering-commons.gitbook.io/tec-handbook/",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TEC Handbook",
+          "url": "https://token-engineering-commons.gitbook.io/tec-handbook/",
+          "timestamp": null,
+          "description": "Welcome to the Token Engineering Commons Handbook!",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/03p4GJvRYX0DGQElZLWQI_qB7Fk-x9ihB4iEDuuKJyA/%3Fcolor%3D%2523FD40FE%26logo%3Dhttps%253A%252F%252F89038353-files.gitbook.io%252F~%252Ffiles%252Fv0%252Fb%252Fgitbook-legacy-files%252Fo%252Fspaces%25252F-MRe_M_mUIIB11A-MQyZ%25252Favatar-rectangle-1616086536325.png%253Fgeneration%253D1616086536797603%2526alt%253Dmedia%26theme%3Ddark/https/app.gitbook.com/share/space/thumbnail/-MRe_M_mUIIB11A-MQyZ.png",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025113706704674856",
+      "type": "Reply",
+      "timestamp": "2022-09-29T18:35:53.37+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No, I was in an introduction call with Patricia on zoom",
+      "author": {
+        "id": "928095017799647294",
+        "name": "PauloDiaz",
+        "discriminator": "8825",
+        "nickname": "PauloDiaz",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/928095017799647294/55e3f6c5ce26f138b1406ebf6150daaa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "452115639381786624",
+          "name": "enti",
+          "discriminator": "1546",
+          "nickname": "enti",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1025106699750752277",
+        "channelId": "1024321174831890502",
+        "guildId": "810180621930070088"
+      }
+    }
+  ],
+  "messageCount": 11
+}

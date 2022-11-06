@@ -1,0 +1,593 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "1019743509403680778",
+    "type": "GuildVoiceChat",
+    "categoryId": "816362403947479060",
+    "category": "━ WORKING GROUP VOICE ━",
+    "name": "\uD83D\uDD35 Breakout Room #3",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1022560031062892605",
+      "type": "Default",
+      "timestamp": "2022-09-22T17:28:29.652+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc",
+      "author": {
+        "id": "984284705325191250",
+        "name": "Irem",
+        "discriminator": "3362",
+        "nickname": "Irem",
+        "color": "#11806A",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/984284705325191250/146964881a464689fa2c2035ac993861.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clarity — The DAO Contribution Platform",
+          "url": "https://app.clarity.so/Sampo/pages/d57ffb3e-9042-43ce-9342-4859084888bc",
+          "timestamp": null,
+          "description": "Clarity is the most advanced DAO contribution platform. Share task boards & docs, manage access with tokens, receive bounty payouts, and build your contributor reputation.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1022560060859224156",
+      "type": "Default",
+      "timestamp": "2022-09-22T17:28:36.756+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If anyone has questions - I'll be waiting in the main sampo channel.",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1022560888378634250",
+      "type": "Default",
+      "timestamp": "2022-09-22T17:31:54.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also - as a reminder, someone please take notes in the Clarity doc. \uD83D\uDE42",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1022564756126695424",
+      "type": "Default",
+      "timestamp": "2022-09-22T17:47:16.195+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "5 minutes more, then please come back to the main call.",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1025097243629469787",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:30:28.267+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sorry my mic seems to not working",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025097601902710815",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:31:53.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if there is a special interest, wouldn't they gravitate to the DAO or if large enough (Bankless) internal guilds",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025097788968677507",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:32:38.286+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if group is too small, then they would move",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025098005294088263",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:33:29.862+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025098359863791717",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:34:54.398+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "only if recognised  as authority in field  == chicken and egg problem",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025098607222870167",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:35:53.373+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pinterest? reddit?",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025098853793407007",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:36:52.16+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so what \"stars\" are in TEC?",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025098924387741796",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:37:08.991+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(as attractor)",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025099499875598476",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:39:26.198+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just encouraging everyone to move onto question #2 if you haven't already.",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025099598454333551",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:39:49.701+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SCRF reviews papers, not necessarily buidlers",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025099728435814501",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:40:20.691+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what about where do alumni of TEacademy courses end up working?",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025100225376964609",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:42:19.171+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what you describe sounds like a token curation  registry \uD83E\uDD70",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025100423327141968",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:43:06.366+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "prediction  market as to emergent research?",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025100446215458888",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:43:11.823+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/ technologies",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025100561563009105",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:43:39.324+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Link sharing ... quality of ?",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025100705381490728",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:44:13.613+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "seems to be circulating back to TCR",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025101251702177812",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:46:23.866+00:00",
+      "timestampEdited": "2022-09-29T17:47:13.684+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "are you optimising link curation for most popular or obscure but sigificant breakthru?",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025102662204669988",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:52:00.156+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok - please come back in 1 minute",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025102702595813396",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:52:09.786+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDEE1",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025102710011334699",
+      "type": "Default",
+      "timestamp": "2022-09-29T17:52:11.554+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the curation is starting to sound very labor intensive ... OK for 10cent army but would it work for overworked say lawyers?",
+      "author": {
+        "id": "551837798399737879",
+        "name": "drllau",
+        "discriminator": "2628",
+        "nickname": "drllau | LexDAO",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551837798399737879/667222b1d55ec24c04e2cb8c8666a1b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 24
+}

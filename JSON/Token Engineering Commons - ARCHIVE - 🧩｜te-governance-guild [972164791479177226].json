@@ -1,0 +1,2208 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "972164791479177226",
+    "type": "GuildTextChat",
+    "categoryId": "810180623120597024",
+    "category": "ARCHIVE",
+    "name": "\uD83E\uDDE9｜te-governance-guild",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "972165154965979206",
+      "type": "Default",
+      "timestamp": "2022-05-06T15:57:14.899+00:00",
+      "timestampEdited": "2022-05-06T15:57:36.695+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@akrtws (TE Academy) @zhiwei @inventandchill @pat.zip (TE Academy) new channel \uD83E\uDD73",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f973.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "902543185367142400",
+          "name": "pat.zip (TE Academy)",
+          "discriminator": "5266",
+          "nickname": "pat.zip (TE Academy)",
+          "isBot": false
+        },
+        {
+          "id": "825058392300847185",
+          "name": "inventandchill",
+          "discriminator": "7140",
+          "nickname": "inventandchill",
+          "isBot": false
+        },
+        {
+          "id": "686955086941126683",
+          "name": "akrtws (TE Academy)",
+          "discriminator": "4246",
+          "nickname": "akrtws (TE Academy)",
+          "isBot": false
+        },
+        {
+          "id": "691020255580913796",
+          "name": "zhiwei",
+          "discriminator": "1356",
+          "nickname": "zhiwei",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "972179762606911488",
+      "type": "Default",
+      "timestamp": "2022-05-06T16:55:17.632+00:00",
+      "timestampEdited": "2022-05-06T20:48:47.893+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone, let's check our program for next Wednesday!\nHere's a list of topics that came up in previous sessions:\nA - discuss Guild policy\nB - create a TE Tools overview as a public good (compare cadCAD, tokenSPICE, machinations...)\nC - TE career, recommendations for making your next step, choosing the right environment\nD -  Defining your own guild project as a TE community contribution, routes to fund it and get things going\n\nPlease vote by Sunday with clicking one of the emojis - thanks!",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e9.svg"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "973366347729887242",
+      "type": "Default",
+      "timestamp": "2022-05-09T23:30:21.571+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we could discuss policies async. \n1 - what is the process to become a guild member\n2 - what is the process for projects to receive feedback from the guild \nany other points we need to define?",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "973562548307767306",
+      "type": "Default",
+      "timestamp": "2022-05-10T12:29:59.434+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Tamarandom",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "751417874886688798",
+          "name": "Tamarandom",
+          "discriminator": "9361",
+          "nickname": "Tamarandom",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "973612410810286160",
+      "type": "Reply",
+      "timestamp": "2022-05-10T15:48:07.581+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "3 - what's the main purpose of this group (consulting vs. develop the discipline & learn)\n4 - what do we expect from a guild member\n5 -  what can a guild member expect from fellow members\n6 - temporary membership? temporary active contribution? minimum active contribution etc.",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "973366347729887242",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "973612744613965874",
+      "type": "Default",
+      "timestamp": "2022-05-10T15:49:27.166+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "OK - we'll discuss tomorrow:\n\nD -  Defining your own guild project as a TE community contribution, routes to fund it and get things going\n\nand if we have time left\n\nC - TE career, recommendations for making your next step, choosing the right environment\n\nBring your questions and insights everyone!",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "973994898539823125",
+      "type": "Default",
+      "timestamp": "2022-05-11T17:07:59.762+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "973994897818386563",
+          "url": "https://cdn.discordapp.com/attachments/972164791479177226/973994897818386563/8_Forms_Of_Wealth.jpg",
+          "fileName": "8_Forms_Of_Wealth.jpg",
+          "fileSizeBytes": 36376
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "973995623768547368",
+      "type": "Default",
+      "timestamp": "2022-05-11T17:10:52.67+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for sharing @durgadas !",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "249005209710362624",
+          "name": "durgadas",
+          "discriminator": "9280",
+          "nickname": "durgadas",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "973995777754017812",
+      "type": "Default",
+      "timestamp": "2022-05-11T17:11:29.383+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't know if you guys had seen this before",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "973996529218113578",
+      "type": "Default",
+      "timestamp": "2022-05-11T17:14:28.546+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@zhiwei  @inventandchill  @xm3van @Emerick | Figment - the task of next week's session:\n- propose a guild project you'd like to work on \n- relevant for the TE community\n- motivated by your personal interest\n- add some facts:\n- how much time would you like to invest\n- what's the result? when consider it a success?\n- by when you'd like to achieve this result?\n\n\n@xm3van could you take over facilitating the next session? Let me know if you have any questions.",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "746815277513048144",
+          "name": "xm3van",
+          "discriminator": "0929",
+          "nickname": "Thomas",
+          "isBot": false
+        },
+        {
+          "id": "825058392300847185",
+          "name": "inventandchill",
+          "discriminator": "7140",
+          "nickname": "inventandchill",
+          "isBot": false
+        },
+        {
+          "id": "306923744264192002",
+          "name": "Emerick | Figment",
+          "discriminator": "6601",
+          "nickname": "Emerick | Figment",
+          "isBot": false
+        },
+        {
+          "id": "691020255580913796",
+          "name": "zhiwei",
+          "discriminator": "1356",
+          "nickname": "zhiwei",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "975336484896931840",
+      "type": "Reply",
+      "timestamp": "2022-05-15T09:58:58.875+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorry just saw this now! But I can host the next session the next session \uD83D\uDE42",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "686955086941126683",
+          "name": "akrtws (TE Academy)",
+          "discriminator": "4246",
+          "nickname": "akrtws (TE Academy)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "973996529218113578",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "976529976344072282",
+      "type": "Default",
+      "timestamp": "2022-05-18T17:01:29.41+00:00",
+      "timestampEdited": "2022-05-18T17:04:12.706+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Some notes from our session today:\n- more Guild project presentations next week\n- additionally state what support you need from the Guild\n- two phases: phase 1 present your project and find collaborators, phase 2 kick-off if you've found the collaborators you need\n- project completion and success: define milestones, hit a milestone, earn praise, earn an NFT, make it part of your track record, hand over to new contributors to keep it alive without a need to commit work for forever\n- record the calls and publish in TEC YouTube\n- @rodbot2  to share DeepWorks approach (suggest projects)\n- Angela to share how to not let a project die (contribute to TE Knowledge Commons as a TE Fundamentals graduate)\n- we should have recordings/meeting notes\n- @rodbot2  to run the session next week",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "516797880275566592",
+          "name": "rodbot2",
+          "discriminator": "3621",
+          "nickname": "rodbot2",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "979069306698612786",
+      "type": "Default",
+      "timestamp": "2022-05-25T17:11:52.945+00:00",
+      "timestampEdited": "2022-05-25T17:12:15.51+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Proposed Agenda for next session: \n- Suggest a projects (if there any other suggestions) \n- Choose a project by voting on it \n- Ideating on proposed project so that it fit's interest of most guild member (e.g. DAO Health metrics - Member X may want to look at tokenholder distribution, whereas Member Y may want to look at Discord msg data) \n- If time, define action plan/ structure \n\nMiro Board: https://miro.com/app/board/uXjVOxlaVzI=/",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TE Guild",
+          "url": "https://miro.com/app/board/uXjVOxlaVzI=/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "979837180488876072",
+      "type": "Default",
+      "timestamp": "2022-05-27T20:03:08.323+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for the note Thomas!\nI want to elaborate on how we suggest a project based on the discussion from the miro board. The following components are encouraged in presenting a project proposal:\n- 4-6 week milestones / MVP\n- existing collaborators\n- skill needed for the project; roles missing\n- feasibility check: what're the biggest roadblocks?",
+      "author": {
+        "id": "691020255580913796",
+        "name": "zhiwei",
+        "discriminator": "1356",
+        "nickname": "zhiwei",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691020255580913796/ba3ba435bdff5beb55208d274e89d2a7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "981484957811757077",
+      "type": "Default",
+      "timestamp": "2022-06-01T09:10:49.051+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey Everyone, i may have to miss the meeting today due to covid. Sorry I won't be able to facilitate this time.",
+      "author": {
+        "id": "691020255580913796",
+        "name": "zhiwei",
+        "discriminator": "1356",
+        "nickname": "zhiwei",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691020255580913796/ba3ba435bdff5beb55208d274e89d2a7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "981512124633333760",
+      "type": "Default",
+      "timestamp": "2022-06-01T10:58:46.126+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @zhiwei get well soon again!\nEveryone: let's have a brief  checkin today after the Bsci meeting. And postpone all other topics to next week.",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "691020255580913796",
+          "name": "zhiwei",
+          "discriminator": "1356",
+          "nickname": "zhiwei",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "981590160871415818",
+      "type": "Reply",
+      "timestamp": "2022-06-01T16:08:51.415+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so we aren't meeting right now?",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "686955086941126683",
+          "name": "akrtws (TE Academy)",
+          "discriminator": "4246",
+          "nickname": "akrtws (TE Academy)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "981512124633333760",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "981590620453871667",
+      "type": "Default",
+      "timestamp": "2022-06-01T16:10:40.988+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes, just opening the call!",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "981591168510984222",
+      "type": "Default",
+      "timestamp": "2022-06-01T16:12:51.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://us02web.zoom.us/j/6985323627?pwd=QjV0cUlzYnVwbzAvTWlnaGxFYkRoQT09",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Join our Cloud HD Video Meeting",
+          "url": "https://us02web.zoom.us/j/6985323627?pwd=QjV0cUlzYnVwbzAvTWlnaGxFYkRoQT09",
+          "timestamp": null,
+          "description": "Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as ex...",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "981604749717696532",
+      "type": "Default",
+      "timestamp": "2022-06-01T17:06:49.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/spreadsheets/d/17_Ne8WNGt72GT4DoTRk9FX1BsSwoxwCHXc2JxzIAIsw/edit?usp=sharing",
+      "author": {
+        "id": "825058392300847185",
+        "name": "inventandchill",
+        "discriminator": "7140",
+        "nickname": "inventandchill",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DAO_table",
+          "url": "https://docs.google.com/spreadsheets/d/17_Ne8WNGt72GT4DoTRk9FX1BsSwoxwCHXc2JxzIAIsw/edit?usp=sharing",
+          "timestamp": null,
+          "description": "Table\n\nType of Metric,Metric,UniSwap,SushiSwap,Aave,Maker,OlympusDao,Links\nTokenomics,https://tokeneconomics.substack.com/\nhttps://consensys.net/blog/cryptoeconomic-research/tokenomics-research-september-2021/\nOn-chain (snapshot),Proportion of active participants in proposals to total participant...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Nuw3cLdQnKVl4GszuYQiPje2OceUVTDHc8QgUbaOlbw/https/lh4.googleusercontent.com/cSsxkcDvIj54lidnluG1BJ1R2qxtKVjN9kcHGzqkOydjTNIZuSqnyEcOalVsCL8dQiiLmThWVlpOEQ%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f440.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44c.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C\uD83C\uDFFD",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c-1f3fd.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "981909163552702485",
+      "type": "Default",
+      "timestamp": "2022-06-02T13:16:27.581+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice! Added some comments.",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "981909725723652127",
+      "type": "Default",
+      "timestamp": "2022-06-02T13:18:41.613+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The tokenomics comparison is 100% sth interesting to MANY. I wonder how to get valid numbers (beyond blog post announcments), though.",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2705.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "982173275352350730",
+      "type": "Default",
+      "timestamp": "2022-06-03T06:45:56.741+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey everyone, I was wondering if any of you have some concrete  data on the impact of Coordinape on a DAOs? i.e. when does it work well and when does it not. PrimeDAO is thinking about implementing Coordinape but I feel like it is developing into a discussion of anecdotal evidence (I am guilt too). Happy for any resources \uD83D\uDE42",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "982173351642546227",
+      "type": "Reply",
+      "timestamp": "2022-06-03T06:46:14.93+00:00",
+      "timestampEdited": "2022-06-03T06:46:33.254+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@inventandchill can I jam on this by editing the doc - I have a couple of ideas \uD83D\uDE04",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "825058392300847185",
+          "name": "inventandchill",
+          "discriminator": "7140",
+          "nickname": "inventandchill",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "981604749717696532",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "982174860996390933",
+      "type": "Reply",
+      "timestamp": "2022-06-03T06:52:14.788+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi Thomas! Free to add anything for everybody!",
+      "author": {
+        "id": "825058392300847185",
+        "name": "inventandchill",
+        "discriminator": "7140",
+        "nickname": "inventandchill",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/825058392300847185/9cd392d338b36e512f7e94d150a851e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "746815277513048144",
+          "name": "xm3van",
+          "discriminator": "0929",
+          "nickname": "Thomas",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "982173351642546227",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "984128980976300102",
+      "type": "Reply",
+      "timestamp": "2022-06-08T16:17:13.297+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is the doc @bends was working on for TEC health metrics https://docs.google.com/spreadsheets/d/1jAXe4MhOm6cdL-yjgpk_wUkEGZPCAvpJ-lyp1eLBX4o/edit#gid=0  -- relevant to this one",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TEC Metrics",
+          "url": "https://docs.google.com/spreadsheets/d/1jAXe4MhOm6cdL-yjgpk_wUkEGZPCAvpJ-lyp1eLBX4o/edit",
+          "timestamp": null,
+          "description": "RawMetrics\n\nRaw Metrics - what variables are available without doing math\nMetric,Level,Source,Method\n# new members in TEC server ,Community,Discord,Discord Bot\n# total members in TEC server,Community,Discord,Discord Bot\ndid an individual attend a given meeting,Individual,SourceCred,Discord Bot\nnu...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/-KizUyAkqRGZ6RCYqgOMNhCNYop62YVKHvQLotFEH28/https/lh5.googleusercontent.com/Hvn-xP3ZhUT9lSc8uU67AjV-amM5sLZe0XOcWUk72XvJkstvkcOgpWlENZeGJ4tZQY_PUc2OF5hDpw%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "825058392300847185",
+          "name": "inventandchill",
+          "discriminator": "7140",
+          "nickname": "inventandchill",
+          "isBot": false
+        },
+        {
+          "id": "805467270762856490",
+          "name": "bends",
+          "discriminator": "3537",
+          "nickname": "bends",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "981604749717696532",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "984541446021460079",
+      "type": "Reply",
+      "timestamp": "2022-06-09T19:36:12.627+00:00",
+      "timestampEdited": "2022-06-10T13:40:05.667+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi all, I have the potential to get some contributors from prime involved into the project (nothing confirmed yet - I just know of some interest/ shared work). Here the intention is not to add them to the guild but to the project too pool work done to the project. Wdyt? \n\n1 concerns I have: \n- if it should get to funding - more contributor = more money = more difficult?",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "984128980976300102",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "984541538124197998",
+      "type": "Reply",
+      "timestamp": "2022-06-09T19:36:34.586+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We should definitely take most of them over \uD83D\uDE05",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "984128980976300102",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "984541596831842324",
+      "type": "Default",
+      "timestamp": "2022-06-09T19:36:48.583+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great Basis",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "986170921452711957",
+      "type": "Reply",
+      "timestamp": "2022-06-14T07:31:09.844+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just wondering whether #\uD83D\uDD4A｜gravity  have some part in health metrics?",
+      "author": {
+        "id": "530682470232883210",
+        "name": "innov8tor3",
+        "discriminator": "3988",
+        "nickname": "innov8tor3",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "984128980976300102",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "986171141150363648",
+      "type": "Reply",
+      "timestamp": "2022-06-14T07:32:02.224+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Try looking in Bankless, who have channels focused on contributor MH ...",
+      "author": {
+        "id": "530682470232883210",
+        "name": "innov8tor3",
+        "discriminator": "3988",
+        "nickname": "innov8tor3",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "746815277513048144",
+          "name": "xm3van",
+          "discriminator": "0929",
+          "nickname": "Thomas",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "984541446021460079",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "986171355877736488",
+      "type": "Reply",
+      "timestamp": "2022-06-14T07:32:53.419+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you need any project management advice, I can recommend @Tamarandom , she's awesome at it!",
+      "author": {
+        "id": "530682470232883210",
+        "name": "innov8tor3",
+        "discriminator": "3988",
+        "nickname": "innov8tor3",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f60a.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "746815277513048144",
+          "name": "xm3van",
+          "discriminator": "0929",
+          "nickname": "Thomas",
+          "isBot": false
+        },
+        {
+          "id": "751417874886688798",
+          "name": "Tamarandom",
+          "discriminator": "9361",
+          "nickname": "Tamarandom",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "984541446021460079",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "986293993472135198",
+      "type": "Reply",
+      "timestamp": "2022-06-14T15:40:12.5+00:00",
+      "timestampEdited": "2022-06-14T15:40:35.486+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi  @xm3van and guild!\nI've added some notes in the doc - regarding the DAOs to include in a comparison, feel free to take a look.\nOn the next meeting tomorrow: I have a calendar conflict and won't be able to join.\n@inventandchill could you run the session, share a Google Meet/Zoom link, and facilitate?\nThanks!",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "746815277513048144",
+          "name": "xm3van",
+          "discriminator": "0929",
+          "nickname": "Thomas",
+          "isBot": false
+        },
+        {
+          "id": "825058392300847185",
+          "name": "inventandchill",
+          "discriminator": "7140",
+          "nickname": "inventandchill",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "984541538124197998",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "986363907834777650",
+      "type": "Reply",
+      "timestamp": "2022-06-14T20:18:01.383+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for the heads up! Will check it!",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "530682470232883210",
+          "name": "innov8tor3",
+          "discriminator": "3988",
+          "nickname": "innov8tor3",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "986171141150363648",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "986621264401686588",
+      "type": "Default",
+      "timestamp": "2022-06-15T13:20:39.97+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey everyone, I'm on vacation this week and won't be able to join today too",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "986662785956077628",
+      "type": "Default",
+      "timestamp": "2022-06-15T16:05:39.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey for the others do you want to meet here: https://meet.google.com/grd-ubha-sof\n\nElse we can cancel the call too if that's more convienent",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Meet",
+          "url": "https://meet.google.com/grd-ubha-sof",
+          "timestamp": null,
+          "description": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/GCEsHEuoDTlzmJI_A4QfZk7rhbRzgKpjyZ2wWn9VqrM/https/fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+            "width": 192,
+            "height": 192
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "987205032279695391",
+      "type": "Default",
+      "timestamp": "2022-06-17T04:00:21.078+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone, this looks cool.",
+      "author": {
+        "id": "659828514924658688",
+        "name": "ygg_anderson",
+        "discriminator": "4998",
+        "nickname": "ygg_anderson",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/659828514924658688/dd3da91acbb1b0a8f23b7547a0556653.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44b.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "988505225977528340",
+      "type": "Default",
+      "timestamp": "2022-06-20T18:06:51.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi Guild members - I have a pretty crazy schedule atm with builing the final course content for TE Fundamentals - and won't be able to make it to Wednesday's call again. What's the status @inventandchill @xm3van @zhiwei ?",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "746815277513048144",
+          "name": "xm3van",
+          "discriminator": "0929",
+          "nickname": "Thomas",
+          "isBot": false
+        },
+        {
+          "id": "825058392300847185",
+          "name": "inventandchill",
+          "discriminator": "7140",
+          "nickname": "inventandchill",
+          "isBot": false
+        },
+        {
+          "id": "691020255580913796",
+          "name": "zhiwei",
+          "discriminator": "1356",
+          "nickname": "zhiwei",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "988515855350505533",
+      "type": "Default",
+      "timestamp": "2022-06-20T18:49:05.652+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm good with skipping this week! But also available if anyone needs discussion",
+      "author": {
+        "id": "691020255580913796",
+        "name": "zhiwei",
+        "discriminator": "1356",
+        "nickname": "zhiwei",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691020255580913796/ba3ba435bdff5beb55208d274e89d2a7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "988531487152439316",
+      "type": "Default",
+      "timestamp": "2022-06-20T19:51:12.564+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Happy either way - let me know",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "989173622159605770",
+      "type": "Default",
+      "timestamp": "2022-06-22T14:22:49.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll be in an AMA with commons stack and unfortunately can't join again :(",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "989173671455248394",
+      "type": "Default",
+      "timestamp": "2022-06-22T14:23:01.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "was there anything from last week that I can catch up async?",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "989884379469844540",
+      "type": "Reply",
+      "timestamp": "2022-06-24T13:27:07.228+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No I don't think so \uD83D\uDE42",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "989173671455248394",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "990982813354446878",
+      "type": "Default",
+      "timestamp": "2022-06-27T14:11:54.274+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dissecting the DAO: Web3 Ownership is Surprisingly Concentrated \nhttps://blog.chainalysis.com/reports/web3-daos-2022/",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Dissecting the DAO: Web3 Ownership is Surprisingly Concentrated - C...",
+          "url": "https://blog.chainalysis.com/reports/web3-daos-2022/",
+          "timestamp": null,
+          "description": "Decentralized autonomous organizations (DAOs) are a staple of web3. Internet-native and blockchain-based, they're a new management structure for businesses, projects, and communities.",
+          "author": {
+            "name": "Chainalysis Team",
+            "url": "https://blog.chainalysis.com/reports/author/kevinchainalysis-com/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/05DbvHK0T-x4Vr88XlaIam7UF_tSyG5CC73yjgAeAFw/https/blog.chainalysis.com/wp-content/uploads/2022/05/Web3-DAO.png",
+            "width": 4584,
+            "height": 2001
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991008001974501517",
+      "type": "Reply",
+      "timestamp": "2022-06-27T15:51:59.709+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Interesting - tbh I am not surprised despite the title \uD83D\uDE04 I think the really interesting think if you account how the largest wallet holder across wallets are related",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "686955086941126683",
+          "name": "akrtws (TE Academy)",
+          "discriminator": "4246",
+          "nickname": "akrtws (TE Academy)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "990982813354446878",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "991008039010201610",
+      "type": "Default",
+      "timestamp": "2022-06-27T15:52:08.539+00:00",
+      "timestampEdited": "2022-06-27T15:52:26.493+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think the finding will equally centralised",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991025491345555518",
+      "type": "Reply",
+      "timestamp": "2022-06-27T17:01:29.5+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was trying to find out what data sources they've used, have you found any info?",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "746815277513048144",
+          "name": "xm3van",
+          "discriminator": "0929",
+          "nickname": "Thomas",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "991008001974501517",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "991030598279778334",
+      "type": "Reply",
+      "timestamp": "2022-06-27T17:21:47.088+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pretty sure they have used proprietary data (label blockchain addresses) - but it should be easily replicable by just sourcing DAO Tokens (and then I guess adding nuance by seeing what of the supply is in smart contracts treasury etc.). We could easily get the data using Infura and with a little bit of labelling work (or get access to Nansen.ai API somehow)",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "686955086941126683",
+          "name": "akrtws (TE Academy)",
+          "discriminator": "4246",
+          "nickname": "akrtws (TE Academy)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "991025491345555518",
+        "channelId": "972164791479177226",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "991394366507716790",
+      "type": "Default",
+      "timestamp": "2022-06-28T17:27:16.192+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "OK @xm3van @zhiwei @inventandchill @liviade @rodbot2  let's check in tomorrow for an update on the guild project - see you at 4pm UTC",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "516797880275566592",
+          "name": "rodbot2",
+          "discriminator": "3621",
+          "nickname": "rodbot2",
+          "isBot": false
+        },
+        {
+          "id": "691020255580913796",
+          "name": "zhiwei",
+          "discriminator": "1356",
+          "nickname": "zhiwei",
+          "isBot": false
+        },
+        {
+          "id": "480023322080444427",
+          "name": "liviade",
+          "discriminator": "1387",
+          "nickname": "liviade",
+          "isBot": false
+        },
+        {
+          "id": "746815277513048144",
+          "name": "xm3van",
+          "discriminator": "0929",
+          "nickname": "Thomas",
+          "isBot": false
+        },
+        {
+          "id": "825058392300847185",
+          "name": "inventandchill",
+          "discriminator": "7140",
+          "nickname": "inventandchill",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "991728225480888390",
+      "type": "Default",
+      "timestamp": "2022-06-29T15:33:54.374+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey all , sorry for the short notice - I fell sick since yesterday and I won't make it today",
+      "author": {
+        "id": "746815277513048144",
+        "name": "xm3van",
+        "discriminator": "0929",
+        "nickname": "Thomas",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991735542196731917",
+      "type": "Default",
+      "timestamp": "2022-06-29T16:02:58.815+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, I'm in the call:  https://us02web.zoom.us/j/6985323627?pwd=QjV0cUlzYnVwbzAvTWlnaGxFYkRoQT09",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Join our Cloud HD Video Meeting",
+          "url": "https://us02web.zoom.us/j/6985323627?pwd=QjV0cUlzYnVwbzAvTWlnaGxFYkRoQT09",
+          "timestamp": null,
+          "description": "Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as ex...",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991752990476206130",
+      "type": "Default",
+      "timestamp": "2022-06-29T17:12:18.809+00:00",
+      "timestampEdited": "2022-06-29T17:12:55.605+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone - in this call we chatted a bit about how to continue with this guild group.\nHere's a summary:\n- @xm3van @inventandchill please continue with the **DAO Health project** ! And let us know if you need any support, we'll keep this channel open to sync\n- for the **Guild**, we'd like to slightly adapt the focus: bi-weekly/monthly meetings, for the **guild members/junior TE's to discuss and address challenges**, program tbd,@zhiwei will take responsibility to host them -> in this new channel: https://discord.gg/MSzMVmnd",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "746815277513048144",
+          "name": "xm3van",
+          "discriminator": "0929",
+          "nickname": "Thomas",
+          "isBot": false
+        },
+        {
+          "id": "825058392300847185",
+          "name": "inventandchill",
+          "discriminator": "7140",
+          "nickname": "inventandchill",
+          "isBot": false
+        },
+        {
+          "id": "691020255580913796",
+          "name": "zhiwei",
+          "discriminator": "1356",
+          "nickname": "zhiwei",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "991753234022678718",
+      "type": "Default",
+      "timestamp": "2022-06-29T17:13:16.875+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Makes sense? Feel free to reach out if you have any questions! \uD83D\uDE42",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991754092982587452",
+      "type": "Default",
+      "timestamp": "2022-06-29T17:16:41.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "BTW the talent support mission of the Guild remains unchanged. \nMy goal is to grow the number of trainee positions and grow the number of talents to be part of this guild. Let's make this program most valuable for you, and for others who are eager to learn  ⭐",
+      "author": {
+        "id": "686955086941126683",
+        "name": "akrtws (TE Academy)",
+        "discriminator": "4246",
+        "nickname": "akrtws (TE Academy)",
+        "color": "#D3CF15",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/686955086941126683/7aaeae2f15035eb415bb51aaf9ad0878.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1001151028265242654",
+      "type": "Default",
+      "timestamp": "2022-07-25T15:36:45.625+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dear Token Engineers, \nwe are excited to invite you to our first focus group discussion about the practical applicability of the TE Value System, jointly organized with the OMEGA WG. The focus group will take place on July 26, 2022, 5 PM CET in the Omega Channel of the TEC discord and will not be longer than two hours. \nTo register, please fill out this form: https://forms.gle/GQZ6dLXgdJi8D9Bf8 \nPlease share this call widely. \nWe look forward to talking to you soon! \nFelix and Lydia",
+      "author": {
+        "id": "821745137658232862",
+        "name": "Lydia",
+        "discriminator": "2825",
+        "nickname": "Lydia",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1001151028374278274",
+          "url": "https://cdn.discordapp.com/attachments/972164791479177226/1001151028374278274/Focus_Group_Discussions_Abstract.jpg",
+          "fileName": "Focus_Group_Discussions_Abstract.jpg",
+          "fileSizeBytes": 831543
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Focus Group #1: TEC Value System",
+          "url": "https://forms.gle/GQZ6dLXgdJi8D9Bf8",
+          "timestamp": null,
+          "description": "registration for focus group #1 on the TEC value system's practical applicability on July 26th, 6pm CET",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XVtLxdltMAtRPGdUuTtpOZ81QOkAA4c8GEid0wPKhcM/https/lh4.googleusercontent.com/f1FgZpo3OynjBYiWQBo_j7uN3_nK_azXYfb5RppuvDOSq6hLY-WsWOGzLp6TNivzfCZcOYVtXok%3Dw1200-h630-p",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1001494388205158583",
+      "type": "Default",
+      "timestamp": "2022-07-26T14:21:09.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dear all, \n\nThe focus group on the practical applicability of the TE Value System, jointly organized with the OMEGA WG, is starting in less than an hour (5pm CET / 11AM EST) in the Omega Channel of the TEC discord. \nanonymized results will be published in a report and presented and discussed during the Crypto Commons Gathering end of August.\n\nLooking forward to see many of you there!\n\nBest,\nLydia and Felix",
+      "author": {
+        "id": "821745137658232862",
+        "name": "Lydia",
+        "discriminator": "2825",
+        "nickname": "Lydia",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012448625684664401",
+      "type": "Default",
+      "timestamp": "2022-08-25T19:49:22.749+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dear Token Engineers, \nwe are excited to invite you to our second focus group discussion about private profit vs. common benefit, jointly organized with the OMEGA WG. The focus group will take place on August 30, 2022, 5 PM CET in hybrid format: in person at the Crypto Commons Gathering (CCG) and virtually in the Omega Channel of the TEC discord and will not be longer than two hours. \nTo register, please fill out this form: https://forms.gle/Ltxd1vZkpuR4B5P3A\nPlease share this call widely. \nWe look forward to talking to you soon! \nFelix and Lydia",
+      "author": {
+        "id": "821745137658232862",
+        "name": "Lydia",
+        "discriminator": "2825",
+        "nickname": "Lydia",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1012448625806286899",
+          "url": "https://cdn.discordapp.com/attachments/972164791479177226/1012448625806286899/Focus_Group_Discussions_Abstract_1.jpg",
+          "fileName": "Focus_Group_Discussions_Abstract_1.jpg",
+          "fileSizeBytes": 830551
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Focus Group #2: Private Profit vs. Common Benefit",
+          "url": "https://forms.gle/Ltxd1vZkpuR4B5P3A",
+          "timestamp": null,
+          "description": "registration for focus group #2 on private profit vs. common benefit on August 30th, 5pm CET",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/qgrOKCIp7BfHyhDCpIsBNwGEoYPoI4RW9m7UnqRc8Kk/https/lh6.googleusercontent.com/MpAVlsX-e4micLMsFumpD4hWkPP0Ho20dqmM9mGWjosJ8L547G6tQLTvbfwgBo1buhCp37h1IoQ%3Dw1200-h630-p",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1013992571187503135",
+      "type": "Default",
+      "timestamp": "2022-08-30T02:04:28.042+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just was checking out the calendar and wondering when/if this guild is meeting keen to come learn about what you guys are doing on the governance front...",
+      "author": {
+        "id": "842640544101433354",
+        "name": "lee0007",
+        "discriminator": "8152",
+        "nickname": "lee0007",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/842640544101433354/30af244d941dc605fb99e13d9c0bd084.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018587269432619109",
+      "type": "Default",
+      "timestamp": "2022-09-11T18:22:09.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://virtual-liberating-structures.com/",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Virtual Liberating Structures Community Handbook - Home",
+          "url": "https://virtual-liberating-structures.com/",
+          "timestamp": null,
+          "description": "A community curated handbook for practicing Liberating Structures in virtual spaces",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/jpx-dsaa_4g0G2uCmAsols9gKnXiuxiiZ-QHuw3ASb4/https/virtual-liberating-structures.com/images/virtual-ls-twitter-card.jpg",
+            "width": 741,
+            "height": 388
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1038253558115610644",
+      "type": "Default",
+      "timestamp": "2022-11-05T00:48:58.073+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll help 10 people how to earn $45,000 in just 72hours from the crypto market.\nDm me to know How",
+      "author": {
+        "id": "1033124595181555763",
+        "name": "Mr albert",
+        "discriminator": "5928",
+        "nickname": "Mr albert",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 60
+}

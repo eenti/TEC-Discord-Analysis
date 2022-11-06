@@ -1,0 +1,2979 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "974720298228256809",
+    "type": "GuildTextChat",
+    "categoryId": "810180623120597024",
+    "category": "ARCHIVE",
+    "name": "\uD83D\uDCDC｜writers-guild",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "974729543250227240",
+      "type": "Default",
+      "timestamp": "2022-05-13T17:47:12.71+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "704131286448734289",
+        "name": "taxil",
+        "discriminator": "8577",
+        "nickname": "taxil",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704131286448734289/a_17a7a2520fe0801429dffec120579fc9.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "783787234091466793",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://discord.com/stickers/783787234091466793.json"
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44b.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "974730875180826684",
+      "type": "Default",
+      "timestamp": "2022-05-13T17:52:30.267+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Right on!",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "974762703837093929",
+      "type": "Default",
+      "timestamp": "2022-05-13T19:58:58.81+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC40",
+      "author": {
+        "id": "769621045489172480",
+        "name": "EFRA",
+        "discriminator": "7972",
+        "nickname": "EFRA",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/769621045489172480/5d0540617e5e5c0d66ec5ba30dd6b612.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f440.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "975133388581261322",
+      "type": "Reply",
+      "timestamp": "2022-05-14T20:31:56.94+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@EFRA - let us know if you're curious",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "769621045489172480",
+          "name": "EFRA",
+          "discriminator": "7972",
+          "nickname": "EFRA",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "974762703837093929",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "975408768118554664",
+      "type": "Default",
+      "timestamp": "2022-05-15T14:46:12.538+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDD25",
+      "author": {
+        "id": "928678643822112868",
+        "name": "Incandenza",
+        "discriminator": "1594",
+        "nickname": "Incandenza",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/928678643822112868/9c59b1c765d2f9c1cfe4028080b1b57a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975834201972695110",
+      "type": "Default",
+      "timestamp": "2022-05-16T18:56:43.873+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "New article will be coming soon to TEC Medium - can anyone guess what it's going go be about??",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "975834201104478248",
+          "url": "https://cdn.discordapp.com/attachments/974720298228256809/975834201104478248/Transparency_copy.jpg",
+          "fileName": "Transparency_copy.jpg",
+          "fileSizeBytes": 671599
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f60d.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD14",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f914.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "975921084664791050",
+      "type": "Reply",
+      "timestamp": "2022-05-17T00:41:58.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "are you a writer, @Incandenza?",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "928678643822112868",
+          "name": "Incandenza",
+          "discriminator": "1594",
+          "nickname": "Incandenza",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "975408768118554664",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "975997802209493052",
+      "type": "Reply",
+      "timestamp": "2022-05-17T05:46:49.209+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @GideonRo, I used to be a journalist and I've done some creative writing. What's this guild about?",
+      "author": {
+        "id": "928678643822112868",
+        "name": "Incandenza",
+        "discriminator": "1594",
+        "nickname": "Incandenza",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/928678643822112868/9c59b1c765d2f9c1cfe4028080b1b57a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE00",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f600.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "✨",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2728.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "343470788491476992",
+          "name": "GideonRo",
+          "discriminator": "3175",
+          "nickname": "Gideonro",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "975921084664791050",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "976110128266895430",
+      "type": "Reply",
+      "timestamp": "2022-05-17T13:13:09.828+00:00",
+      "timestampEdited": "2022-05-17T13:14:01.628+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "figured I'd keep the conversation moving. \n\nWe are still organizing, but two priorities for us have emerged. First is an editorial voice for the TEC through collaborative writing tasks within interested members. Additionally there is internal/documentation writing, including \"marketing\" needs that guild members will be able to work on as desired. Right now we meet every two weeks, but are just this week getting our new public guild channel set up. With it we are hoping to inspire more conversation around how we can help get writers on board and contributing. \n\nDo you have any ideas simmering that you might want to share with the group to get collaborative feedback?\n\nAll are welcome to the guild. If you have questions please reply or DM. Cheers!",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "928678643822112868",
+          "name": "Incandenza",
+          "discriminator": "1594",
+          "nickname": "Incandenza",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "975997802209493052",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "976514638604808192",
+      "type": "Default",
+      "timestamp": "2022-05-18T16:00:32.608+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah, let us know if you have any questions, @Incandenza",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "928678643822112868",
+          "name": "Incandenza",
+          "discriminator": "1594",
+          "nickname": "Incandenza",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "976896636179583106",
+      "type": "Default",
+      "timestamp": "2022-05-19T17:18:27.927+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks @jasontphelpsNH and @GideonRo for involving me and the presentation. I would be happy to join one of your meetings to dig deeper!",
+      "author": {
+        "id": "928678643822112868",
+        "name": "Incandenza",
+        "discriminator": "1594",
+        "nickname": "Incandenza",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/928678643822112868/9c59b1c765d2f9c1cfe4028080b1b57a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "343470788491476992",
+          "name": "GideonRo",
+          "discriminator": "3175",
+          "nickname": "Gideonro",
+          "isBot": false
+        },
+        {
+          "id": "951130899498541108",
+          "name": "jasontphelpsNH",
+          "discriminator": "9486",
+          "nickname": "jasontphelpsNH",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "977131650007842857",
+      "type": "Default",
+      "timestamp": "2022-05-20T08:52:19.59+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When will your next meeting be? Couldn't find it on the calendar!",
+      "author": {
+        "id": "928678643822112868",
+        "name": "Incandenza",
+        "discriminator": "1594",
+        "nickname": "Incandenza",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/928678643822112868/9c59b1c765d2f9c1cfe4028080b1b57a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "977211855690952744",
+      "type": "Reply",
+      "timestamp": "2022-05-20T14:11:02.115+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We are actually working to put it on the calendar right now. Tuesday May 24th at 5PM EST is our upcoming meeting. We meet in the Writers Guild voice channel. Please join us!",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "928678643822112868",
+          "name": "Incandenza",
+          "discriminator": "1594",
+          "nickname": "Incandenza",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "977131650007842857",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "977216591236329553",
+      "type": "Default",
+      "timestamp": "2022-05-20T14:29:51.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks @jasontphelpsNH! That might be too late for me though, I'm in Europe \uD83D\uDE42",
+      "author": {
+        "id": "928678643822112868",
+        "name": "Incandenza",
+        "discriminator": "1594",
+        "nickname": "Incandenza",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/928678643822112868/9c59b1c765d2f9c1cfe4028080b1b57a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "951130899498541108",
+          "name": "jasontphelpsNH",
+          "discriminator": "9486",
+          "nickname": "jasontphelpsNH",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "977220162266751047",
+      "type": "Reply",
+      "timestamp": "2022-05-20T14:44:02.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes this is one of the later TEC meetings I've seen. I'll ask the group that meets this week if something else would be better. We'll act on the feedback we get. We are also going to be doing some collaborative writing/editing right here in the channel starting next week. Open to all, and asynch so as many people can join as possible. Cheers!",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "928678643822112868",
+          "name": "Incandenza",
+          "discriminator": "1594",
+          "nickname": "Incandenza",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "977216591236329553",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "977313573783097434",
+      "type": "Default",
+      "timestamp": "2022-05-20T20:55:13.598+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We're having the Gravity Web site meeting on Fridays. Today it's in 5 min (2pm) but I'll move it earlier next week.",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "977313598831489105",
+      "type": "Default",
+      "timestamp": "2022-05-20T20:55:19.57+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If any of you want to attend",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "977313663516041346",
+      "type": "Default",
+      "timestamp": "2022-05-20T20:55:34.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also, I'm writing a Medium article too so I'd like to know how to best do it",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "977616636930584657",
+      "type": "Reply",
+      "timestamp": "2022-05-21T16:59:29.483+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We are working on a short queue of articles right now, but are adding more. Our process so far has been to use a collaborative writing/editing method allowing a group of folks to work together on pieces as they are selected. Generally we will introduce a piece to the group and after letting the author speak to it, folks will self assign to help with feedback, revisions and any items that group prioritizes. We will also pick a next check-in time to give everyone who wants to help a schedule for their contribution. Once the group feels it is ready to publish we work that out. More on the later stages of that process is being worked out by the group now.",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "249005209710362624",
+          "name": "durgadas",
+          "discriminator": "9280",
+          "nickname": "durgadas",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "977313573783097434",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "977642675513720902",
+      "type": "Default",
+      "timestamp": "2022-05-21T18:42:57.565+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "977642774834868254",
+      "type": "Default",
+      "timestamp": "2022-05-21T18:43:21.245+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Never mind then",
+      "author": {
+        "id": "249005209710362624",
+        "name": "durgadas",
+        "discriminator": "9280",
+        "nickname": "durgadas",
+        "color": "#085E2D",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249005209710362624/fd52223eb3a60649ccd2e83b04f65f61.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "978270603230466088",
+      "type": "Default",
+      "timestamp": "2022-05-23T12:18:07.199+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Here is the link (and an image for quick review) for our 5/24 meeting Writers Guild agenda. We will meet in the Writers Guild voice channel at 5PM EST. We have a fun group reviewing/editing exercise that we will be able to complete during the meeting AND provide feedback to an internal customer from. Looking forward to engaging with the group again tomorrow! \n\nhttps://app.clarity.so/tecwriters/pages/91fa6565-8136-46ca-84d4-1ab5e6a8928e\n\nNew members are always welcome. Be ready to jump run in though, everyone is included in all the activities. \uD83D\uDE42",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "978270603305947156",
+          "url": "https://cdn.discordapp.com/attachments/974720298228256809/978270603305947156/WG_Agenda_5-24-22.png",
+          "fileName": "WG_Agenda_5-24-22.png",
+          "fileSizeBytes": 49843
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Clarity — The simplest workspace for decentralized teams",
+          "url": "https://app.clarity.so/tecwriters/pages/91fa6565-8136-46ca-84d4-1ab5e6a8928e",
+          "timestamp": null,
+          "description": "Connect your wallet, share token-gated documents, coordinate projects and proposals, track tasks, trade notes, and build your own personal Wikipedia—in a familiar all-in-one workspace.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "978772654318297108",
+      "type": "Default",
+      "timestamp": "2022-05-24T21:33:05.506+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/document/d/1PxNhIC64sDogt82nXqlcMda37sevZyclTsYFMrIjvAI/edit",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TEC FAQ TEXT DUMP",
+          "url": "https://docs.google.com/document/d/1PxNhIC64sDogt82nXqlcMda37sevZyclTsYFMrIjvAI/edit",
+          "timestamp": null,
+          "description": "The DAO - What is a DAO? A decentralized Autonomous Organization is an internet-native entity with no central management which is regulated by a set of automatically enforceable rules on a public blockchain, and whose goal is to take on a life of its own and incentivize people to achieve a shared...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/cHE_YHXm7yEq-hVCBwurNrS9eiZIXUKfCZsu0GWuhhg/https/lh4.googleusercontent.com/qv4OWIgPMv54Up_u8hKHZEY95I4diWbH0xibXk5cAtvF5gEoy5qaQBLSZXJiis5jR-RZJ6xusqdleA%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "978780626322874388",
+      "type": "Default",
+      "timestamp": "2022-05-24T22:04:46.18+00:00",
+      "timestampEdited": "2022-05-24T22:06:05.495+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Gaian Once everything's all set up and you have the article already to go on your Medium page with the checklist done, let @jasontphelpsNH and me know and I will publish it on TEC Medium and then we can connect with the TEC Twitter crew. @acidlazzer and @chuygarcia.eth - fyi - we have a brand-new article coming in the next day or so that's all about Transparency. It would be great to get your promotional support. It would be nice too if we can talk about ways to get some retweeting going within the community too. \uD83D\uDE42",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "835016327542210560",
+            "name": "TEC",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/835016327542210560.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "727934296387616848",
+          "name": "chuygarcia.eth",
+          "discriminator": "6692",
+          "nickname": "chuygarcia.eth",
+          "isBot": false
+        },
+        {
+          "id": "898291568321105953",
+          "name": "Gaian",
+          "discriminator": "0013",
+          "nickname": "Gaian",
+          "isBot": false
+        },
+        {
+          "id": "587095069115285524",
+          "name": "acidlazzer",
+          "discriminator": "5796",
+          "nickname": "acidlazzer",
+          "isBot": false
+        },
+        {
+          "id": "951130899498541108",
+          "name": "jasontphelpsNH",
+          "discriminator": "9486",
+          "nickname": "jasontphelpsNH",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "978825270276550696",
+      "type": "Default",
+      "timestamp": "2022-05-25T01:02:10.128+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sure!",
+      "author": {
+        "id": "587095069115285524",
+        "name": "acidlazzer",
+        "discriminator": "5796",
+        "nickname": "acidlazzer",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "979358185234235432",
+      "type": "Default",
+      "timestamp": "2022-05-26T12:19:46.955+00:00",
+      "timestampEdited": "2022-05-26T12:23:23.401+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great meeting Tuesday night! The collaborative review of the FAQ yielded two great benefits, feedback on the content to Communitas, as well as some great conversation on how to do this type of work collaboratively!\n\nOne of our open questions has been the matrix of the types of writing works we are asked for or self-generate, and how each could be compensated. We've expanded compensation to include non-monetary forms, like the social capital from publishing a thought piece, but the even bigger conversation is around what types of value each type of piece could create, the directionality (who gets the value/benefit, the community, the author, another specific initiative, etc) and the longevity of that impact. We have a lot to value so a lot to think about. \n\nLet's keep the conversation going here.\n\nSome specific questions that we have sought to gain insight from have included:\n\nWhat do authors get paid for different types of pieces in the traditional publishing world? How is it different from blogging?\n\nHow do we \"price\" community requested documentation like the web site, handbook or awareness campaign materials?\n\nPlease share your thoughts and return to see what others have contributed. \n\nCheers!",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979410628575907840",
+      "type": "Default",
+      "timestamp": "2022-05-26T15:48:10.422+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The newest article from the Writers Guild is live!\n\nhttps://medium.com/token-engineering-commons/transparency-within-a-dao-73ff7c73d19d",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Transparency Within a DAO",
+          "url": "https://medium.com/token-engineering-commons/transparency-within-a-dao-73ff7c73d19d",
+          "timestamp": null,
+          "description": "Improving the flow of information to supercharge organizational development",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/qMsAYzLLU6Aw_pikl3HDQT40sTgOc_XY0ITIWR3-Miw/https/miro.medium.com/max/1200/1%2AKAdW3p_4AlteS-EzLver-g.jpeg",
+            "width": 1200,
+            "height": 468
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979431235640258603",
+      "type": "Default",
+      "timestamp": "2022-05-26T17:10:03.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Let's add setting the featured image to our publishing checklist - otherwise no image when it's shared⬆︎",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979431503358476298",
+      "type": "Reply",
+      "timestamp": "2022-05-26T17:11:07.358+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was also thinking we should verifying the source author is set up to contribute to the TEC publication.",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "343470788491476992",
+          "name": "GideonRo",
+          "discriminator": "3175",
+          "nickname": "Gideonro",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "979431235640258603",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "979432599502073927",
+      "type": "Default",
+      "timestamp": "2022-05-26T17:15:28.699+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/token-engineering-commons/transparency-within-a-dao-73ff7c73d19d",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Transparency Within a DAO",
+          "url": "https://medium.com/token-engineering-commons/transparency-within-a-dao-73ff7c73d19d",
+          "timestamp": null,
+          "description": "Improving the flow of information to supercharge organizational development",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/qMsAYzLLU6Aw_pikl3HDQT40sTgOc_XY0ITIWR3-Miw/https/miro.medium.com/max/1200/1%2AKAdW3p_4AlteS-EzLver-g.jpeg",
+            "width": 1200,
+            "height": 468
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979433108455694436",
+      "type": "Default",
+      "timestamp": "2022-05-26T17:17:30.043+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "image still not showing up in dicord but just confirmed that it works in twitter (i cleared the cache there with this:https://cards-dev.twitter.com/validator",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Login on Twitter / Twitter",
+          "url": "https://cards-dev.twitter.com/validator",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979434464872632370",
+      "type": "Default",
+      "timestamp": "2022-05-26T17:22:53.438+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Gaian - one more fix:\nthanks to Zeptimus for taking the time to interview with me, for adding links and for all his work in the TWG.\n(Capitalize the \"T\")",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "898291568321105953",
+          "name": "Gaian",
+          "discriminator": "0013",
+          "nickname": "Gaian",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "979436170264051772",
+      "type": "Default",
+      "timestamp": "2022-05-26T17:29:40.035+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just tweeted it out:\nhttps://twitter.com/gideonro/status/1529877080229285904",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/gideonro/status/1529877080229285904",
+          "timestamp": "2022-05-26T17:28:14.325+00:00",
+          "description": "Transparency is a critical, and often underappreciated, value of Web3. \n\nHere's the story of a DAO that takes transparency seriously. Imagine if regular businesses were to adopt these practices. \n\n#transparency @tecmns \n\nhttps://t.co/zsB0OWVgZW",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Gideonro (@gideonro)",
+            "url": "https://twitter.com/gideonro",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/_Y22kNUCc7ZiNlCbpx0K4Ou-08LK4l1kKR191Djkp7M/https/pbs.twimg.com/profile_images/1529676171830407168/Z_I50Ut2_400x400.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979441552520773632",
+      "type": "Default",
+      "timestamp": "2022-05-26T17:51:03.265+00:00",
+      "timestampEdited": "2022-05-26T17:51:08.07+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Awesome work guys! Gonna tweet it today or tomorrow ❤️",
+      "author": {
+        "id": "587095069115285524",
+        "name": "acidlazzer",
+        "discriminator": "5796",
+        "nickname": "acidlazzer",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "980120348731265046",
+      "type": "Default",
+      "timestamp": "2022-05-28T14:48:20.893+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "was blown away by this piece https://www.makery.info/en/2022/04/30/english-the-real-crypto-movement/",
+      "author": {
+        "id": "704131286448734289",
+        "name": "taxil",
+        "discriminator": "8577",
+        "nickname": "taxil",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704131286448734289/a_17a7a2520fe0801429dffec120579fc9.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Real Crypto Movement",
+          "url": "https://www.makery.info/en/2022/04/30/english-the-real-crypto-movement/",
+          "timestamp": null,
+          "description": "“From Commons to NFTs” is an (expanded) writing series initiated by Shu Lea Cheang, Felix Stalder & Ewen Chardronnet. Fourth text by Denis",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/OMTUxRE-fV0t6ROR1Oiz1jxzwfR4VYDUoxLZO1aXXSs/https/makeryfiles.s3.eu-central-1.amazonaws.com/wp-content/uploads/2022/04/unnamed.png",
+            "width": 1249,
+            "height": 1044
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD16",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f516.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "980120597101150318",
+      "type": "Default",
+      "timestamp": "2022-05-28T14:49:20.109+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "getting folks from like-minded communities to contribute, or setting up informal sharing of each others’ work, would be great",
+      "author": {
+        "id": "704131286448734289",
+        "name": "taxil",
+        "discriminator": "8577",
+        "nickname": "taxil",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704131286448734289/a_17a7a2520fe0801429dffec120579fc9.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980123034612547586",
+      "type": "Reply",
+      "timestamp": "2022-05-28T14:59:01.257+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The homebrew community has pockets of sharing of experiences gained the \"hard way\" around the creativity and craft of fermented beverages rather than be token oriented. Homebrew sharing is a lesser understood economy of goodwill governed by laws prohibiting scaling and usage of it as \"unlicensed alcohol.\" So we have fun sharing it with each other in a radical P2P way. Having written and educated within this audience I've been involved in a bit of it beyond my local homebrew club and friends as well. When it hums, it is so fun to be part of.",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "704131286448734289",
+          "name": "taxil",
+          "discriminator": "8577",
+          "nickname": "taxil",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "980120348731265046",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "980176137089069126",
+      "type": "Default",
+      "timestamp": "2022-05-28T18:30:01.874+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/tecmns/status/1530617138804826115",
+      "author": {
+        "id": "587095069115285524",
+        "name": "acidlazzer",
+        "discriminator": "5796",
+        "nickname": "acidlazzer",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/587095069115285524/bac9adf3725ba0e07412d9282ed1b35c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/tecmns/status/1530617138804826115",
+          "timestamp": "2022-05-28T18:28:58.039+00:00",
+          "description": "\"Transparency Within a DAO\" The importance of #transparency \nnowadays is very important in DAOs and the whole ecosystem, check our last medium article to know more about it! ✨\n\n \uD83D\uDD0E https://t.co/XWQ74BgLSY",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Token Engineering Commons (@tecmns)",
+            "url": "https://twitter.com/tecmns",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/gJWLTz0SdcgJRwiCEdxr5xs2XfcIuyJJBoIhOe4DR2A/https/pbs.twimg.com/profile_images/1359180303332433923/J1XNdjPW_400x400.png"
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/wNsGof_mEUYjBi9Bur36H7mPnqmATCjKrsy3GbMsJQE/https/pbs.twimg.com/media/FT3WpoCXEAMJlVs.jpg",
+            "width": 1200,
+            "height": 468
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/wNsGof_mEUYjBi9Bur36H7mPnqmATCjKrsy3GbMsJQE/https/pbs.twimg.com/media/FT3WpoCXEAMJlVs.jpg",
+              "width": 1200,
+              "height": 468
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD42",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f942.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "980447468770721822",
+      "type": "Default",
+      "timestamp": "2022-05-29T12:28:12.388+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'd like to get started on the \"What is Tokenomics?\" article.  \nIs there any reason not to start reaching out to the folks in labs?\nAny considerations on length, format, etc?",
+      "author": {
+        "id": "898291568321105953",
+        "name": "Gaian",
+        "discriminator": "0013",
+        "nickname": "Gaian",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898291568321105953/36d90f6c30b70db0e5e2b6b0a4a9da82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980448541472329748",
+      "type": "Reply",
+      "timestamp": "2022-05-29T12:32:28.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We would love to have an active queue of works so I think it would be great to get it moving. Let us know how we can help.",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "898291568321105953",
+          "name": "Gaian",
+          "discriminator": "0013",
+          "nickname": "Gaian",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "980447468770721822",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "980448679116820510",
+      "type": "Reply",
+      "timestamp": "2022-05-29T12:33:00.957+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What is the context it will be presented in?",
+      "author": {
+        "id": "898291568321105953",
+        "name": "Gaian",
+        "discriminator": "0013",
+        "nickname": "Gaian",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898291568321105953/36d90f6c30b70db0e5e2b6b0a4a9da82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "951130899498541108",
+          "name": "jasontphelpsNH",
+          "discriminator": "9486",
+          "nickname": "jasontphelpsNH",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "980448541472329748",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "980448866874851368",
+      "type": "Default",
+      "timestamp": "2022-05-29T12:33:45.722+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is it an article that can be of any length?\nIs it a paragraph nestled within a comprehensive FAQ section of a website?\nSomething else?",
+      "author": {
+        "id": "898291568321105953",
+        "name": "Gaian",
+        "discriminator": "0013",
+        "nickname": "Gaian",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898291568321105953/36d90f6c30b70db0e5e2b6b0a4a9da82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980449107892121652",
+      "type": "Reply",
+      "timestamp": "2022-05-29T12:34:43.185+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That is something I am not 100% sure about, which is why I didn't immediately address the other questions. I think it ultimately could be several of those things. That might be an interesting idea, write several pieces of copy from the initial FAQ answer.",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "898291568321105953",
+          "name": "Gaian",
+          "discriminator": "0013",
+          "nickname": "Gaian",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "980448679116820510",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "980449441062473848",
+      "type": "Default",
+      "timestamp": "2022-05-29T12:36:02.619+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For sure.  \nOr to extract several FAQs from an article.",
+      "author": {
+        "id": "898291568321105953",
+        "name": "Gaian",
+        "discriminator": "0013",
+        "nickname": "Gaian",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898291568321105953/36d90f6c30b70db0e5e2b6b0a4a9da82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980449513103831101",
+      "type": "Default",
+      "timestamp": "2022-05-29T12:36:19.795+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That too. That flexibility offers us a lot.",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980449774283145227",
+      "type": "Default",
+      "timestamp": "2022-05-29T12:37:22.065+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gideon indicated that this was greenlit by a working group.  \nDo you know who the point person is?",
+      "author": {
+        "id": "898291568321105953",
+        "name": "Gaian",
+        "discriminator": "0013",
+        "nickname": "Gaian",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898291568321105953/36d90f6c30b70db0e5e2b6b0a4a9da82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980450336693174333",
+      "type": "Default",
+      "timestamp": "2022-05-29T12:39:36.154+00:00",
+      "timestampEdited": "2022-05-29T12:40:00.127+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It would be Communitas due to its applicability to the FAQ and web site. Looking back at the agenda, one of the specific questions from the prior Communitas session was \"What is Token Engineering?\" I think that follows/partners with from \"What is Tokenomics?\"",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980877990151987272",
+      "type": "Reply",
+      "timestamp": "2022-05-30T16:58:56.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Need to hold off on these ones for right now - still thinking through where this would go. What about the piece on Tam's talk, @Gaian - are you still on for that one?",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "898291568321105953",
+          "name": "Gaian",
+          "discriminator": "0013",
+          "nickname": "Gaian",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "980447468770721822",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "981343896896409630",
+      "type": "Default",
+      "timestamp": "2022-05-31T23:50:17.508+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think we should do a story on the TEC's conviction voting - it's pretty cool",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "981541882767224886",
+      "type": "Reply",
+      "timestamp": "2022-06-01T12:57:01.018+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Definitely a great idea. Any clue as to what other DAOs might use this same process and any other writings about it?",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "343470788491476992",
+          "name": "GideonRo",
+          "discriminator": "3175",
+          "nickname": "Gideonro",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "981343896896409630",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "981554064414363658",
+      "type": "Reply",
+      "timestamp": "2022-06-01T13:45:25.349+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sure, I can do that one first.",
+      "author": {
+        "id": "898291568321105953",
+        "name": "Gaian",
+        "discriminator": "0013",
+        "nickname": "Gaian",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/898291568321105953/36d90f6c30b70db0e5e2b6b0a4a9da82.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "343470788491476992",
+          "name": "GideonRo",
+          "discriminator": "3175",
+          "nickname": "Gideonro",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "980877990151987272",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "981625009271349318",
+      "type": "Reply",
+      "timestamp": "2022-06-01T18:27:19.921+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What days/times would be a good fit if we were to make a change for the Writers Guild meeting time? We are considering having weekly meetings, with two meetings per month at the same date/time as we do now, and then two on the opposite weeks on a different date/time? Thank you!",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "928678643822112868",
+          "name": "Incandenza",
+          "discriminator": "1594",
+          "nickname": "Incandenza",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "977216591236329553",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "981639135750131794",
+      "type": "Default",
+      "timestamp": "2022-06-01T19:23:27.936+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @jasontphelpsNH, consider that I am n utc+2 (cest), any time that falls between 9 a.m. and 7 p.m here. for me should be fine But please base your schedule on your convenience and not mine as I don't know how consistent I will be with my participation. I'll do my best to join a meeting a get to know you though",
+      "author": {
+        "id": "928678643822112868",
+        "name": "Incandenza",
+        "discriminator": "1594",
+        "nickname": "Incandenza",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/928678643822112868/9c59b1c765d2f9c1cfe4028080b1b57a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f525.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "951130899498541108",
+          "name": "jasontphelpsNH",
+          "discriminator": "9486",
+          "nickname": "jasontphelpsNH",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "982005323315425340",
+      "type": "Default",
+      "timestamp": "2022-06-02T19:38:33.855+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/hollyherndon/status/1532444518771044354",
+      "author": {
+        "id": "704131286448734289",
+        "name": "taxil",
+        "discriminator": "8577",
+        "nickname": "taxil",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704131286448734289/a_17a7a2520fe0801429dffec120579fc9.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/hollyherndon/status/1532444518771044354",
+          "timestamp": "2022-06-02T19:30:19.374+00:00",
+          "description": ".@LILINTERNET coined this term and it captures everything I am excited about at the moment\n\nCommunity networks that generate their own media together under a shared vision, forged in discords and publishing under one voice\n\nHere are some examples to check out \uD83E\uDE9C",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Holly Herndon (@hollyherndon)",
+            "url": "https://twitter.com/hollyherndon",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/aIXSwU1jH9qRA-HmgMYYwYQ_jVfh7xxs3HsN9ONNiSc/https/pbs.twimg.com/profile_images/1522357323490070528/mjdO1cvh_400x400.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "982005359583559700",
+      "type": "Default",
+      "timestamp": "2022-06-02T19:38:42.502+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sounds familiar",
+      "author": {
+        "id": "704131286448734289",
+        "name": "taxil",
+        "discriminator": "8577",
+        "nickname": "taxil",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704131286448734289/a_17a7a2520fe0801429dffec120579fc9.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "835016327542210560",
+            "name": "TEC",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/835016327542210560.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "982006241658290256",
+      "type": "Reply",
+      "timestamp": "2022-06-02T19:42:12.805+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Digital DJs and MCs collaborating across space and time. My wife and I have talked about the parallels to how some genres of music grew up out of intense collaboration and coordination. Making the space bigger so everybody has a shot to step through. Truly a pleasure to explore.",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️‍\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2764-fe0f-200d-1f525.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "704131286448734289",
+          "name": "taxil",
+          "discriminator": "8577",
+          "nickname": "taxil",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "982005323315425340",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "982020189963055114",
+      "type": "Default",
+      "timestamp": "2022-06-02T20:37:38.34+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "would it be poss for me to get a diff't role -- just to avoid the new member pings?",
+      "author": {
+        "id": "704131286448734289",
+        "name": "taxil",
+        "discriminator": "8577",
+        "nickname": "taxil",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704131286448734289/a_17a7a2520fe0801429dffec120579fc9.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "982328850568597524",
+      "type": "Reply",
+      "timestamp": "2022-06-03T17:04:08.763+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "let me take a look",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "704131286448734289",
+          "name": "taxil",
+          "discriminator": "8577",
+          "nickname": "taxil",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "982020189963055114",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "982329057570062336",
+      "type": "Default",
+      "timestamp": "2022-06-03T17:04:58.116+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "done, @taxil \uD83D\uDE42",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "704131286448734289",
+          "name": "taxil",
+          "discriminator": "8577",
+          "nickname": "taxil",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "983409151927541810",
+      "type": "Default",
+      "timestamp": "2022-06-06T16:36:52.678+00:00",
+      "timestampEdited": "2022-06-06T16:37:04.318+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Here's the agenda for the 6/7 Writers Guild meeting. You will find us in our voice channel at 5 PM EST. \n\nhttps://app.clarity.so/tecwriters/pages/91fa6565-8136-46ca-84d4-1ab5e6a8928e",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "983409151986245642",
+          "url": "https://cdn.discordapp.com/attachments/974720298228256809/983409151986245642/wg_agenda_6-7-22.png",
+          "fileName": "wg_agenda_6-7-22.png",
+          "fileSizeBytes": 76714
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Clarity — The simplest workspace for decentralized teams",
+          "url": "https://app.clarity.so/tecwriters/pages/91fa6565-8136-46ca-84d4-1ab5e6a8928e",
+          "timestamp": null,
+          "description": "Connect your wallet, share token-gated documents, coordinate projects and proposals, track tasks, trade notes, and build your own personal Wikipedia—in a familiar all-in-one workspace.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983756147108483124",
+      "type": "Reply",
+      "timestamp": "2022-06-07T15:35:42.776+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ty ty ty",
+      "author": {
+        "id": "704131286448734289",
+        "name": "taxil",
+        "discriminator": "8577",
+        "nickname": "taxil",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704131286448734289/a_17a7a2520fe0801429dffec120579fc9.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "343470788491476992",
+          "name": "GideonRo",
+          "discriminator": "3175",
+          "nickname": "Gideonro",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "982328850568597524",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "983756296379580436",
+      "type": "Reply",
+      "timestamp": "2022-06-07T15:36:18.365+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i'll have to miss today's meeting, apologies -- i'll be having way more fun at the dentist",
+      "author": {
+        "id": "704131286448734289",
+        "name": "taxil",
+        "discriminator": "8577",
+        "nickname": "taxil",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704131286448734289/a_17a7a2520fe0801429dffec120579fc9.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "951130899498541108",
+          "name": "jasontphelpsNH",
+          "discriminator": "9486",
+          "nickname": "jasontphelpsNH",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "983409151927541810",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "983756785750007829",
+      "type": "Reply",
+      "timestamp": "2022-06-07T15:38:15.04+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I will report back our jealousy. \uD83D\uDE09",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "704131286448734289",
+          "name": "taxil",
+          "discriminator": "8577",
+          "nickname": "taxil",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "983756296379580436",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "983837012467519549",
+      "type": "Default",
+      "timestamp": "2022-06-07T20:57:02.58+00:00",
+      "timestampEdited": "2022-06-07T20:57:08.446+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Felt pretty good to click publish on my first blog piece in over 5 years. I am tending to the gardens at home again, and I wrote about the 20+ year home gardening journey we've been on where I am currently living.\n\nhttps://medium.com/@jasonphelpsnh/back-in-the-garden-b4ac93ac93a3",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44f.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "☺️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/263a.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "984109331287015566",
+      "type": "Default",
+      "timestamp": "2022-06-08T14:59:08.446+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I went ahead and created a \"Writers\" role with a small icon last night. If anyone would like the icon/color scheme to be different, let me know and I'll make the changes this evening. \uD83E\uDD13 \uD83D\uDCDD",
+      "author": {
+        "id": "336423896599232512",
+        "name": "r33pich33p",
+        "discriminator": "6906",
+        "nickname": "gene",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336423896599232512/8c721904ac7c7adb8df0725ab803dcd3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "984109965629325333",
+      "type": "Reply",
+      "timestamp": "2022-06-08T15:01:39.685+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Neat, thank you!",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "336423896599232512",
+          "name": "r33pich33p",
+          "discriminator": "6906",
+          "nickname": "gene",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "984109331287015566",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "984466396664692778",
+      "type": "Reply",
+      "timestamp": "2022-06-09T14:37:59.466+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I actually noticed that yesterday and was wondering how that happened!",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE01",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f601.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE05",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f605.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "336423896599232512",
+          "name": "r33pich33p",
+          "discriminator": "6906",
+          "nickname": "gene",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "984109331287015566",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "984742003302608896",
+      "type": "Reply",
+      "timestamp": "2022-06-10T08:53:09.209+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice piece Jason! I'm thoroughly envious of your garden and woodlands. Living in the desert has its benefits (no snow \uD83D\uDE01 ) and its detriments (few gardens beyond cacti \uD83D\uDE05 ). I hope to have the opportunity to be as brave as you and \"go back to the roots\" someday. Cheers m8. \uD83C\uDF7B \uD83C\uDF31",
+      "author": {
+        "id": "336423896599232512",
+        "name": "r33pich33p",
+        "discriminator": "6906",
+        "nickname": "gene",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336423896599232512/8c721904ac7c7adb8df0725ab803dcd3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "951130899498541108",
+          "name": "jasontphelpsNH",
+          "discriminator": "9486",
+          "nickname": "jasontphelpsNH",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "983837012467519549",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "984789186475347990",
+      "type": "Reply",
+      "timestamp": "2022-06-10T12:00:38.554+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you so much Gene! I've never lived outside New England so I don't really know that difference first hand. I have travelled a bit and have seen how different my home area really is. I always want to get back. \n\nMaking the garden spaces at home therapeutic in a number of ways. I used to work in Boston during the day, and after the 90 commute I was always so happy to be back home \"in the woods\". Oddly enough, the major interstate is less than a mile due East. We can hear it, but it is hidden by largely forested land so we aren't bothered by it. It is a good balance to be close to the routes to head pretty much anywhere, but tucked away on a quite wooded street with some peace. \n\nIf you ever get out my way come chill in the garden with us!",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64f.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "336423896599232512",
+          "name": "r33pich33p",
+          "discriminator": "6906",
+          "nickname": "gene",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "984742003302608896",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "984921033305907220",
+      "type": "Default",
+      "timestamp": "2022-06-10T20:44:33.288+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @Writer  I've got a message to TEC token holders that could use some eyes on it. It's already fairly far down the review process, having gotten feedback from the stewards and a bunch of resulting changes. So, no major directional changes. What I am looking for are areas that seem unclear or could be said with more concision. Could I get some help?\n\n@taxil, I'm also wondering whether you would be willing and able to do an editorial pass, on say Wed of next week?\n\nhttps://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing \n\n\uD83D\uDE4F",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Message to TEC Token Holders",
+          "url": "https://docs.google.com/document/d/1D0lwEXWm37COQGU5aE9UpMNkjO1m-xP12jVPoMUxLHs/edit?usp=sharing",
+          "timestamp": null,
+          "description": "Message to TEC Token Holders  Draft 1.0 It’s been a little over four months since the Token Engineering Commons (the TEC) became an official DAO. That wouldn’t have happened without you and other mission-driven funders.  A lot has happened in that short time and a lot more is coming. As stewards...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Lg9iphFvhtJJaIEnUOyYZr8FOwlbWRB7QWnInqXzl3E/https/lh6.googleusercontent.com/GgHVEcz6MYKh9T9wQsX5ltESgzN2I7c3RT3cIeMRA7iimAfqDlTV5WpPxCdiAanpBJF-fmSg7AMthg%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "704131286448734289",
+          "name": "taxil",
+          "discriminator": "8577",
+          "nickname": "taxil",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "985133092983427132",
+      "type": "Reply",
+      "timestamp": "2022-06-11T10:47:12.255+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I only found one grammatical issue after a pass through. I am musing over the entire letter from the perspective of a shareholder update or similar documentation. I've been involved in helping portfolio managers prepare information for institutional fund managers so I have a few different experiences to reflect on. I'll let you know if I come up with anything useful.",
+      "author": {
+        "id": "951130899498541108",
+        "name": "jasontphelpsNH",
+        "discriminator": "9486",
+        "nickname": "jasontphelpsNH",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/951130899498541108/d266ca4c7dd290ec817943de22c38e4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "343470788491476992",
+          "name": "GideonRo",
+          "discriminator": "3175",
+          "nickname": "Gideonro",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "984921033305907220",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "985168955238912050",
+      "type": "Reply",
+      "timestamp": "2022-06-11T13:09:42.483+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks very much, Jason!",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "951130899498541108",
+          "name": "jasontphelpsNH",
+          "discriminator": "9486",
+          "nickname": "jasontphelpsNH",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "985133092983427132",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "988909176736612402",
+      "type": "Default",
+      "timestamp": "2022-06-21T20:52:00.778+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can’t make it tonight, i’ve got a couple of nft nyc things happening. sorry for the late notice",
+      "author": {
+        "id": "704131286448734289",
+        "name": "taxil",
+        "discriminator": "8577",
+        "nickname": "taxil",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704131286448734289/a_17a7a2520fe0801429dffec120579fc9.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991553964988448828",
+      "type": "Default",
+      "timestamp": "2022-06-29T04:01:27.435+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "New article on web3 just wrote: https://t.co/UWHoiTyE5j",
+      "author": {
+        "id": "822117621754363956",
+        "name": "Terexitarius",
+        "discriminator": "4750",
+        "nickname": "Terexitarius",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822117621754363956/9bdab1d259288622559fdd956102e843.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "What is Web3 and Web2?",
+          "url": "https://t.co/UWHoiTyE5j",
+          "timestamp": null,
+          "description": "The internet is now highly utilized globally for education, healthcare, business opportunities, etc. Phones are connecting to the internet…",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/k0D0bXS7BL3I-YWG8dj9Z6m1p_HflzmsWplA72u8Uwk/https/miro.medium.com/max/1200/0%2A6CR7Q4-vCupmLN5v",
+            "width": 1070,
+            "height": 514
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f440.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "992418356432994324",
+      "type": "Default",
+      "timestamp": "2022-07-01T13:16:14.415+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://giveth.io/project/proof-of-vibes",
+      "author": {
+        "id": "700029358735360000",
+        "name": "russlive215 (\uD83E\uDDD9\uD83C\uDFFE, \uD83E\uDDD9\uD83C\uDFFE)︱40ACRES",
+        "discriminator": "8460",
+        "nickname": "russlive215 (\uD83E\uDDD9\uD83C\uDFFE, \uD83E\uDDD9\uD83C\uDFFE)︱40ACRES",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/700029358735360000/b7a6e29b200e089dec7d1822fbe1484b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Check out Proof of Vibes",
+          "url": "https://giveth.io/project/proof-of-vibes",
+          "timestamp": null,
+          "description": "Proof of vibesWhat's the single most important indicator in all of Web 3? Mos",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/kWUcDo97PVIcyN4tdOTtB_R2sh0JO1LLOT_i3lnRKQc/%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DMnwzMTUyNjN8MHwxfHNlYXJjaHw0fHxwYXJ0eXxlbnwwfDB8fHwxNjU2NjM0ODUw%26ixlib%3Drb-1.2.1%26q%3D80%26w%3D1080/https/images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3",
+            "width": 1080,
+            "height": 721
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992418489916727386",
+      "type": "Default",
+      "timestamp": "2022-07-01T13:16:46.24+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would someone mind taking a look at my giveth proposal ? Could use some feedback",
+      "author": {
+        "id": "700029358735360000",
+        "name": "russlive215 (\uD83E\uDDD9\uD83C\uDFFE, \uD83E\uDDD9\uD83C\uDFFE)︱40ACRES",
+        "discriminator": "8460",
+        "nickname": "russlive215 (\uD83E\uDDD9\uD83C\uDFFE, \uD83E\uDDD9\uD83C\uDFFE)︱40ACRES",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/700029358735360000/b7a6e29b200e089dec7d1822fbe1484b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994989472452194366",
+      "type": "Default",
+      "timestamp": "2022-07-08T15:32:56.243+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@GideonRo hey!\nI am a front end dev, with a rich background in marketing and PR\nI am a good copywriter too, I write web copies, novels, articles since i was 12 years old\n\nHow can i contribute to TEC?",
+      "author": {
+        "id": "917879013228302398",
+        "name": "sandrabubbles.btc",
+        "discriminator": "7307",
+        "nickname": "sandrabubbles.btc",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/917879013228302398/4fb678be8c4d60ecf4ca50de649e1526.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "343470788491476992",
+          "name": "GideonRo",
+          "discriminator": "3175",
+          "nickname": "Gideonro",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "994992766323011625",
+      "type": "Reply",
+      "timestamp": "2022-07-08T15:46:01.563+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @sandrabubbles.btc . I'm out on vacation right now but drop me a DM and we can find a time to chat when I return.",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "917879013228302398",
+          "name": "sandrabubbles.btc",
+          "discriminator": "7307",
+          "nickname": "sandrabubbles.btc",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "994989472452194366",
+        "channelId": "974720298228256809",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1001151119487148082",
+      "type": "Default",
+      "timestamp": "2022-07-25T15:37:07.374+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dear Token Engineers, \nwe are excited to invite you to our first focus group discussion about the practical applicability of the TE Value System, jointly organized with the OMEGA WG. The focus group will take place on July 26, 2022, 5 PM CET in the Omega Channel of the TEC discord and will not be longer than two hours. \nTo register, please fill out this form: https://forms.gle/GQZ6dLXgdJi8D9Bf8 \nPlease share this call widely. \nWe look forward to talking to you soon! \nFelix and Lydia",
+      "author": {
+        "id": "821745137658232862",
+        "name": "Lydia",
+        "discriminator": "2825",
+        "nickname": "Lydia",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1001151119768170506",
+          "url": "https://cdn.discordapp.com/attachments/974720298228256809/1001151119768170506/Focus_Group_Discussions_Abstract.jpg",
+          "fileName": "Focus_Group_Discussions_Abstract.jpg",
+          "fileSizeBytes": 831543
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Focus Group #1: TEC Value System",
+          "url": "https://forms.gle/GQZ6dLXgdJi8D9Bf8",
+          "timestamp": null,
+          "description": "registration for focus group #1 on the TEC value system's practical applicability on July 26th, 6pm CET",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/XVtLxdltMAtRPGdUuTtpOZ81QOkAA4c8GEid0wPKhcM/https/lh4.googleusercontent.com/f1FgZpo3OynjBYiWQBo_j7uN3_nK_azXYfb5RppuvDOSq6hLY-WsWOGzLp6TNivzfCZcOYVtXok%3Dw1200-h630-p",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1001494426046185552",
+      "type": "Default",
+      "timestamp": "2022-07-26T14:21:18.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dear all, \n\nThe focus group on the practical applicability of the TE Value System, jointly organized with the OMEGA WG, is starting in less than an hour (5pm CET / 11AM EST) in the Omega Channel of the TEC discord. \nanonymized results will be published in a report and presented and discussed during the Crypto Commons Gathering end of August.\n\nLooking forward to see many of you there!\n\nBest,\nLydia and Felix",
+      "author": {
+        "id": "821745137658232862",
+        "name": "Lydia",
+        "discriminator": "2825",
+        "nickname": "Lydia",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1004272162431053875",
+      "type": "Default",
+      "timestamp": "2022-08-03T06:19:01.998+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey guys, maybe I could try and ask a favour.\n\nDo TEC anywhere have a written version of what the WGs here are about, in synopsis?\n\nI've asked about making short videos, which received little response, but I'm thinking Writers Guild must have some overviews, surely?\n\nI'm afraid AMAs are hard for me to attend, and I suspect having asynch access options would also benefit TEC more broadly.",
+      "author": {
+        "id": "530682470232883210",
+        "name": "innov8tor3",
+        "discriminator": "3988",
+        "nickname": "innov8tor3",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/530682470232883210/193353ccfcbc44b9892dbb7a5862c455.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1008976135897497661",
+      "type": "Default",
+      "timestamp": "2022-08-16T05:50:56.668+00:00",
+      "timestampEdited": "2022-08-27T22:45:32.13+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello everyone I'm a content writer and researcher i'd love to contribute to the writer guild, where can I begin?",
+      "author": {
+        "id": "962442526181163078",
+        "name": "Royalty",
+        "discriminator": "3684",
+        "nickname": "Royalty",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/962442526181163078/68477bf9a733a67a4b18d71dffec2f4e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017837871211745321",
+      "type": "Default",
+      "timestamp": "2022-09-09T16:44:19.01+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://link.medium.com/byoYUFeCatb\n\n\nMy current article! You should give it a shot",
+      "author": {
+        "id": "889991899266568272",
+        "name": "Rubiks",
+        "discriminator": "3232",
+        "nickname": "Rubiks",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/889991899266568272/acd9fa4759c28863048db7c667870444.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Token Econometrics: An Approach to Designing Tokens",
+          "url": "https://link.medium.com/byoYUFeCatb",
+          "timestamp": null,
+          "description": "In crypto-economics, it is nearly impossible to have a token without a protocol, a protocol without an ecosystem, an ecosystem without an…",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/di8ZeUNnYqk-Ytf5d-w6z9bm1in4XD1thU5PaNL3OLg/https/miro.medium.com/max/1200/1%2AbS3R0gFTwB-sIV1bXFum1w.png",
+            "width": 1200,
+            "height": 1200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1020297365124567050",
+      "type": "Default",
+      "timestamp": "2022-09-16T11:37:28.054+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/RubiksWeb3hub/status/1570495570585976832?t=_nSn0j6w78PnlqYkmJffiw&s=19",
+      "author": {
+        "id": "889991899266568272",
+        "name": "Rubiks",
+        "discriminator": "3232",
+        "nickname": "Rubiks",
+        "color": "#4FCDFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/889991899266568272/acd9fa4759c28863048db7c667870444.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/RubiksWeb3hub/status/1570495570585976832?t=_nSn0j6w78PnlqYkmJffiw&s=19",
+          "timestamp": "2022-09-15T19:31:37.081+00:00",
+          "description": "Non Fungible Token Design: The Structure of Yield Generating Tokens. \nMy Tutor, @SamuelXeus always said to his community \"Never research a tree, but rather, research what makes the tree stand\" \nLately, NFT Yield tokens have been mooning, how do they exist to moon? \nFollow up \uD83D\uDC47",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "RubiksHub (♟️,♟️) (@RubiksWeb3hub)",
+            "url": "https://twitter.com/RubiksWeb3hub",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/RvFHXgyMvwgL6HcTnWXpk2AlLhfrD6dK3KxjZSqMCb0/https/pbs.twimg.com/profile_images/1570504447469535232/qTdMUhqR_400x400.jpg"
+          },
+          "image": {
+            "url": "https://images-ext-2.discordapp.net/external/H7pZhSIV1AxGoTDfPr5i0_U4sgCMPRQKFd-TOn1pobQ/https/pbs.twimg.com/media/FcuFZe_XgAABhOP.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-2.discordapp.net/external/H7pZhSIV1AxGoTDfPr5i0_U4sgCMPRQKFd-TOn1pobQ/https/pbs.twimg.com/media/FcuFZe_XgAABhOP.jpg",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 84
+}

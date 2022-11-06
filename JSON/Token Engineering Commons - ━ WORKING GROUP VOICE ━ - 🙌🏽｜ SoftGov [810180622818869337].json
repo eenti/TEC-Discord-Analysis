@@ -1,0 +1,929 @@
+{
+  "guild": {
+    "id": "810180621930070088",
+    "name": "Token Engineering Commons",
+    "iconUrl": "https://cdn.discordapp.com/icons/810180621930070088/a_63973c670c5e6c42096470ebcb6a0301.gif"
+  },
+  "channel": {
+    "id": "810180622818869337",
+    "type": "GuildVoiceChat",
+    "categoryId": "816362403947479060",
+    "category": "━ WORKING GROUP VOICE ━",
+    "name": "\uD83D\uDE4C\uD83C\uDFFD｜ SoftGov",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "984853502541066280",
+      "type": "Default",
+      "timestamp": "2022-06-10T16:16:12.699+00:00",
+      "timestampEdited": "2022-06-10T16:16:20.227+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oooooh Softgov has the chat too!! ⚡",
+      "author": {
+        "id": "751417874886688798",
+        "name": "Tamarandom",
+        "discriminator": "9361",
+        "nickname": "Tamarandom",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/751417874886688798/2654f95ffa0a47282c16ea274733b86d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "984853732179214336",
+      "type": "Default",
+      "timestamp": "2022-06-10T16:17:07.449+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh yeah! I see this!",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "984853795999715419",
+      "type": "Default",
+      "timestamp": "2022-06-10T16:17:22.665+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "me too. much wow",
+      "author": {
+        "id": "417979381332443136",
+        "name": "natesuits",
+        "discriminator": "4789",
+        "nickname": "natesuits",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417979381332443136/d145fdbe6fea9d40b4a5e729859a2a2f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "989214127752884246",
+      "type": "Default",
+      "timestamp": "2022-06-22T17:03:46.766+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll be right back",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "989214716209557544",
+      "type": "Default",
+      "timestamp": "2022-06-22T17:06:07.065+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the question is a heat check?",
+      "author": {
+        "id": "183879548394274816",
+        "name": "Zeptimus",
+        "discriminator": "3359",
+        "nickname": "Zeptimus",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "989216110618480660",
+      "type": "Default",
+      "timestamp": "2022-06-22T17:11:39.518+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think the treasury decision should be looped in softgov",
+      "author": {
+        "id": "183879548394274816",
+        "name": "Zeptimus",
+        "discriminator": "3359",
+        "nickname": "Zeptimus",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183879548394274816/5e45f3338bd1b9a2a524cde1083166f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "989217239272149094",
+      "type": "Default",
+      "timestamp": "2022-06-22T17:16:08.61+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Support for ERC 1155\nhttps://eips.ethereum.org/EIPS/eip-1155",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "EIP-1155: Multi Token Standard",
+          "url": "https://eips.ethereum.org/EIPS/eip-1155",
+          "timestamp": null,
+          "description": "",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "989217901305299015",
+      "type": "Default",
+      "timestamp": "2022-06-22T17:18:46.451+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@enti - do you have a link to the channel where they're taking input?\n\nI'm hesitant to do that though - as I think it's probably best if we sync as a community",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "452115639381786624",
+          "name": "enti",
+          "discriminator": "1546",
+          "nickname": "enti",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "989218504261660693",
+      "type": "Reply",
+      "timestamp": "2022-06-22T17:21:10.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's a thread on this channel https://discord.gg/cEzBYSW5, it's okay if you rather sync with the community but if you think the ERC-1155 idea may make Gardens just a great product overall, why not?",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Discord | Your Place to Talk and Hang Out",
+          "url": "https://discord.gg/cEzBYSW5,",
+          "timestamp": null,
+          "description": "Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/pL0w57uLXr8vYKityoLlH1CVuGCs0fB5xnrWKO8Fqoo/https/discord.com/assets/652f40427e1f5186ad54836074898279.png",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "343470788491476992",
+          "name": "GideonRo",
+          "discriminator": "3175",
+          "nickname": "Gideonro",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "989217901305299015",
+        "channelId": "810180622818869337",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "989224817783898154",
+      "type": "Default",
+      "timestamp": "2022-06-22T17:46:15.468+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That's a good idea",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991762258256470087",
+      "type": "Default",
+      "timestamp": "2022-06-29T17:49:08.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ty for the update",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1001907089481924648",
+      "type": "Default",
+      "timestamp": "2022-07-27T17:41:04.666+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Kojak here",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "755383991300915290",
+          "name": "Kojak",
+          "discriminator": "5611",
+          "nickname": "Kojak",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1001907335989559346",
+      "type": "Default",
+      "timestamp": "2022-07-27T17:42:03.438+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no problem, @Kojak",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "755383991300915290",
+          "name": "Kojak",
+          "discriminator": "5611",
+          "nickname": "Kojak",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1001909578662957086",
+      "type": "Default",
+      "timestamp": "2022-07-27T17:50:58.133+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Here’s the swot for reference https://www.figma.com/file/eOpw3TGdXfstzkYJdyassn/TEC-SWOT-Analysis?node-id=0%3A1",
+      "author": {
+        "id": "836058804759691265",
+        "name": "bear100",
+        "discriminator": "9085",
+        "nickname": "bear100",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TEC SWOT Analysis",
+          "url": "https://www.figma.com/file/eOpw3TGdXfstzkYJdyassn/TEC-SWOT-Analysis?node-id=0%3A1",
+          "timestamp": null,
+          "description": "Created with FigJam",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/UZ1gCYdffXGXYEM0W8XeR-PjnbmR73sSDfm3ZSqLRYU/%3Fver%3Dthumbnails%2Fcd8053a8-8ed4-41d8-b3aa-5797beed75f8/https/www.figma.com/file/eOpw3TGdXfstzkYJdyassn/thumbnail",
+            "width": 800,
+            "height": 480
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1001911570122690671",
+      "type": "Default",
+      "timestamp": "2022-07-27T17:58:52.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so creating multiple token streams? one for each project?",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1009513072345501758",
+      "type": "Default",
+      "timestamp": "2022-08-17T17:24:32.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tokenomicsdao.com/",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tokenomics DAO",
+          "url": "https://tokenomicsdao.com/",
+          "timestamp": null,
+          "description": "Exploring tokenomics",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017120219291979947",
+      "type": "Default",
+      "timestamp": "2022-09-07T17:12:37.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4B Just listening if I may.",
+      "author": {
+        "id": "570352029239738450",
+        "name": "rathermercurial",
+        "discriminator": "2096",
+        "nickname": "rathermercurial",
+        "color": "#9AF3DF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570352029239738450/a_1e025a41ffb50d4c1a63ea8b21b5753a.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019662086680350791",
+      "type": "Default",
+      "timestamp": "2022-09-14T17:33:05.87+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gotta hop off, see you next week",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019662490063347722",
+      "type": "Default",
+      "timestamp": "2022-09-14T17:34:42.044+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I also gotta leave earlier, thanks livi! :PeepoBeeKind:  and thanks Gideon & bear for these great insights! we need tons of this advice in comms",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f49a.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1019663710479986739",
+      "type": "Default",
+      "timestamp": "2022-09-14T17:39:33.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/document/d/1qLhhf_mjZOLJ2N_9stmKF7HB85IoG--P9zHuR7lcs3Q/edit",
+      "author": {
+        "id": "836058804759691265",
+        "name": "bear100",
+        "discriminator": "9085",
+        "nickname": "bear100",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/836058804759691265/952ab2b376f5746260db4d3793812e99.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MVP - Sampo Journey v1 - Reputation / Memberships System",
+          "url": "https://docs.google.com/document/d/1qLhhf_mjZOLJ2N_9stmKF7HB85IoG--P9zHuR7lcs3Q/edit",
+          "timestamp": null,
+          "description": "MVP - Sampo Journey v1 - Reputation / Memberships System Objective:  Create the first version of a reputation system based on experiences as a stepping stone for it's constant iteration and improvement  Integrate the current membership initiatives from Communitas WG Use Sampo WG as the first test...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/0-XQUlJLWkEBVEpn1RcRzWfE84UbKZMMd2Wg0onAe7k/https/lh3.googleusercontent.com/T7uCUmtgccJH5j5kebwdbWBgzV2hyeTz8rC7iDuM9sz-6jMk2VnZB4aUHTZz5JBjcW0iTRXZaREZjg%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019667475551502348",
+      "type": "Default",
+      "timestamp": "2022-09-14T17:54:30.677+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://pol.is/report/r7myzbfbbfu3dvcuxacf3",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019667721526448278",
+      "type": "Default",
+      "timestamp": "2022-09-14T17:55:29.322+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "+1",
+      "author": {
+        "id": "480023322080444427",
+        "name": "liviade",
+        "discriminator": "1387",
+        "nickname": "liviade",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480023322080444427/5749f33d32f3d2bf7084c18540ead477.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019669006841544815",
+      "type": "Default",
+      "timestamp": "2022-09-14T18:00:35.765+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sorry - i need to run to another call. Thanks for the great discussion!",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1024732054417584169",
+      "type": "Default",
+      "timestamp": "2022-09-28T17:19:20.374+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how much would tokenomics dao be requesting? sounds like something it would be worth to pick up on.. Maybe contribute with an amount from marketing?",
+      "author": {
+        "id": "727934296387616848",
+        "name": "chuygarcia.eth",
+        "discriminator": "6692",
+        "nickname": "chuygarcia.eth",
+        "color": "#24C758",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/727934296387616848/2f12201018305f5baedd47becfeff5b4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1024732163154903080",
+      "type": "Reply",
+      "timestamp": "2022-09-28T17:19:46.299+00:00",
+      "timestampEdited": "2022-09-28T17:19:48.155+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "around 10k",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "727934296387616848",
+          "name": "chuygarcia.eth",
+          "discriminator": "6692",
+          "nickname": "chuygarcia.eth",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1024732054417584169",
+        "channelId": "810180622818869337",
+        "guildId": "810180621930070088"
+      }
+    },
+    {
+      "id": "1024732173443534908",
+      "type": "Default",
+      "timestamp": "2022-09-28T17:19:48.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "12k",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1024734183400161430",
+      "type": "Default",
+      "timestamp": "2022-09-28T17:27:47.963+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, I wonder if we could do some sort of matching role?",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1024734427890327552",
+      "type": "Default",
+      "timestamp": "2022-09-28T17:28:46.254+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Proposal inverter connection is a great idea too! Maybe we match funding raised through it?",
+      "author": {
+        "id": "343470788491476992",
+        "name": "GideonRo",
+        "discriminator": "3175",
+        "nickname": "Gideonro",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343470788491476992/3c5afa5802fa9141637d0ef670b76864.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1024734440804597861",
+      "type": "Default",
+      "timestamp": "2022-09-28T17:28:49.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that was kind of my point, we are so much more than the money on our common pool",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "913105956617982074",
+            "name": "this",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/913105956617982074.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C\uD83C\uDFFB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f64c-1f3fb.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1024734531619672177",
+      "type": "Default",
+      "timestamp": "2022-09-28T17:29:10.985+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and to survive in these times of scarcity we have to start taking advantage of that",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1027273081561034762",
+      "type": "Default",
+      "timestamp": "2022-10-05T17:36:28.455+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.orangeprotocol.io/",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Orange Protocol",
+          "url": "https://www.orangeprotocol.io/",
+          "timestamp": null,
+          "description": "Trustless Reputation Wherever You Need It",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/vUgd1_duv3aLiZqS8zQRP_pdpPFez4fdbmcSbXzjPFU/https/www.orangeprotocol.io/assets/thumbnail.png",
+            "width": 1043,
+            "height": 1042
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1027273103484657725",
+      "type": "Default",
+      "timestamp": "2022-10-05T17:36:33.682+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@r33pich33p",
+      "author": {
+        "id": "452115639381786624",
+        "name": "enti",
+        "discriminator": "1546",
+        "nickname": "enti",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452115639381786624/9e4c7c77d3de4bedf650021dabb5cced.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "336423896599232512",
+          "name": "r33pich33p",
+          "discriminator": "6906",
+          "nickname": "gene",
+          "isBot": false
+        }
+      ]
+    }
+  ],
+  "messageCount": 32
+}
